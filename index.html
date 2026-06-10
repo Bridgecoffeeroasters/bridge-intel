@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Bridge Coffee Roasters — Market intelligence</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --blue:#213242; --ink:#4A5460;
+  --bone:#F6F3EE; --paper:#FFFFFF;
+  --stone100:#ECECE6; --stone200:#DAD9D2; --stone300:#B8B6AD;
+  --accent-stone:#8CA0AA; --mist:#D9CBC7; --espresso:#3A1D10; --clay:#9F7E74;
+  --sage:#6B705C; --putty:#B6B49F; --filter:#E04D2B; --amber:#DD810F;
+  --radius:8px; --shadow:0 1px 3px rgba(33,50,66,.08);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Montserrat',sans-serif;background:var(--bone);color:var(--blue);font-size:16px;line-height:1.55}
+a{color:var(--blue)}
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--ink)}
+.wordmark{font-weight:700;letter-spacing:.32em;font-size:22px;color:#fff;line-height:1}
+.wordmark small{display:block;font-weight:500;letter-spacing:.28em;font-size:10px;margin-top:5px;text-transform:lowercase}
+header{background:var(--blue);color:#fff;padding:0}
+.hwrap{max-width:1180px;margin:0 auto;padding:22px 24px;display:flex;align-items:center;gap:28px;flex-wrap:wrap}
+.hwrap .tagline{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.6);font-weight:600;margin-left:auto}
+nav{background:var(--blue);border-top:1px solid rgba(255,255,255,.12)}
+.nwrap{max-width:1180px;margin:0 auto;padding:0 24px;display:flex;gap:4px;overflow-x:auto}
+nav a{color:rgba(255,255,255,.72);text-decoration:none;font-size:14px;font-weight:600;padding:14px 16px;border-bottom:3px solid transparent;white-space:nowrap}
+nav a.active{color:#fff;border-bottom-color:var(--amber)}
+nav a:hover{color:#fff}
+main{max-width:1180px;margin:0 auto;padding:36px 24px 80px}
+h1{font-size:36px;font-weight:700;line-height:1.15;margin-bottom:8px}
+h2{font-size:24px;font-weight:600;margin:32px 0 14px}
+h3{font-size:18px;font-weight:600;margin-bottom:6px}
+.sub{color:var(--ink);max-width:760px;margin-bottom:24px}
+.card{background:var(--paper);border:1px solid var(--stone200);border-radius:var(--radius);box-shadow:var(--shadow);padding:22px}
+.grid{display:grid;gap:16px}
+.grid.cols3{grid-template-columns:repeat(auto-fill,minmax(310px,1fr))}
+.grid.cols2{grid-template-columns:repeat(auto-fit,minmax(340px,1fr))}
+.chip{display:inline-block;font-size:12px;font-weight:600;letter-spacing:.06em;padding:4px 12px;border-radius:999px;border:1px solid var(--stone200);background:var(--stone100);color:var(--ink)}
+.chip.threat{background:#FBEAE4;border-color:#F0C4B5;color:#A33417}
+.chip.watch{background:#FBF1E0;border-color:#EFD3A6;color:#8A5108}
+.chip.info{background:#EAF0F3;border-color:#C9D6DC;color:#3D5564}
+.chip.high{background:#FBEAE4;border-color:#F0C4B5;color:#A33417}
+.chip.medium{background:#FBF1E0;border-color:#EFD3A6;color:#8A5108}
+.chip.low{background:#EEF0EA;border-color:#CDD2C4;color:#4D5244}
+.chip.machine{background:#EAF0F3;border-color:#C9D6DC;color:#3D5564}
+.chip.coffee{background:#F3E9E5;border-color:#DECDC6;color:#6E4435}
+.chip.offer{background:#FBF1E0;border-color:#EFD3A6;color:#8A5108}
+.chip.social{background:#F4ECEA;border-color:#E0CFCA;color:#75554C}
+.chip.content{background:#F0EFE4;border-color:#D8D6BF;color:#5C5A40}
+.price-tag{font-weight:600;color:var(--blue);font-size:14px}
+.promo-img{width:100%;height:170px;object-fit:cover;border-radius:6px;margin-bottom:12px;background:var(--stone100)}
+.chip.new{background:var(--amber);border-color:var(--amber);color:#fff}
+.chip.ended{background:var(--stone200);border-color:var(--stone300);color:var(--ink)}
+.chip.filter{cursor:pointer;user-select:none}
+.chip.filter.on{background:var(--blue);border-color:var(--blue);color:#fff}
+.btn{display:inline-block;background:var(--blue);color:#fff;border:none;font-family:inherit;font-size:15px;font-weight:600;padding:11px 22px;border-radius:6px;cursor:pointer;text-decoration:none}
+.btn.amber{background:var(--amber)}
+.btn.ghost{background:transparent;color:var(--blue);border:1.5px solid var(--blue)}
+.feed-item{display:flex;gap:18px;padding:20px 0;border-bottom:1px solid var(--stone200)}
+.feed-date{min-width:92px;font-size:13px;color:var(--ink);font-weight:600;padding-top:2px}
+.feed-body h3{margin-bottom:4px}
+.feed-meta{display:flex;gap:8px;margin-bottom:8px;flex-wrap:wrap;align-items:center}
+.feed-body p{color:var(--ink);font-size:15px;margin-bottom:10px}
+.response{background:var(--bone);border-left:3px solid var(--amber);padding:12px 16px;font-size:15px}
+.response b{display:block;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink);font-weight:600;margin-bottom:4px}
+.src{font-size:13px;color:var(--ink)}
+.comp-card{cursor:pointer;transition:border-color .15s}
+.comp-card:hover{border-color:var(--stone300)}
+.comp-card .head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:10px}
+.comp-card p{font-size:14.5px;color:var(--ink)}
+.kv{font-size:14px;color:var(--ink);margin-top:12px}
+.kv span{font-weight:600;color:var(--blue)}
+.detail-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:18px}
+@media(max-width:860px){.detail-grid{grid-template-columns:1fr}}
+ul.clean{list-style:none}
+ul.clean li{padding:7px 0 7px 26px;position:relative;font-size:15px;color:var(--ink);border-bottom:1px solid var(--stone100)}
+ul.clean li:last-child{border-bottom:none}
+ul.clean li::before{content:"";position:absolute;left:2px;top:14px;width:12px;height:8px;border-left:2.5px solid var(--sage);border-bottom:2.5px solid var(--sage);transform:rotate(-45deg)}
+ul.clean.x li::before{border-color:var(--filter);width:9px;height:9px;border-left:none;border-bottom:none;border-right:2.5px solid var(--filter);border-top:2.5px solid var(--filter);transform:rotate(45deg);top:12px;left:4px;border-radius:1px}
+ul.clean.dot li::before{border:none;width:7px;height:7px;background:var(--accent-stone);border-radius:50%;top:14px;left:5px}
+.objection{border:1px solid var(--stone200);border-radius:var(--radius);padding:18px;margin-bottom:14px;background:var(--paper)}
+.objection .they{font-weight:600;margin-bottom:10px}
+.objection .they::before{content:"They say · ";font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--clay);font-weight:600;display:block;margin-bottom:3px}
+.objection .we{color:var(--ink);font-size:15px}
+.objection .we::before{content:"We say";font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--sage);font-weight:600;display:block;margin-bottom:3px}
+.objection .ask{margin-top:10px;font-size:14px;color:var(--ink);font-style:italic}
+table{width:100%;border-collapse:collapse;background:var(--paper);border:1px solid var(--stone200);border-radius:var(--radius);overflow:hidden;font-size:15px}
+th{background:var(--blue);color:#fff;text-align:left;font-weight:600;padding:12px 16px;font-size:13px;letter-spacing:.06em}
+td{padding:12px 16px;border-top:1px solid var(--stone100);color:var(--ink);vertical-align:top}
+td:first-child{font-weight:600;color:var(--blue)}
+.back{font-size:14px;font-weight:600;text-decoration:none;display:inline-block;margin-bottom:18px}
+.back::before{content:"← "}
+.gate{min-height:100vh;display:flex;align-items:center;justify-content:center;background:var(--blue)}
+.gate .panel{background:var(--paper);border-radius:12px;padding:44px 40px;max-width:420px;width:92%;text-align:center}
+.gate .wordmark{color:var(--blue)}
+.gate input{width:100%;font-family:inherit;font-size:16px;padding:12px 14px;border:1.5px solid var(--stone300);border-radius:6px;margin:22px 0 14px}
+.gate .err{color:var(--filter);font-size:14px;margin-top:10px;display:none}
+footer{border-top:1px solid var(--stone200);padding:26px 24px;text-align:center}
+.searchbar{width:100%;max-width:420px;font-family:inherit;font-size:15px;padding:11px 14px;border:1.5px solid var(--stone200);border-radius:6px;background:var(--paper)}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:18px}
+.stat{padding:18px 22px}
+.stat .n{font-size:36px;font-weight:700}
+.stat .l{font-size:13px;color:var(--ink);font-weight:600}
+.muted{color:var(--ink);font-size:14px}
+.digest-actions{margin-top:14px}
+</style>
+</head>
+<body>
+
+<div id="gate" class="gate">
+  <div class="panel">
+    <div class="wordmark">BRIDGE<small>coffee roasters</small></div>
+    <p class="eyebrow" style="margin-top:26px">Market intelligence · internal</p>
+    <input id="pw" type="password" placeholder="Team password" autocomplete="current-password">
+    <button class="btn amber" style="width:100%" onclick="checkPw()">Enter</button>
+    <p class="err" id="pwErr">That password is not recognised.</p>
+    <p class="muted" style="margin-top:18px">Build 5</p>
+  </div>
+</div>
+
+<div id="app" style="display:none">
+<header>
+  <div class="hwrap">
+    <div class="wordmark">BRIDGE<small>coffee roasters</small></div>
+    <span class="tagline">Market intelligence · internal use only</span>
+  </div>
+  <nav><div class="nwrap">
+    <a href="#dashboard" data-view="dashboard">Dashboard</a>
+    <a href="#competitors" data-view="competitors">Competitors</a>
+    <a href="#shopwindow" data-view="shopwindow">Shop window</a>
+    <a href="#pricing" data-view="pricing">Pricing tracker</a>
+    <a href="#digest" data-view="digest">Weekly digest</a>
+    <a href="#ourposition" data-view="ourposition">Our position</a>
+  </div></nav>
+</header>
+<main id="view"></main>
+<footer>
+  <p class="eyebrow">Calm · composed · competent</p>
+  <p class="muted" id="lastUpdated" style="margin-top:8px"></p>
+</footer>
+</div>
+
+<script src="data/competitors.js"></script>
+<script src="data/updates.js"></script>
+<script src="data/pricing.js"></script>
+<script src="data/digests.js"></script>
+<script src="data/promotions.js"></script>
+<script>
+const PW_HASH="b2d1aaef27a009b46581b62a67d6842f1a1103250e559f4e8c6dbad55fbb495e";
+function sha256Sync(ascii){
+  function rightRotate(v,a){return(v>>>a)|(v<<(32-a))}
+  var maxWord=Math.pow(2,32),result="",words=[],asciiBitLength=ascii.length*8;
+  var hash=sha256Sync.h=sha256Sync.h||[],k=sha256Sync.k=sha256Sync.k||[],primeCounter=k.length;
+  var isComposite={};
+  for(var candidate=2;primeCounter<64;candidate++){
+    if(!isComposite[candidate]){
+      for(var i=0;i<313;i+=candidate)isComposite[i]=candidate;
+      hash[primeCounter]=(Math.pow(candidate,.5)*maxWord)|0;
+      k[primeCounter++]=(Math.pow(candidate,1/3)*maxWord)|0;
+    }
+  }
+  ascii+="\x80";
+  while(ascii.length%64-56)ascii+="\x00";
+  for(i=0;i<ascii.length;i++){
+    var j=ascii.charCodeAt(i);
+    if(j>>8)return"";
+    words[i>>2]|=j<<((3-i)%4)*8;
+  }
+  words[words.length]=(asciiBitLength/maxWord)|0;
+  words[words.length]=asciiBitLength;
+  for(j=0;j<words.length;){
+    var w=words.slice(j,j+=16),oldHash=hash;
+    hash=hash.slice(0,8);
+    for(i=0;i<64;i++){
+      var w15=w[i-15],w2=w[i-2];
+      var a=hash[0],e=hash[4];
+      var temp1=hash[7]
+        +(rightRotate(e,6)^rightRotate(e,11)^rightRotate(e,25))
+        +((e&hash[5])^((~e)&hash[6]))
+        +k[i]
+        +(w[i]=(i<16)?w[i]:(w[i-16]
+          +(rightRotate(w15,7)^rightRotate(w15,18)^(w15>>>3))
+          +w[i-7]
+          +(rightRotate(w2,17)^rightRotate(w2,19)^(w2>>>10)))|0);
+      var temp2=(rightRotate(a,2)^rightRotate(a,13)^rightRotate(a,22))
+        +((a&hash[1])^(a&hash[2])^(hash[1]&hash[2]));
+      hash=[(temp1+temp2)|0].concat(hash);
+      hash[4]=(hash[4]+temp1)|0;
+    }
+    for(i=0;i<8;i++)hash[i]=(hash[i]+oldHash[i])|0;
+  }
+  for(i=0;i<8;i++)for(j=3;j+1;j--){
+    var b=(hash[i]>>(j*8))&255;
+    result+=((b<16)?0:"")+b.toString(16);
+  }
+  return result;
+}
+async function sha256(s){
+  if(window.crypto&&crypto.subtle&&window.isSecureContext){
+    try{
+      const b=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(s));
+      return[...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,"0")).join("");
+    }catch(e){}
+  }
+  return sha256Sync(s);
+}
+async function checkPw(){
+  const v=document.getElementById("pw").value.trim();
+  let h="";try{h=await sha256(v)}catch(e){h=""}
+  if(h===PW_HASH){try{sessionStorage.setItem("bcr_auth","1")}catch(e){};unlock();}
+  else document.getElementById("pwErr").style.display="block";
+}
+document.addEventListener("keydown",e=>{if(e.key==="Enter"&&document.getElementById("gate").style.display!=="none")checkPw()});
+function unlock(){document.getElementById("gate").style.display="none";document.getElementById("app").style.display="block";route();}
+
+let DATA={comp:null,upd:null,price:null,dig:null};
+function loadData(){
+  if(!window.BCR||!window.BCR.comp){document.getElementById("view").innerHTML="<h1>Data not found</h1><p class=sub>This page needs its data folder. Keep the data folder next to index.html when moving or deploying it.</p>";return;}
+  DATA={comp:window.BCR.comp,upd:window.BCR.upd,price:window.BCR.price,dig:window.BCR.dig,promo:window.BCR.promo||{items:[]}};
+  document.getElementById("lastUpdated").textContent="Data last updated "+fmtDate(DATA.comp.lastUpdated)+" · refreshed automatically each weekday morning";
+}
+function byId(id){return DATA.comp.competitors.find(c=>c.id===id)}
+function fmtDate(d){const dt=new Date(d+"T00:00:00");return dt.toLocaleDateString("en-GB",{day:"numeric",month:"long",year:"numeric"})}
+function esc(s){return String(s??"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]))}
+const CAT_LABELS={launch:"Product launch",hiring:"Expansion signal",strategy:"Strategy",campaign:"Campaign",event:"Trade event",acquisition:"Acquisition",award:"Award",pricing:"Pricing",content:"Content / SEO",social:"Social",ads:"Paid media"};
+
+let feedFilters={comp:"all",sev:"all"};
+function viewDashboard(){
+  const u=DATA.upd.updates.slice().sort((a,b)=>b.date.localeCompare(a.date));
+  const threats=u.filter(x=>x.severity==="threat").length;
+  const comps=DATA.comp.competitors;
+  let html=`<h1>Dashboard</h1>
+  <p class="sub">What our competitors are doing in the market, and what we say back. Built for the sales and marketing teams — every entry pairs the competitor move with the Bridge response.</p>
+  <div class="grid cols3" style="margin-bottom:28px">
+    <div class="card stat"><div class="n">${comps.length}</div><div class="l">Competitors tracked</div></div>
+    <div class="card stat"><div class="n">${u.length}</div><div class="l">Intelligence entries</div></div>
+    <div class="card stat"><div class="n" style="color:var(--filter)">${threats}</div><div class="l">Active threats flagged</div></div>
+  </div>
+  <div class="toolbar">
+    <span class="chip filter ${feedFilters.comp==="all"?"on":""}" onclick="setFilter('comp','all')">All competitors</span>`;
+  comps.forEach(c=>{html+=`<span class="chip filter ${feedFilters.comp===c.id?"on":""}" onclick="setFilter('comp','${c.id}')">${esc(c.shortName)}</span>`});
+  html+=`</div><div class="toolbar">
+    <span class="chip filter ${feedFilters.sev==="all"?"on":""}" onclick="setFilter('sev','all')">All severities</span>
+    <span class="chip filter ${feedFilters.sev==="threat"?"on":""}" onclick="setFilter('sev','threat')">Threats</span>
+    <span class="chip filter ${feedFilters.sev==="watch"?"on":""}" onclick="setFilter('sev','watch')">Watch</span>
+    <span class="chip filter ${feedFilters.sev==="info"?"on":""}" onclick="setFilter('sev','info')">Info</span>
+  </div><div class="card" style="padding:6px 22px">`;
+  const items=u.filter(x=>(feedFilters.comp==="all"||x.competitorId===feedFilters.comp)&&(feedFilters.sev==="all"||x.severity===feedFilters.sev));
+  if(!items.length)html+=`<p class="muted" style="padding:20px 0">No entries match these filters.</p>`;
+  items.forEach(x=>{
+    const c=byId(x.competitorId);
+    html+=`<div class="feed-item">
+      <div class="feed-date">${fmtDate(x.date)}</div>
+      <div class="feed-body" style="flex:1">
+        <div class="feed-meta">
+          <a class="chip" style="text-decoration:none" href="#competitor/${x.competitorId}">${esc(c?c.shortName:x.competitorId)}</a>
+          <span class="chip">${CAT_LABELS[x.category]||esc(x.category)}</span>
+          <span class="chip ${x.severity}">${x.severity==="threat"?"Threat":x.severity==="watch"?"Watch":"Info"}</span>
+        </div>
+        <h3>${esc(x.headline)}</h3>
+        <p>${esc(x.detail)}</p>
+        <div class="response"><b>The Bridge response</b>${esc(x.bridgeResponse)}</div>
+        <p class="src" style="margin-top:8px"><a href="${esc(x.source)}" target="_blank" rel="noopener">Source</a></p>
+      </div>
+    </div>`;
+  });
+  html+=`</div>`;
+  return html;
+}
+function setFilter(k,v){feedFilters[k==="comp"?"comp":"sev"]=v;render(viewDashboard())}
+
+function viewCompetitors(){
+  let html=`<h1>Competitors</h1><p class="sub">Seven suppliers we meet in the market, grouped by how directly they threaten our core wholesale model. Open a card for the full battlecard and objection handling.</p><div class="grid cols3">`;
+  DATA.comp.competitors.forEach(c=>{
+    html+=`<div class="card comp-card" onclick="location.hash='competitor/${c.id}'">
+      <div class="head"><h3>${esc(c.name)}</h3><span class="chip ${c.threatLevel}">${c.threatLevel==="high"?"High threat":c.threatLevel==="medium"?"Medium":"Low"}</span></div>
+      <p class="eyebrow" style="margin-bottom:8px">${esc(c.category)}</p>
+      <p>${esc(c.summary.split(".")[0])}.</p>
+      <div class="kv"><span>HQ</span> ${esc(c.hq)}</div>
+    </div>`;
+  });
+  html+=`</div>`;
+  return html;
+}
+
+function viewCompetitor(id){
+  const c=byId(id);
+  if(!c)return `<p>Not found.</p>`;
+  const updates=DATA.upd.updates.filter(u=>u.competitorId===id).sort((a,b)=>b.date.localeCompare(a.date));
+  let html=`<a class="back" href="#competitors">All competitors</a>
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:14px;flex-wrap:wrap">
+    <div><h1>${esc(c.name)}</h1>
+    <p class="eyebrow" style="margin-bottom:6px">${esc(c.category)} · ${esc(c.hq)}</p></div>
+    <span class="chip ${c.threatLevel}" style="margin-top:10px">${c.threatLevel==="high"?"High threat":c.threatLevel==="medium"?"Medium threat":"Low threat"}</span>
+  </div>
+  <p class="sub" style="margin-top:10px">${esc(c.summary)}</p>
+  <p class="muted"><a href="${esc(c.website)}" target="_blank" rel="noopener">${esc(c.website)}</a> · ${esc(c.ownership)}</p>
+
+  <div class="detail-grid">
+    <div class="card"><h3>Positioning</h3><p class="muted" style="font-size:15px">${esc(c.positioning)}</p>
+      <h3 style="margin-top:18px">Who they target</h3><p class="muted" style="font-size:15px">${esc(c.targets)}</p>
+      <h3 style="margin-top:18px">Named customers</h3><p class="muted" style="font-size:15px">${esc(c.keyCustomers)}</p></div>
+    <div class="card"><h3>What they're pushing right now</h3><ul class="clean dot">${c.currentFocus.map(f=>`<li>${esc(f)}</li>`).join("")}</ul></div>
+    <div class="card"><h3>Strengths</h3><ul class="clean">${c.strengths.map(s=>`<li>${esc(s)}</li>`).join("")}</ul></div>
+    <div class="card"><h3>Weaknesses</h3><ul class="clean x">${c.weaknesses.map(s=>`<li>${esc(s)}</li>`).join("")}</ul></div>
+    <div class="card"><h3>How we win</h3><ul class="clean">${c.howWeWin.map(s=>`<li>${esc(s)}</li>`).join("")}</ul></div>
+    <div class="card"><h3>Where they win — be honest</h3><ul class="clean dot">${c.whereTheyWin.map(s=>`<li>${esc(s)}</li>`).join("")}</ul></div>
+  </div>
+
+  <h2>Keywords and channels</h2>
+  <div class="card"><p class="muted" style="margin-bottom:10px">SEO keywords they target: ${c.keywords.map(k=>`<span class="chip">${esc(k)}</span>`).join(" ")}</p>
+  <p class="muted">Paid media: ${esc(c.adsStatus)}</p></div>`;
+  html+=promoSection(id);
+  html+=`<h2>Objection handling</h2>`;
+  c.objections.forEach(o=>{
+    html+=`<div class="objection">
+      <p class="they">"${esc(o.prospect)}"</p>
+      <p class="we">${esc(o.response)}</p>
+      ${o.ask?`<p class="ask">${esc(o.ask)}</p>`:""}
+    </div>`;
+  });
+  html+=`<h2>Recent intelligence</h2>`;
+  if(!updates.length)html+=`<p class="muted">No entries yet.</p>`;
+  else{html+=`<div class="card" style="padding:6px 22px">`;
+    updates.forEach(x=>{html+=`<div class="feed-item"><div class="feed-date">${fmtDate(x.date)}</div><div class="feed-body" style="flex:1">
+      <div class="feed-meta"><span class="chip">${CAT_LABELS[x.category]||esc(x.category)}</span><span class="chip ${x.severity}">${x.severity==="threat"?"Threat":x.severity==="watch"?"Watch":"Info"}</span></div>
+      <h3>${esc(x.headline)}</h3><p>${esc(x.detail)}</p>
+      <div class="response"><b>The Bridge response</b>${esc(x.bridgeResponse)}</div></div></div>`});
+    html+=`</div>`;}
+  return html;
+}
+
+
+const TYPE_LABELS={machine:"Machine",coffee:"Coffee",offer:"Offer",social:"Social",content:"Content"};
+let swFilters={comp:"all",type:"all",ended:false};
+function isNew(d){return d&&(Date.now()-new Date(d+"T00:00:00").getTime())<7*864e5}
+function promoCard(x){
+  const c=byId(x.competitorId);
+  return `<div class="card"${x.ended?' style="opacity:.75"':''}>
+    ${x.image?`<img class="promo-img" src="${esc(x.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`:""}
+    <div class="feed-meta">
+      ${!x.ended&&isNew(x.spotted)?`<span class="chip new">New</span>`:""}
+      ${x.ended?`<span class="chip ended">Ended ${fmtDate(x.ended)}</span>`:""}
+      <a class="chip" style="text-decoration:none" href="#competitor/${x.competitorId}">${esc(c?c.shortName:x.competitorId)}</a>
+      <span class="chip ${x.type}">${TYPE_LABELS[x.type]||esc(x.type)}</span>
+      ${x.price?`<span class="price-tag">${esc(x.price)}</span>`:""}
+    </div>
+    <h3>${esc(x.name)}</h3>
+    <p class="muted" style="font-size:15px;margin:6px 0 10px">${esc(x.detail)}</p>
+    ${x.counter?`<div class="response"><b>The Bridge counter</b>${esc(x.counter)}</div>`:""}
+    <p class="src" style="margin-top:10px"><a href="${esc(x.source)}" target="_blank" rel="noopener">Seen here</a> · ${fmtDate(x.spotted)}</p>
+  </div>`;
+}
+function viewShopWindow(){
+  const items=DATA.promo.items||[];
+  let html=`<h1>Shop window</h1>
+  <p class="sub">The machines, coffees and offers each competitor is actively promoting on their website and socials right now — with the Bridge counter where one is needed. ${esc(DATA.promo.note||"")}</p>
+  <div class="toolbar">
+    <span class="chip filter ${swFilters.comp==="all"?"on":""}" onclick="setSwFilter('comp','all')">All competitors</span>`;
+  DATA.comp.competitors.forEach(c=>{html+=`<span class="chip filter ${swFilters.comp===c.id?"on":""}" onclick="setSwFilter('comp','${c.id}')">${esc(c.shortName)}</span>`});
+  html+=`</div><div class="toolbar">
+    <span class="chip filter ${swFilters.type==="all"?"on":""}" onclick="setSwFilter('type','all')">All types</span>`;
+  Object.entries(TYPE_LABELS).forEach(([k,v])=>{html+=`<span class="chip filter ${swFilters.type===k?"on":""}" onclick="setSwFilter('type','${k}')">${v}s</span>`});
+  html+=`<span class="chip filter ${swFilters.ended?"on":""}" onclick="setSwFilter('ended',!swFilters.ended)" style="margin-left:auto">Include past promotions</span></div><div class="grid cols2">`;
+  const f=items.filter(x=>(swFilters.comp==="all"||x.competitorId===swFilters.comp)&&(swFilters.type==="all"||x.type===swFilters.type)&&(swFilters.ended||!x.ended))
+    .slice().sort((a,b)=>(b.spotted||"").localeCompare(a.spotted||""));
+  if(!f.length)html+=`<p class="muted">Nothing matches these filters.</p>`;
+  f.forEach(x=>{html+=promoCard(x)});
+  html+=`</div>`;
+  return html;
+}
+function setSwFilter(k,v){swFilters[k]=v;render(viewShopWindow())}
+function promoSection(id){
+  const items=(DATA.promo.items||[]).filter(x=>x.competitorId===id&&!x.ended).slice().sort((a,b)=>(b.spotted||"").localeCompare(a.spotted||""));
+  if(!items.length)return "";
+  let html=`<h2>In their shop window</h2><div class="grid cols2">`;
+  items.forEach(x=>{html+=promoCard(x)});
+  html+=`</div>`;
+  return html;
+}
+
+function viewPricing(){
+  const p=DATA.price;
+  let html=`<h1>Pricing tracker</h1>
+  <p class="sub">${esc(p.note)}</p>
+  <h2>Our published baseline</h2>
+  <table><tr><th>Item</th><th>Published price</th></tr>`;
+  p.bridgeBaseline.forEach(b=>{html+=`<tr><td>${esc(b.item)}</td><td>${esc(b.price)}</td></tr>`});
+  html+=`</table>`;
+  p.snapshots.slice().sort((a,b)=>b.date.localeCompare(a.date)).forEach(s=>{
+    html+=`<h2>Snapshot · ${fmtDate(s.date)}</h2>
+    <table><tr><th>Competitor</th><th>Item</th><th>Visible price</th><th>Change</th></tr>`;
+    s.entries.forEach(e=>{const c=byId(e.competitorId);
+      html+=`<tr><td>${esc(c?c.shortName:e.competitorId)}</td><td>${esc(e.item)}</td><td>${esc(e.price)}</td><td>${esc(e.change)}</td></tr>`});
+    html+=`</table>`;
+  });
+  html+=`<p class="muted" style="margin-top:14px">Caveat: packaging differs (200g vs 250g bags, lease vs purchase). Treat comparisons as directional. Changes against the previous snapshot are flagged in the change column.</p>`;
+  return html;
+}
+
+function viewDigest(){
+  let html=`<h1>Weekly digest</h1><p class="sub">A Monday summary of the week's competitor moves, with recommended actions. Written for forwarding to the wider sales and marketing teams.</p>`;
+  DATA.dig.digests.slice().sort((a,b)=>b.weekEnding.localeCompare(a.weekEnding)).forEach(d=>{
+    html+=`<div class="card" style="margin-bottom:18px">
+      <p class="eyebrow">Week ending ${fmtDate(d.weekEnding)}</p>
+      <h3 style="margin:8px 0 10px">${esc(d.title)}</h3>
+      <p class="muted" style="font-size:15px;margin-bottom:14px">${esc(d.summary)}</p>
+      <div class="response"><b>Actions for the team</b><ul class="clean" style="margin-top:6px">${d.actions.map(a=>`<li>${esc(a)}</li>`).join("")}</ul></div>
+    </div>`;
+  });
+  return html;
+}
+
+function viewOurPosition(){
+  const b=DATA.comp.bridge;
+  let html=`<h1>Our position</h1>
+  <p class="sub">${esc(b.positioning)}</p>
+  <div class="grid cols2">
+    <div class="card"><h3>What sets us apart</h3><ul class="clean">${b.keyDifferentiators.map(k=>`<li>${esc(k)}</li>`).join("")}</ul></div>
+    <div class="card"><h3>Proof points to name in any pitch</h3><ul class="clean dot">${b.proofPoints.map(k=>`<li>${esc(k)}</li>`).join("")}</ul>
+    <h3 style="margin-top:20px">Watch-outs — where we're exposed</h3><ul class="clean x">${b.watchouts.map(k=>`<li>${esc(k)}</li>`).join("")}</ul></div>
+  </div>
+  <h2>The one-line landscape</h2>
+  <div class="card"><p class="muted" style="font-size:15px">Scale operators (UCC, Selecta, Matthew Algie) win on size and frameworks; equipment houses (Liquidline) win on breadth and demo speed; speciality independents (Union, Origin, Clifton) win on craft and B Corp badges. We are the only supplier in the set combining genuine roasting, full equipment and engineering, training — and published pricing. That combination is the pitch.</p></div>`;
+  return html;
+}
+
+function render(html){document.getElementById("view").innerHTML=html;window.scrollTo(0,0)}
+function route(){
+  if(!DATA.comp)return;
+  const h=(location.hash||"#dashboard").slice(1);
+  document.querySelectorAll("nav a").forEach(a=>a.classList.toggle("active",h.startsWith(a.dataset.view)||(h.startsWith("competitor/")&&a.dataset.view==="competitors")));
+  if(h.startsWith("competitor/"))render(viewCompetitor(h.split("/")[1]));
+  else if(h==="competitors")render(viewCompetitors());
+  else if(h==="shopwindow")render(viewShopWindow());
+  else if(h==="pricing")render(viewPricing());
+  else if(h==="digest")render(viewDigest());
+  else if(h==="ourposition")render(viewOurPosition());
+  else render(viewDashboard());
+}
+window.addEventListener("hashchange",route);
+loadData();
+let authed=false;
+try{authed=sessionStorage.getItem("bcr_auth")==="1"}catch(e){}
+if(authed)unlock();
+</script>
+</body>
+</html>

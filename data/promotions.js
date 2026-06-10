@@ -1,0 +1,458 @@
+window.BCR=window.BCR||{};window.BCR.promo={
+  "lastUpdated": "2026-06-10",
+  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
+  "items": [
+    {
+      "competitorId": "liquidline",
+      "type": "machine",
+      "name": "Schaerer Coffee Soul 12 (fresh milk)",
+      "detail": "Their flagged best-seller bean-to-cup, promoted from £97.50/week on lease, recommended for offices, hotels and golf clubs.",
+      "price": "From £97.50/week",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
+      "spotted": "2026-06-10",
+      "counter": "We supply Schaerer too — and publish our machine and service prices rather than quoting per deal. Same machine, transparent numbers, plus our own roasted beans in it.",
+      "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png"
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "machine",
+      "name": "Liquidline K2 own-brand bean-to-cup",
+      "detail": "Their own-badged machine holds the featured slot in the nav. Price on enquiry only.",
+      "price": "On enquiry",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-k2-powdered-milk/",
+      "spotted": "2026-06-10",
+      "counter": "Ask prospects who manufactures it and who holds parts. Our Eversys and Schaerer machines are established brands with deep parts and engineer networks.",
+      "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Kalerm_Machine_Front_View-2.png"
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "offer",
+      "name": "Refurbished machine programme",
+      "detail": "Eighteen refurb models with weekly leases from £12.50/week, one-to-three-year warranty, free delivery, installation and training. Refurb interest is a checkbox on their homepage enquiry form — a serious budget-buyer play.",
+      "price": "From £12.50/week",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/refurbished-commercial-coffee-machines/",
+      "spotted": "2026-06-10",
+      "counter": "Against a refurb pitch, sell whole-life cost: our published service contracts and callout rates mean no surprises in years two and three, where refurbs bite."
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "offer",
+      "name": "Live demo push",
+      "detail": "Site-wide 'Request a live demo' CTA with directly bookable demo calls — a fast, low-friction sales funnel.",
+      "price": "",
+      "source": "https://www.liquidline.co.uk/services/book-a-live-demo/",
+      "spotted": "2026-06-10",
+      "counter": "Worth matching: our Cardiff and London showrooms do this better in person. Make showroom invitations a standard first-call move."
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "coffee",
+      "name": "Café Bonté Milano beans",
+      "detail": "Their own-label coffee holds the single featured consumable slot. Low-profile brand with no roastery story attached.",
+      "price": "",
+      "source": "https://www.liquidline.co.uk/consumables/coffee-consumables/coffee-beans/cafe-bonte-milano-beans/",
+      "spotted": "2026-06-10",
+      "counter": "This is the gap. Roots and Explorers versus an own-label with no provenance — make the prospect taste both.",
+      "image": "https://www.liquidline.co.uk/content/uploads/2025/08/milano-bag.jpg"
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "content",
+      "name": "Workplace matcha content",
+      "detail": "'The rise of matcha' tops their blog — pushing matcha as the next workplace beverage alongside tea-point design guides.",
+      "price": "",
+      "source": "https://www.liquidline.co.uk/news/the-rise-of-matcha-benefits-recipes-how-to-enjoy-it-at-work/",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "social",
+      "name": "Workspace Design Show presence",
+      "detail": "LinkedIn activity around their February stand (VR experience, barista coffee in the VIP lounge) and their UK's Best Workplaces 2026 ranking — strong employer-brand content.",
+      "price": "",
+      "source": "https://uk.linkedin.com/company/liquidline",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "selecta",
+      "type": "coffee",
+      "name": "Starbucks 'We Proudly Serve' stations",
+      "detail": "Homepage hero pushes three branded coffee options: Starbucks, Change Please and own-brand Pelican Rouge. The Franke A600 machine is explicitly badged as the Starbucks unit.",
+      "price": "",
+      "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages",
+      "spotted": "2026-06-10",
+      "counter": "A licensed badge with the same blend in every site. We offer the operator's own programme — their beans, their branding, their trained team."
+    },
+    {
+      "competitorId": "selecta",
+      "type": "machine",
+      "name": "Gaggia G300 Krea",
+      "detail": "Promoted as their new-generation super-automatic, rated to 150 cups/day, in the machine carousel.",
+      "price": "On enquiry",
+      "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages/gaggia-G300",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://www.selecta.com/dam/jcr:2de7d74e-8c51-443e-9a7e-6caa0aa7c181/G300%20-%20lateral%20left_1.jpg"
+    },
+    {
+      "competitorId": "selecta",
+      "type": "machine",
+      "name": "Coffetek Neo Q",
+      "detail": "Pitched as 'the new Neo Q' — combined chilled filtered water and coffee in one unit, with an own-cup sustainability angle.",
+      "price": "On enquiry",
+      "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages/coffetek-neo-q",
+      "spotted": "2026-06-10",
+      "counter": "We cover the same need with bean-to-cup plus BRITA water solutions — and a far better cup.",
+      "image": "https://www.selecta.com/dam/jcr:dcfa4107-6546-4047-895f-7dbf8b00bb04/imgi_78_Coffetek%20NEO%20Q%20LATERAL.jpg"
+    },
+    {
+      "competitorId": "selecta",
+      "type": "offer",
+      "name": "Refurbished machines, buy/lease/hire, 24-hour quote",
+      "detail": "A 'cost-effective alternative' refurb section plus a promise to respond to quote requests within 24 hours.",
+      "price": "",
+      "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "selecta",
+      "type": "offer",
+      "name": "Foodies micromarkets",
+      "detail": "Modular unattended retail markets for workplaces, now extended to a first UK airport site as 'Foodies-On-The-Go'.",
+      "price": "",
+      "source": "https://www.selecta.com/uk/en/all-self-services/foodies-micromarket",
+      "spotted": "2026-06-10",
+      "counter": "Different battleground — but where a micromarket pitch includes coffee, position our bean-to-cup as the quality upgrade within their estate.",
+      "image": "https://www.selecta.com/dam/jcr:51ea1f3c-2010-4417-8c38-dc8b01ecb1b0/testFoodies2.jpg"
+    },
+    {
+      "competitorId": "selecta",
+      "type": "content",
+      "name": "Gym Group case study and YPO framework story",
+      "detail": "Their homepage stories push a Gym Group member-experience case study and their YPO public-sector framework listing — courting schools and councils.",
+      "price": "",
+      "source": "https://www.selecta.com/uk/en/stories/ypo-framework",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "coffee",
+      "name": "Peak & Wild range",
+      "detail": "Top brand slot: 'our most sustainable coffee', climate-positive, supporting the John Muir Trust's rainforest restoration, with free sustainable marketing materials for stockists.",
+      "price": "",
+      "source": "https://www.matthewalgie.com/wholesale-coffee/peak-wild/",
+      "spotted": "2026-06-10",
+      "counter": "Match with Roots Collection: certified Fairtrade, Organic and Rainforest Alliance, plus Project Waterfall. Certifications a tender can score, not just a story.",
+      "image": "https://www.matthewalgie.com/media/z1bbdckj/pw-cover.jpg"
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "coffee",
+      "name": "Piacetto and Smokin' Bean brand push",
+      "detail": "Piacetto pitched as 'created by baristas for baristas' (Italian dark roast); Smokin' Bean aimed at coffee-to-go and convenience. Four brands promoted side by side.",
+      "price": "",
+      "source": "https://www.matthewalgie.com/",
+      "spotted": "2026-06-10",
+      "counter": "Four overlapping brands can confuse a buyer. One clear Bridge range plus white label for anyone wanting their own name on the bag."
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "machine",
+      "name": "WMF 5000S+, Carimali Armonia Ultra, Coffea Enjoy Plus",
+      "detail": "The three bean-to-cup machines actively promoted on their machines page; Rancilio fronts the traditional espresso range.",
+      "price": "On enquiry",
+      "source": "https://www.matthewalgie.com/machines/bean-to-cup-coffee-machines/",
+      "spotted": "2026-06-10",
+      "counter": "Eversys and Schaerer hold their own against WMF at most volumes — and our prices are on the website.",
+      "image": "https://www.matthewalgie.com/media/mq3jtiw3/edited-matthew_algie_machines_sept_25_raws0420-edit-2-2.jpg"
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "offer",
+      "name": "'Easy Purchase' interest-free finance",
+      "detail": "Machines outright or spread over 36 or 48 months interest-free, with ownership from day one and free delivery, installation and training.",
+      "price": "0% over 36–48 months",
+      "source": "https://www.matthewalgie.com/machines/bean-to-cup-coffee-machines/",
+      "spotted": "2026-06-10",
+      "counter": "A genuinely strong offer. If finance is the deciding factor, lead with our lease options and whole-life service pricing; don't fight 0% head-on."
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "offer",
+      "name": "Free Coffee Schools training",
+      "detail": "Homepage hero ('Let's brew brilliance together') pushes free customer access to Coffee Schools in Glasgow, London and Dublin plus an e-learning platform.",
+      "price": "Free for customers",
+      "source": "https://www.matthewalgie.com/services/barista-training/",
+      "spotted": "2026-06-10",
+      "counter": "Say early: our training visits are free for wholesale customers too, and the Brand Champion Programme goes further — building in-house quality ownership.",
+      "image": "https://www.matthewalgie.com/media/flebjmsl/_a1a2169-large.jpg"
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "social",
+      "name": "Trade event circuit",
+      "detail": "Smokin' Bean exhibited at the National Convenience Show in April; Matthew Algie is a listed exhibitor at The Workplace Event 2026 — chasing convenience and workplace buyers.",
+      "price": "",
+      "source": "https://www.theworkplaceevent.com/exhibitors/matthew-algie-coffee",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "ucc",
+      "type": "coffee",
+      "name": "Lyons range leads their webshop",
+      "detail": "UCC Coffee Direct leads with Lyons: Go-Joe (mocha) beans 10x500g at £56.28 and Perkadilly (Italian espresso) at the same price — bulk trade cases at roughly £11.26/kg.",
+      "price": "£56.28 / 10x500g",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/brand_lyons",
+      "spotted": "2026-06-10",
+      "counter": "Sits at the bottom of our published £10–£20/kg band. Concede the price point; win on freshness, provenance and the service stack around the bean.",
+      "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/collections/Asset_6.png?v=1639050592"
+    },
+    {
+      "competitorId": "ucc",
+      "type": "coffee",
+      "name": "Ueshima Japanese-style range",
+      "detail": "Second hero banner: Ueshima House Blend RFA 10x500g £86.20, Fuji Mountain 6x200g £39.64. 'Japan's number one coffee' angle for retail.",
+      "price": "£86.20 / 10x500g",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/brand_ueshima",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "ucc",
+      "type": "coffee",
+      "name": "Grand Café certified range",
+      "detail": "Rainforest Alliance beans 10x500g £69.74; Fairtrade £83.69; Fairtrade decaf £75.63 — certification-led trade range.",
+      "price": "£69.74–£83.69 / case",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-beans",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cdn.shopify.com/s/files/1/0610/5304/2933/collections/Asset_3_42a6c38b-223c-4916-b7e5-b286ab8e0457.png?v=1639050775"
+    },
+    {
+      "competitorId": "ucc",
+      "type": "offer",
+      "name": "Free delivery over £60 on the trade shop",
+      "detail": "Site-wide banner on UCC Coffee Direct. Notably, their machine category is nearly empty — one sold-out airpot — so the shop is purely a coffee channel.",
+      "price": "",
+      "source": "https://www.ucc-coffee-direct.co.uk/",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "ucc",
+      "type": "content",
+      "name": "Corporate site gone quiet",
+      "detail": "The UK site now redirects into UCC Europe's brochure pages — lead-gen forms, no offers, no prices, no fresh UK content. Their marketing energy is clearly elsewhere in the group.",
+      "price": "",
+      "source": "https://ucc-europe.com/markets/uk-ireland/",
+      "spotted": "2026-06-10",
+      "counter": "Their silence is airtime we can take: our blog, podcast and YouTube give mid-market buyers a current, visible supplier to engage with."
+    },
+    {
+      "competitorId": "union",
+      "type": "coffee",
+      "name": "Los Lajones Geisha, Panama — £35/100g pre-order",
+      "detail": "Homepage hero new arrival: washed Geisha scoring 90, jasmine and white peach notes, roasted to order with a published despatch date. Super-premium theatre.",
+      "price": "£35 / 100g",
+      "source": "https://unionroasted.com/products/geisha-los-lajones-panama",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cdn.shopify.com/s/files/1/0060/6230/9494/files/GeishaMainProductimage.jpg?v=1762866873"
+    },
+    {
+      "competitorId": "union",
+      "type": "coffee",
+      "name": "Geisha and limited-parcel new arrivals",
+      "detail": "Ronald Castaño Geisha (Colombia) £13.85 and João Hamilton (Brazil) £13.85 flagged 'limited parcel' — scarcity-led merchandising.",
+      "price": "£13.85",
+      "source": "https://unionroasted.com/collections/new-arrivals",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "union",
+      "type": "offer",
+      "name": "Father's Day gift edit",
+      "detail": "Ten-item edit: Classic and Espresso gift boxes £34, AeroPress Go set £49 (down from £54.40), microlots and gift cards to £100.",
+      "price": "£7.95–£100",
+      "source": "https://unionroasted.com/collections/fathers-day-gifts",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "union",
+      "type": "offer",
+      "name": "Free delivery thresholds and subscribe-and-save",
+      "detail": "Free delivery on 1kg bags and orders over £30; 10% off subscriptions — standard DTC retention mechanics.",
+      "price": "",
+      "source": "https://unionroasted.com/",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "union",
+      "type": "content",
+      "name": "Excelsa species story still leading",
+      "detail": "The Kew Gardens Excelsa launch (UK first, climate-resilience angle) tops their blog, alongside the new Half Caff product — health and moderation trend.",
+      "price": "",
+      "source": "https://unionroasted.com/blogs/latest/introducing-a-thrilling-new-chapter-in-coffee-meet-excelsa",
+      "spotted": "2026-06-10",
+      "counter": "Origin stories earn press. Our Explorers traceability has the same potential — one well-told farm story per quarter would do it.",
+      "image": "https://unionroasted.com/cdn/shop/articles/250929_UCHR_Blog_Post_1250_x_500px_05c4a54c-10c6-4497-bf98-2a8d601e5a82_1024x1024.jpg?v=1759838801"
+    },
+    {
+      "competitorId": "union",
+      "type": "social",
+      "name": "Instagram: organic coffee push",
+      "detail": "An indexed @unionroasted post leads on 'organic coffee is about more than flavour'. Feed content is otherwise login-gated; ~28k followers.",
+      "price": "",
+      "source": "https://www.instagram.com/unionroasted/",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "origin",
+      "type": "offer",
+      "name": "Win a custom La Marzocco Linea Mini",
+      "detail": "Homepage hero: every June order of Stronghold, or new Stronghold subscription, enters a draw for a Linea Mini in the winner's choice of colour. Big-ticket prize marketing around their flagship blend.",
+      "price": "Prize ~£4k value",
+      "source": "https://origincoffee.co.uk/",
+      "spotted": "2026-06-10",
+      "counter": "Competitions drive their DTC, not wholesale. If a café prospect mentions it, note the prize machine is a domestic unit — then talk commercial spec.",
+      "image": "https://cdn.shopify.com/s/files/1/1097/5586/files/stronghold-v17-coffee-digital-2026-hero.jpg?v=1779272828"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Stronghold flagship espresso",
+      "detail": "From £12.50/250g, £36.50/kg retail; 2,300+ reviews; dark chocolate and fudge notes. The competition vehicle and their volume seller.",
+      "price": "£12.50 / 250g",
+      "source": "https://www.origincoffee.co.uk/products/stronghold",
+      "spotted": "2026-06-10",
+      "counter": "Retail equivalent of ~£50/kg. Our wholesale band is £10–£20/kg — different channel, but the value contrast lands with operators."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Weekly release: Pai Heroí, Brazil",
+      "detail": "£14.70, pinned in the nav as this week's coffee — their '52 coffees a year' programme keeps the range moving and gives socials a weekly beat.",
+      "price": "£14.70",
+      "source": "https://www.origincoffee.co.uk/products/pai-heroi",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cdn.shopify.com/s/files/1/1097/5586/files/Pai_Heroi-coffee-digital-2026.webp?v=1780909748"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "New Cornwall-made capsules and cold brew concentrate",
+      "detail": "Capsules from £6.00 (Três Meninas, Santa Barbara, Atlas Decaf), home-compostable, packed in-house; Cold Brew Espresso Concentrate £8.00 with 90 reviews at 4.9 stars.",
+      "price": "From £6.00",
+      "source": "https://www.origincoffee.co.uk/collections/compostable-coffee-capsules",
+      "spotted": "2026-06-10",
+      "counter": "If capsules come up, spec honestly: we supply pods in wholesale, and bean-to-cup beats capsules on cup quality and per-serve cost for most sites.",
+      "image": "https://cdn.shopify.com/s/files/1/1097/5586/collections/Menu-4.webp?v=1780475526"
+    },
+    {
+      "competitorId": "origin",
+      "type": "machine",
+      "name": "Home equipment push: MORNING Machine £440, equipment sale",
+      "detail": "MORNING capsule machine £440, MORNING Mini £259, Dualit frother £99.95, plus a Sage/Fellow/Wilfa equipment sale and brew bundles.",
+      "price": "£99.95–£440",
+      "source": "https://www.origincoffee.co.uk/collections/coffee-equipment-sale",
+      "spotted": "2026-06-10",
+      "counter": "Note: Clifton sells the same MORNING Machine at £345 — £95 under Origin. Useful if anyone cites Origin's pricing as a benchmark.",
+      "image": "https://cdn.shopify.com/s/files/1/1097/5586/collections/Homepage-Equipment-Sale-Launch_jpg_ce3b8394-cedd-4bb2-8e74-2f7468d8cbff.webp?v=1761909822"
+    },
+    {
+      "competitorId": "origin",
+      "type": "offer",
+      "name": "Father's Day edit plus rewards app",
+      "detail": "Curated gifts from £12.95 (Feature subscription) to £440 (MORNING Machine); free delivery over £25; 10% off first order; loyalty app pushed in the footer.",
+      "price": "£12.95–£440",
+      "source": "https://www.origincoffee.co.uk/collections/fathers-day",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://www.origincoffee.co.uk/cdn/shop/files/2026_01_20_SB_Origin_Capsules_Cold_Brew_02_200.jpg?v=1772798600&width=1200"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "offer",
+      "name": "20% off house coffee subscriptions",
+      "detail": "Top site-wide banner, paired with 'order by 8am for same-day dispatch'. Aggressive retention mechanics on their core blends.",
+      "price": "20% off",
+      "source": "https://cliftoncoffee.co.uk/collections/house-coffee-subscription",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/E1_Fresh_Crop_26.png?v=1772635364&width=533"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Unparalleled Series: Ombligon, Finca El Diviso",
+      "detail": "£15/120g (£65/kg) rare Ombligon variety from Huila, Colombia; series also lists Pink Bourbon £20.75 and Gesha £20 per 120g. Premium micro-lot theatre.",
+      "price": "£15 / 120g",
+      "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cdn.shopify.com/s/files/1/0866/0221/9868/collections/DSC07339-3.jpg?v=1756448429"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "New House Filter from Mbala, Zambia",
+      "detail": "£11, promoted as new and from an 'underrepresented origin' — a distinctive sourcing story for an everyday filter.",
+      "price": "£11",
+      "source": "https://cliftoncoffee.co.uk/products/house-filter",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cdn.shopify.com/s/files/1/0866/0221/9868/files/ZambiaHouseFilter.png?v=1779296139"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Best-seller espressos front and centre",
+      "detail": "Suspension Espresso £11 (Brazil), E1 Project Espresso £12 (their direct-trade programme since 2015), Village Organic £12 (Honduras co-op).",
+      "price": "£11–£12",
+      "source": "https://cliftoncoffee.co.uk/",
+      "spotted": "2026-06-10",
+      "counter": ""
+    },
+    {
+      "competitorId": "clifton",
+      "type": "machine",
+      "name": "MORNING Machine at £345",
+      "detail": "Capsule machine featured in their shop nav — £95 cheaper than Origin's listing of the same unit.",
+      "price": "£345",
+      "source": "https://cliftoncoffee.co.uk/products/morning",
+      "spotted": "2026-06-10",
+      "counter": "",
+      "image": "https://cdn.shopify.com/s/files/1/0866/0221/9868/files/Morning_White.png?v=1763720616"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "machine",
+      "name": "La Marzocco and Mahlkönig dealer tiles",
+      "detail": "Both premium brands promoted in their wholesale nav; equipment pricing sits behind a trade login.",
+      "price": "Trade login required",
+      "source": "https://cliftoncoffee.co.uk/pages/wholesale",
+      "spotted": "2026-06-10",
+      "counter": "Their equipment prices are gated; ours are published. In any head-to-head, put our pricing page on the table and invite the comparison."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "social",
+      "name": "Roastery events and festival presence",
+      "detail": "LinkedIn activity around London Coffee Festival, roastery cupping events and a Bristol Sport networking evening at the roastery — community-led B2B marketing on their home turf.",
+      "price": "",
+      "source": "https://uk.linkedin.com/company/clifton-coffee",
+      "spotted": "2026-06-10",
+      "counter": "Our Cardiff roastery and London showroom can host the same — worth a quarterly trade open-day."
+    }
+  ]
+};
