@@ -16,7 +16,7 @@ Each data file is JSON wrapped in one line of JavaScript, e.g. `window.BCR=windo
 
 1. Create a repository (e.g. `bridge-intel`) and push these files to `main`
 2. Repository settings → Pages → Source: deploy from branch → `main` / root
-3. The site appears at `https://<account>.github.io/bridge-intel/` within a couple of minutes
+3. The site appears at `https://bridgecoffeeroasters.github.io/bridge-intel/` within a couple of minutes
 
 Note: free GitHub Pages requires a public repository, so the password gate deters casual visitors but the repo contents are technically public. All data is public-domain competitor information. For a private repo, deploy the same files on Netlify free tier instead.
 
