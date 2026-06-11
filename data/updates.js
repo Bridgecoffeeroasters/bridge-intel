@@ -1,6 +1,66 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-06-11",
+      "competitorId": "selecta",
+      "category": "launch",
+      "headline": "Selecta puts smart fridges front and centre and publishes guide pricing",
+      "detail": "The vending range page now leads with a Foodies-branded smart fridge family — Duo 850 ('our most spacious unattended retail fridge'), Duo 600 and Instant Single — extending the micromarket concept into modular unattended retail. The same page now publishes guide pricing: rental from £80–£400 a month, new machines £4,000–£15,000, refurbished offered. A visible step away from pure enquiry-only pricing.",
+      "bridgeResponse": "Selecta publishing even guide pricing chips at our 'only supplier with published pricing' line — ours remains far fuller (beans, callouts, service contracts). In workplace deals, contrast fresh-roasted bean-to-cup with unattended retail fridges, and qualify early whether the buyer wants coffee or food retail.",
+      "source": "https://www.selecta.com/uk/en/campaigns/vending-machines-search",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-06-11",
+      "competitorId": "liquidline",
+      "category": "pricing",
+      "headline": "Liquidline Schaerer Soul 12 lease price down to £94.50 a week",
+      "detail": "The flagship machine's product page now shows 'Lease from £94.50/week' against the £97.50 recorded on 10 June — a £3 a week reduction. Page metadata suggests pricing may be served dynamically, so this could be quote variation rather than a deliberate cut; worth re-verifying over the next few days.",
+      "bridgeResponse": "Their flagship lease just got cheaper on paper. Keep quoting total cost of ownership — weekly-lease pitches hide service costs, and our published callout and contract pricing makes the comparison concrete.",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-06-11",
+      "competitorId": "origin",
+      "category": "pricing",
+      "headline": "Origin cold brew concentrate launch pricing lapses",
+      "detail": "The 500ml Cold Brew Espresso Concentrate page now shows £8.00 one-time / £6.40 on subscription, against the 'from £6.00' recorded at launch on 10 June; the offer is now framed as 20% off your first three orders plus a welcome glass. Most likely the introductory price expiring rather than a list-price rise.",
+      "bridgeResponse": "No action needed. Useful data point that Origin's launch pricing was promotional — worth noting if prospects cite their RTD pricing.",
+      "source": "https://www.origincoffee.co.uk/products/cold-brew-espresso-concentrate",
+      "severity": "info"
+    },
+    {
+      "date": "2026-06-11",
+      "competitorId": "selecta",
+      "category": "strategy",
+      "headline": "Selecta CEO signals leasing-led 'zero capex' model",
+      "detail": "An April 2026 Business Focus Magazine interview with CEO Venkie Shantaram describes a 3–5 year plan centred on water and coffee and a move to a 'Zero Capex', leasing-led model. Surfaced via search; we have not verified the full interview text, but it is consistent with the post-recapitalisation consolidation already on record.",
+      "bridgeResponse": "Expect Selecta to lead with no-upfront-cost offers in workplace deals. Counter with transparent lifetime cost — lease structures shift cost into the contract, and our published service pricing exposes that.",
+      "source": "https://businessfocusmagazine.com/2026/04/10/selecta-preferred-vendor-interview-with-ceo-venkie-shantaram/",
+      "severity": "info"
+    },
+    {
+      "date": "2026-06-11",
+      "competitorId": "liquidline",
+      "category": "event",
+      "headline": "Liquidline exhibiting at Automotive Management Live 2026",
+      "detail": "Exhibitor listing for the automotive retail event at the NEC, alongside their dedicated automotive sector page — a vertical not previously on our radar for them. The listing surfaced via search today; we could not confirm when it was added, and the exhibitor page itself would not load for verification.",
+      "bridgeResponse": "Another vertical where they sell machines-first. Car dealerships are not a Bridge focus; no action unless dealership groups appear in our pipeline, where the roaster story plus published pricing is the wedge.",
+      "source": "https://automotivemanagementlive.co.uk/exhibitors/liquidline",
+      "severity": "info"
+    },
+    {
+      "date": "2026-06-11",
+      "competitorId": "origin",
+      "category": "strategy",
+      "headline": "Origin wholesale partnership with Cornish Bakery surfaced",
+      "detail": "Trade press coverage of a wholesale supply partnership between Origin and the Cornish Bakery chain — a multi-site B2B win that shows Origin converting its consumer brand into wholesale accounts. Publication date could not be verified and the deal likely predates this week; logged because it was not previously on record.",
+      "bridgeResponse": "Origin winning multi-site bakery wholesale is a reminder they compete for our core accounts, not just retail. Warrens Bakery is the direct reference to lead with in any bakery or café-chain conversation.",
+      "source": "https://bakeryinfo.co.uk/finished-goods/cornish-bakery-partners-with-fellow-cornwall-based-firm-origin-coffee/713858.article",
+      "severity": "watch"
+    },
+    {
       "date": "2026-06-10",
       "competitorId": "origin",
       "category": "launch",

@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-11",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -81,7 +81,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
         "Aggressive salesforce expansion across England and Scotland — expect them in more deals",
         "Building out e-commerce and online ordering",
         "Exhibited at Workspace Design Show Feb 2026 with VR experience — workplace design-and-build channel",
-        "Blog targeting workplace buyers: tea points, matcha, machine cost explainers"
+        "Blog targeting workplace buyers: tea points, matcha, machine cost explainers",
+        "Pushing into the automotive dealership vertical — exhibiting at Automotive Management Live 2026 (NEC)"
       ],
       "keywords": [
         "commercial coffee machines",
@@ -144,7 +145,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
         "Post-recapitalisation stabilisation — removing underperforming vending units",
         "YPO framework win pushed in content — public-sector procurement focus",
         "Micromarkets (Foodies) and healthier vending (Vitamin Well partnership)",
-        "Operations-heavy focus: merchandising, engineering and account retention"
+        "Operations-heavy focus: merchandising, engineering and account retention",
+        "Smart fridge family (Duo 850/600, Instant Single) now headlines the range, with guide pricing published — rental from £80/month; CEO signalling a leasing-led 'zero capex' model"
       ],
       "keywords": [
         "vending machine operator",

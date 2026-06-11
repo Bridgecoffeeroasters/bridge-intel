@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-11",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
     {
@@ -11,7 +11,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
       "spotted": "2026-06-10",
       "counter": "We supply Schaerer too — and publish our machine and service prices rather than quoting per deal. Same machine, transparent numbers, plus our own roasted beans in it.",
-      "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png"
+      "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png",
+      "ended": "2026-06-11"
     },
     {
       "competitorId": "liquidline",
@@ -73,7 +74,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "price": "",
       "source": "https://uk.linkedin.com/company/liquidline",
       "spotted": "2026-06-10",
-      "counter": ""
+      "counter": "",
+      "ended": "2026-06-11"
     },
     {
       "competitorId": "selecta",
@@ -324,7 +326,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "source": "https://origincoffee.co.uk/",
       "spotted": "2026-06-10",
       "counter": "Competitions drive their DTC, not wholesale. If a café prospect mentions it, note the prize machine is a domestic unit — then talk commercial spec.",
-      "image": "https://cdn.shopify.com/s/files/1/1097/5586/files/stronghold-v17-coffee-digital-2026-hero.jpg?v=1779272828"
+      "image": "https://cdn.shopify.com/s/files/1/1097/5586/files/stronghold-v17-coffee-digital-2026-hero.jpg?v=1779272828",
+      "ended": "2026-06-11"
     },
     {
       "competitorId": "origin",
@@ -453,6 +456,47 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "source": "https://uk.linkedin.com/company/clifton-coffee",
       "spotted": "2026-06-10",
       "counter": "Our Cardiff roastery and London showroom can host the same — worth a quarterly trade open-day."
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "machine",
+      "name": "Schaerer Coffee Soul 12 (fresh milk)",
+      "detail": "Still the flagship hero machine; lease price now shown as £94.50/week, down £3 on the figure recorded 10 June. Pricing may be served dynamically — re-verify.",
+      "price": "From £94.50/week",
+      "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
+      "spotted": "2026-06-11",
+      "counter": "Weekly-lease pitches hide service costs. Quote total cost of ownership with our published callout and contract pricing."
+    },
+    {
+      "competitorId": "selecta",
+      "type": "machine",
+      "name": "Foodies smart fridges: Duo 850, Duo 600, Instant Single",
+      "detail": "New headline family on the vending range page — unattended retail fridges extending the Foodies micromarket concept, with guide pricing now published.",
+      "price": "Rental from £80–£400/month; new machines £4,000–£15,000",
+      "image": "https://www.selecta.com/dam/jcr:37310936-2028-47cb-87f6-9989fa9294e8/clientsolutions-vendingmachines-coffeevending-expertcoffeemachines.jpeg",
+      "source": "https://www.selecta.com/uk/en/campaigns/vending-machines-search",
+      "spotted": "2026-06-11",
+      "counter": "Unattended fridges are food retail, not coffee. Where the buyer wants better coffee, fresh-roasted bean-to-cup wins; qualify which problem they are solving early."
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "machine",
+      "name": "Featured slots: Aquablu REFILL+ hydration, Perfect Moose Jack milk steamer, Gusto 8 vending",
+      "detail": "Non-coffee kit now occupying homepage featured slots alongside the Soul 12 and K2; an ice machines category is also mid-rollout in the nav. Unclear exactly when these were added.",
+      "price": "",
+      "source": "https://www.liquidline.co.uk/",
+      "spotted": "2026-06-11",
+      "counter": "Their breadth play — one supplier for everything in the kitchen. Ours is depth: the coffee is ours from green bean to cup, and the pricing is published."
+    },
+    {
+      "competitorId": "ucc",
+      "type": "coffee",
+      "name": "Ueshima ready-to-drink iced lattes and iced matcha lattes",
+      "detail": "RTD line visible on the trade shop at £24.61 per 12x250ml — likely present for some time rather than a fresh launch, but not previously on record. Pairs with the matcha trend Liquidline is also pushing. Separately, two Ueshima/Lyons SKUs are showing sold out.",
+      "price": "£24.61 / 12x250ml",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee?page=2",
+      "spotted": "2026-06-11"
     }
   ]
 };
