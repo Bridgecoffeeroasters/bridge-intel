@@ -3,32 +3,32 @@ window.BCR=window.BCR||{};window.BCR.price={
   "bridgeBaseline": [
     {
       "item": "Wholesale beans",
-      "price": "£10–£20 / kg",
+      "price": "\u00a310\u2013\u00a320 / kg",
       "source": "https://bridgecoffeeroasters.co.uk/pricing"
     },
     {
       "item": "Machines (lease or purchase)",
-      "price": "£3,500–£62,500",
+      "price": "\u00a33,500\u2013\u00a362,500",
       "source": "https://bridgecoffeeroasters.co.uk/pricing"
     },
     {
       "item": "Engineer callout",
-      "price": "£185 incl. first 30 min + £15 / 15 min",
+      "price": "\u00a3185 incl. first 30 min + \u00a315 / 15 min",
       "source": "https://bridgecoffeeroasters.co.uk/pricing"
     },
     {
-      "item": "Service contract — espresso",
-      "price": "£500–£1,200 / yr",
+      "item": "Service contract \u2014 espresso",
+      "price": "\u00a3500\u2013\u00a31,200 / yr",
       "source": "https://bridgecoffeeroasters.co.uk/pricing"
     },
     {
-      "item": "Service contract — bean-to-cup",
-      "price": "£700–£2,000 / yr",
+      "item": "Service contract \u2014 bean-to-cup",
+      "price": "\u00a3700\u2013\u00a32,000 / yr",
       "source": "https://bridgecoffeeroasters.co.uk/pricing"
     },
     {
       "item": "SCA training",
-      "price": "From £165 (+£55 certification); standard visits free for wholesale customers",
+      "price": "From \u00a3165 (+\u00a355 certification); standard visits free for wholesale customers",
       "source": "https://bridgecoffeeroasters.co.uk/pricing"
     }
   ],
@@ -39,37 +39,37 @@ window.BCR=window.BCR||{};window.BCR.price={
         {
           "competitorId": "union",
           "item": "Retail blends 200g",
-          "price": "£7.95–£8.45",
+          "price": "\u00a37.95\u2013\u00a38.45",
           "change": "baseline"
         },
         {
           "competitorId": "union",
           "item": "Single origins",
-          "price": "~£13.85",
+          "price": "~\u00a313.85",
           "change": "baseline"
         },
         {
           "competitorId": "union",
           "item": "Geisha (premium)",
-          "price": "£35.00",
+          "price": "\u00a335.00",
           "change": "baseline"
         },
         {
           "competitorId": "origin",
           "item": "Retail blends 250g",
-          "price": "£12.50–£12.95",
+          "price": "\u00a312.50\u2013\u00a312.95",
           "change": "baseline"
         },
         {
           "competitorId": "origin",
           "item": "Capsule subscription",
-          "price": "From £12 / delivery",
+          "price": "From \u00a312 / delivery",
           "change": "baseline"
         },
         {
           "competitorId": "clifton",
           "item": "Retail bags",
-          "price": "£11–£12 (20% off subscription)",
+          "price": "\u00a311\u2013\u00a312 (20% off subscription)",
           "change": "baseline"
         },
         {
@@ -104,20 +104,37 @@ window.BCR=window.BCR||{};window.BCR.price={
         {
           "competitorId": "liquidline",
           "item": "Schaerer Coffee Soul 12 lease",
-          "price": "£94.50 / week",
-          "change": "-£3.00/wk vs 10 Jun (£97.50); possibly dynamic pricing — re-verify"
+          "price": "\u00a394.50 / week",
+          "change": "-\u00a33.00/wk vs 10 Jun (\u00a397.50); possibly dynamic pricing \u2014 re-verify"
         },
         {
           "competitorId": "selecta",
           "item": "Machines/vending",
-          "price": "Rental £80–£400 / month; new machines £4,000–£15,000 (guide)",
+          "price": "Rental \u00a380\u2013\u00a3400 / month; new machines \u00a34,000\u2013\u00a315,000 (guide)",
           "change": "Guide pricing now published vs enquiry-only on 10 Jun"
         },
         {
           "competitorId": "origin",
           "item": "Cold brew espresso concentrate 500ml",
-          "price": "£8.00 one-time / £6.40 subscription",
-          "change": "+£2.00 headline vs 'from £6.00' on 10 Jun — launch offer lapsed"
+          "price": "\u00a38.00 one-time / \u00a36.40 subscription",
+          "change": "+\u00a32.00 headline vs 'from \u00a36.00' on 10 Jun \u2014 launch offer lapsed"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "entries": [
+        {
+          "competitorId": "selecta",
+          "item": "Machines/vending",
+          "price": "Enquiry-led again - guide pricing no longer visible",
+          "change": "Guide pricing published 11 Jun (rental \u00a380\u2013\u00a3400/month; machines \u00a34,000\u2013\u00a315,000) withdrawn from public pages by 12 Jun"
+        },
+        {
+          "competitorId": "liquidline",
+          "item": "Water/hydration lease",
+          "price": "Aquablu REFILL+ from \u00a336.00/week; L4 from \u00a34.50/week; Billi OmniOne Plus 9 Sparkling \u00a326.00/week",
+          "change": "baseline - first capture of visible water lease pricing"
         }
       ]
     }
