@@ -1,6 +1,26 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-06-15",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "Clifton drops Cadence, a single-origin espresso, and sells it out",
+      "detail": "Clifton has added Cadence Espresso to the range \u2014 a Colombian Caturra from Nestor Lasso's El Diviso farm in Pitalito, Huila, thermal-shock washed, at \u00a314.00 per 250g (also 1kg). Bag imagery is labelled Cadence_bag_May_26 and the product already shows as sold out, suggesting a recent, fast-selling seasonal drop. It sits above their \u00a311\u2013\u00a312 house band and continues the premium single-origin-as-espresso push alongside the Unparalleled Series.",
+      "bridgeResponse": "Clifton keeps competing on rare, high-priced single lots that sell out fast \u2014 a retail-led specialty story. Bridge competes on supply you can build a business on: consistent house blends roasted in Cardiff since 1985, published at \u00a310\u2013\u00a320/kg, with the equipment, engineers and training behind the cup.",
+      "source": "https://cliftoncoffee.co.uk/products/cadence-espresso",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-06-15",
+      "competitorId": "origin",
+      "category": "social",
+      "headline": "Origin's cold brew concentrate showing sold out on the homepage",
+      "detail": "Origin's flagship Cold Brew Espresso Concentrate (\u00a38.00) is now flagged sold out in the homepage 'Our Favourites' module, though the coffee collection page still lists it at \u00a38.00 without the flag. This may be a homepage-module stockout or display lag rather than a full delisting; treat as a soft demand/supply signal on their headline summer launch rather than a strategy change.",
+      "bridgeResponse": "If it is a genuine sell-through, it shows the appetite for ready-to-serve cold formats. Bridge's answer stays the same: a full stack \u2014 beans, machines and engineers \u2014 so a venue's cold offer does not depend on one roaster's stock.",
+      "source": "https://www.origincoffee.co.uk/",
+      "severity": "info"
+    },
+    {
       "date": "2026-06-12",
       "competitorId": "liquidline",
       "category": "acquisition",

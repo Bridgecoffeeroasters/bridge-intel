@@ -1,7 +1,18 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-06-12",
+  "lastUpdated": "2026-06-15",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Cadence Espresso \u2014 El Diviso, Colombia",
+      "detail": "New single-origin seasonal espresso (Caturra, thermal-shock washed, Nestor Lasso's El Diviso farm), \u00a314.00/250g. Already sold out at time of capture \u2014 a fast-moving premium drop above the house band.",
+      "price": "\u00a314.00 / 250g",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Cadence_bag_May_26_83337d36-db0a-4798-b17c-d9657ba1d1ba.png?v=1777915054",
+      "source": "https://cliftoncoffee.co.uk/products/cadence-espresso",
+      "spotted": "2026-06-15",
+      "counter": "Rare lots that sell out are a marketing event, not a supply. Bridge roasts consistent, available house coffee in Cardiff at published \u00a310\u2013\u00a320/kg \u2014 the cup is in stock when the customer needs it."
+    },
     {
       "competitorId": "liquidline",
       "type": "machine",
