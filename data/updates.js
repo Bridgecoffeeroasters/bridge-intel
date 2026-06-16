@@ -1,6 +1,26 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-06-16",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "Clifton extends beyond coffee with a ceremonial matcha line",
+      "detail": "Clifton has added Clifton Matcha, a 100g ceremonial-grade matcha sourced from Guizhou, China, at \u00a318.00, now listed in new arrivals beside its tea and chai range. The product page still carries temporary packaging artwork, which suggests a soft launch. It mirrors a wider UK speciality move into matcha and broadens Clifton's range beyond coffee.",
+      "bridgeResponse": "A range extension rather than a coffee threat. Bridge stays on the full stack \u2014 Cardiff roasting since 1985, Sanremo, Eversys and Schaerer equipment, UK-wide engineers and SCA training \u2014 and can add matcha to a wholesale order where a customer asks, without making it the headline.",
+      "source": "https://cliftoncoffee.co.uk/products/clifton-matcha",
+      "severity": "info"
+    },
+    {
+      "date": "2026-06-16",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Origin's weekly release is Karira Hill, a transparency-led Burundi single origin",
+      "detail": "Origin's current weekly release is Karira Hill, a washed Red Bourbon from Muyinga District, Burundi at \u00a313.75/250g, from a relationship the roaster says is three years in the making. It is published with full transparency data \u2014 FOB $4.48/lb, +149% above the Fairtrade minimum and a cup score of 86.5 \u2014 reinforcing the weekly-cadence, sourcing-led model that is Origin's core retail strength.",
+      "bridgeResponse": "Origin competes in retail subscriptions; Bridge's contest is in trade. Where Origin is strong is published sourcing transparency \u2014 Bridge answers with its own openness as the only supplier in this set to publish trade pricing (beans \u00a310\u2013\u00a320/kg), plus Roots Collection Fairtrade, Organic and Rainforest Alliance certification.",
+      "source": "https://www.origincoffee.co.uk/products/karira-hill",
+      "severity": "info"
+    },
+    {
       "date": "2026-06-15",
       "competitorId": "clifton",
       "category": "launch",

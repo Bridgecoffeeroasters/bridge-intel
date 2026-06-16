@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-16",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -386,7 +386,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
         "Investing in wholesale sales capability \u2014 a visible growth push",
         "New warehouse lease at Avon Riverside (2025): 300+ pallet bays \u2014 capacity expansion",
         "Range diversification: capsules, speciality instant, tea and chai",
-        "Exhibited at London Coffee Festival May 2026; 20% subscription push on homepage"
+        "Exhibited at London Coffee Festival May 2026; 20% subscription push on homepage",
+        "Extending beyond coffee into matcha \u2014 Clifton Matcha, \u00a318/100g ceremonial grade from Guizhou, launched June 2026"
       ],
       "keywords": [
         "single origin coffee",

@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-06-15",
+  "lastUpdated": "2026-06-16",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
   "items": [
     {
@@ -539,6 +539,28 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "source": "https://www.origincoffee.co.uk/products/pai-heroi",
       "spotted": "2026-06-12",
       "counter": "No teaser rates at Bridge - flat published pricing and free standard training visits for wholesale customers."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Latest weekly release: Karira Hill, Burundi",
+      "detail": "Washed Red Bourbon from Muyinga District, Burundi; notes of blackcurrant, rhubarb and dark chocolate. Published with full transparency: FOB $4.48/lb, +149% above the Fairtrade minimum, cup score 86.5.",
+      "price": "\u00a313.75 / 250g",
+      "image": "https://www.origincoffee.co.uk/cdn/shop/files/Karira_Hill-coffee-digital-2025.webp?v=1781251845",
+      "source": "https://www.origincoffee.co.uk/products/karira-hill",
+      "spotted": "2026-06-16",
+      "counter": "Bridge meets retail cadence with trade reliability and equal openness: published bean pricing at \u00a310\u2013\u00a320/kg and Roots Collection Fairtrade, Organic and Rainforest Alliance certification."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Clifton Matcha (ceremonial grade)",
+      "detail": "New 100g ceremonial-grade matcha from Guizhou, China \u2014 a category extension beyond coffee and tea, launched on temporary packaging.",
+      "price": "\u00a318.00 / 100g",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/TempPackagingFinal_5efeccf7-1d88-459c-ba9d-d521a4f011e1.png?v=1777390814",
+      "source": "https://cliftoncoffee.co.uk/products/clifton-matcha",
+      "spotted": "2026-06-16",
+      "counter": "A range add-on, not an equipment or roasting threat; Bridge keeps the conversation on its full coffee stack and can supply matcha on request."
     }
   ]
 };
