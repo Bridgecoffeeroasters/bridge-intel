@@ -62,6 +62,11 @@ h3{font-size:18px;font-weight:600;margin-bottom:6px}
 .btn.amber{background:var(--amber)}
 .btn.ghost{background:transparent;color:var(--blue);border:1.5px solid var(--blue)}
 .feed-item{display:flex;gap:18px;padding:20px 0;border-bottom:1px solid var(--stone200)}
+.feed-img{flex:0 0 auto;width:84px;height:84px;border-radius:10px;overflow:hidden;background:var(--bone);border:1px solid var(--stone200);display:flex;align-items:center;justify-content:center}
+.feed-img img{width:100%;height:100%;object-fit:cover;display:block}
+.feed-img.logo{background:var(--paper);padding:14px}
+.feed-img.logo img{object-fit:contain}
+@media(max-width:600px){.feed-img{width:60px;height:60px}}
 .feed-date{min-width:92px;font-size:13px;color:var(--ink);font-weight:600;padding-top:2px}
 .feed-body h3{margin-bottom:4px}
 .feed-meta{display:flex;gap:8px;margin-bottom:8px;flex-wrap:wrap;align-items:center}
@@ -230,6 +235,7 @@ function esc(s){return String(s??"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt
 const CAT_LABELS={launch:"Product launch",hiring:"Expansion signal",strategy:"Strategy",campaign:"Campaign",event:"Trade event",acquisition:"Acquisition",award:"Award",pricing:"Pricing",content:"Content / SEO",social:"Social",ads:"Paid media"};
 
 let feedFilters={comp:"all",sev:"all"};
+function feedImgErr(el,logo){if(logo&&!el.dataset.fb){el.dataset.fb=1;el.src=logo;var p=el.closest('.feed-img');if(p)p.classList.add('logo');}else{var p2=el.closest('.feed-img');if(p2)p2.style.display='none';}}
 function viewDashboard(){
   const u=DATA.upd.updates.slice().sort((a,b)=>b.date.localeCompare(a.date));
   const threats=u.filter(x=>x.severity==="threat").length;
@@ -254,9 +260,13 @@ function viewDashboard(){
   if(!items.length)html+=`<p class="muted" style="padding:20px 0">No entries match these filters.</p>`;
   items.forEach(x=>{
     const c=byId(x.competitorId);
+    const imgSrc=x.image||(c&&c.logo)||"";
+    const logoFb=(c&&c.logo)?c.logo:"";
+    const imgCls=x.image?"feed-img":"feed-img logo";
     html+=`<div class="feed-item">
-      <div class="feed-date">${fmtDate(x.date)}</div>
-      <div class="feed-body" style="flex:1">
+      <div class="feed-date">${fmtDate(x.date)}</div>`;
+    if(imgSrc)html+=`<div class="${imgCls}"><img src="${esc(imgSrc)}" alt="${esc(c?c.shortName:x.competitorId)}" loading="lazy" onerror="feedImgErr(this,'${esc(logoFb)}')"></div>`;
+    html+=`<div class="feed-body" style="flex:1">
         <div class="feed-meta">
           <a class="chip" style="text-decoration:none" href="#competitor/${x.competitorId}">${esc(c?c.shortName:x.competitorId)}</a>
           <span class="chip">${CAT_LABELS[x.category]||esc(x.category)}</span>

@@ -3,6 +3,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
   "competitors": [
     {
       "id": "matthew-algie",
+      "logo": "https://www.google.com/s2/favicons?domain=matthewalgie.com&sz=128",
       "name": "Matthew Algie",
       "shortName": "Algie",
       "website": "https://www.matthewalgie.com/",
@@ -66,6 +67,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
     },
     {
       "id": "liquidline",
+      "logo": "https://www.google.com/s2/favicons?domain=liquidline.co.uk&sz=128",
       "name": "Liquidline",
       "shortName": "Liquidline",
       "website": "https://www.liquidline.co.uk/",
@@ -131,6 +133,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
     },
     {
       "id": "selecta",
+      "logo": "https://www.google.com/s2/favicons?domain=selecta.com&sz=128",
       "name": "Selecta UK",
       "shortName": "Selecta",
       "website": "https://www.selecta.com/uk/en",
@@ -195,6 +198,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
     },
     {
       "id": "ucc",
+      "logo": "https://www.google.com/s2/favicons?domain=ucc-europe.com&sz=128",
       "name": "UCC Coffee UK&I",
       "shortName": "UCC",
       "website": "https://ucc-europe.com/markets/uk-ireland/",
@@ -252,6 +256,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
     },
     {
       "id": "union",
+      "logo": "https://www.google.com/s2/favicons?domain=unionroasted.com&sz=128",
       "name": "Union Hand-Roasted Coffee",
       "shortName": "Union",
       "website": "https://unionroasted.com/",
@@ -308,6 +313,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
     },
     {
       "id": "origin",
+      "logo": "https://www.google.com/s2/favicons?domain=origincoffee.co.uk&sz=128",
       "name": "Origin Coffee",
       "shortName": "Origin",
       "website": "https://www.origincoffee.co.uk/",
@@ -371,6 +377,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
     },
     {
       "id": "clifton",
+      "logo": "https://www.google.com/s2/favicons?domain=cliftoncoffee.co.uk&sz=128",
       "name": "Clifton Coffee Roasters",
       "shortName": "Clifton",
       "website": "https://cliftoncoffee.co.uk/",
