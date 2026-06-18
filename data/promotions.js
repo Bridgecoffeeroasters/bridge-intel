@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-06-17",
+  "lastUpdated": "2026-06-18",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
   "items": [
     {
@@ -561,6 +561,28 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "source": "https://cliftoncoffee.co.uk/products/clifton-matcha",
       "spotted": "2026-06-16",
       "counter": "A range add-on, not an equipment or roasting threat; Bridge keeps the conversation on its full coffee stack and can supply matcha on request."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Guatemala - La Esperanza (single origin)",
+      "detail": "Washed Pacamara from Finca La Esperanza in Huehuetenango, founded 1953 and a four-time Cup of Excellence farm; notes of blackberry, cr\u00e8me br\u00fbl\u00e9e and baker's chocolate. Listed at \u00a314.00/250g (also 1kg) and currently showing as sold out.",
+      "price": "\u00a314.00 / 250g",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/GuatemalaEsperanza.png?v=1780442498",
+      "source": "https://cliftoncoffee.co.uk/products/guatemala-la-esperanza",
+      "spotted": "2026-06-18",
+      "counter": "Bridge competes on the full stack rather than the single-origin shelf, but matches award-farm provenance through the Roots Collection (certified Fairtrade, Organic and Rainforest Alliance) and is the only supplier in the set to publish its bean pricing (\u00a310\u2013\u00a320/kg)."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Guatemala Cascara (Gesha, 100g)",
+      "detail": "Dried coffee cherry husk from Luis Pedro's Buena Vista and La Folie farms, this year's lots blended on cup profile; notes of cranberry, maple syrup and citrus peel. \u00a36.50/100g (also 500g), currently sold out \u2014 a second range extension beyond coffee after Clifton Matcha.",
+      "price": "\u00a36.50 / 100g",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Guatemala_Cascara.png?v=1778658804",
+      "source": "https://cliftoncoffee.co.uk/products/guatemala-cascara",
+      "spotted": "2026-06-18",
+      "counter": "A niche speciality line. Bridge keeps the conversation on equipment, engineering and training, and can add cascara to a wholesale order on request."
     }
   ]
 };
