@@ -1,13 +1,34 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-06-19",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Origin's weekly feature rotates to Kiryama Hill, a Burundi Red Bourbon",
+      "image": "https://www.origincoffee.co.uk/cdn/shop/files/Filter-Coffee_1024x1024.webp?v=1776419937",
+      "detail": "Origin's weekly-release slot has moved on to Kiryama Hill, a washed Red Bourbon from Muyinga, Burundi (Prosper Merimee / TIB Coffee), at £13.75/250g with notes of honeydew melon, apple juice and caramel. It supersedes last week's Karira Hill from the same district. Note: at capture the site's top-nav 'latest weekly release' link still pointed to Karira Hill, so the changeover may be mid-transition and the exact switch date is approximate.",
+      "bridgeResponse": "A retail cadence play, not a wholesale one. Bridge keeps a consistent core espresso for trade customers who need the same cup every week, while matching Origin's openness with published bean pricing at £10–£20/kg and Roots Collection Fairtrade, Organic and Rainforest Alliance certification.",
+      "source": "https://www.origincoffee.co.uk/products/kiryama-hill",
+      "severity": "info"
+    },
+    {
+      "date": "2026-06-19",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Origin lists Caxambu Bourbon, a sail-shipped Brazilian single origin",
+      "detail": "Origin has listed Caxambu Bourbon, a natural-process Bourbon from the Caxambu farm in Brazil, at £16.90/250g with notes of green grape, melon and vanilla. It ties into Origin's 'shipped by sail' sustainability story — the lot was carried Brazil-to-France by sail ship — and appears to be one of a series of Caxambu varieties Origin is releasing this year. The exact on-sale date is unconfirmed, so treat it as newly surfaced rather than dated to this week.",
+      "bridgeResponse": "Low-carbon shipping is a fair point to Origin. Bridge's sustainability proof is certified rather than logistical — the Roots Collection is Fairtrade, Organic and Rainforest Alliance — backed by transparent per-kg pricing customers can check and a full UK-wide service stack.",
+      "source": "https://www.origincoffee.co.uk/products/caxambu-bourbon",
+      "severity": "info"
+    },
+    {
       "date": "2026-06-18",
       "competitorId": "clifton",
       "category": "launch",
       "headline": "Clifton adds a Guatemalan cascara, extending its range beyond coffee again",
       "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Guatemala_Cascara.png?v=1778658804",
-      "detail": "Clifton has listed Guatemala Cascara \u2014 the dried coffee cherry husk, a Gesha-varietal lot from Luis Pedro's Buena Vista and La Folie farms \u2014 at \u00a36.50/100g, with notes of cranberry, maple syrup and citrus peel. It is currently shown as sold out, suggesting a small batch. Coming shortly after Clifton Matcha, it is a second step in widening the range beyond coffee, though both are niche speciality lines rather than core volume.",
-      "bridgeResponse": "Range edges, not the core contest. Bridge stays on the full stack \u2014 Cardiff roasting since 1985, Sanremo, Eversys and Schaerer equipment, UK-wide engineers and SCA training \u2014 and can list cascara or matcha on a wholesale order where a customer asks, without making either the headline.",
+      "detail": "Clifton has listed Guatemala Cascara — the dried coffee cherry husk, a Gesha-varietal lot from Luis Pedro's Buena Vista and La Folie farms — at £6.50/100g, with notes of cranberry, maple syrup and citrus peel. It is currently shown as sold out, suggesting a small batch. Coming shortly after Clifton Matcha, it is a second step in widening the range beyond coffee, though both are niche speciality lines rather than core volume.",
+      "bridgeResponse": "Range edges, not the core contest. Bridge stays on the full stack — Cardiff roasting since 1985, Sanremo, Eversys and Schaerer equipment, UK-wide engineers and SCA training — and can list cascara or matcha on a wholesale order where a customer asks, without making either the headline.",
       "source": "https://cliftoncoffee.co.uk/products/guatemala-cascara",
       "severity": "info"
     },
@@ -17,8 +38,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "launch",
       "headline": "Clifton extends beyond coffee with a ceremonial matcha line",
       "image": "https://cliftoncoffee.co.uk/cdn/shop/files/TempPackagingFinal_5efeccf7-1d88-459c-ba9d-d521a4f011e1.png?v=1777390814",
-      "detail": "Clifton has added Clifton Matcha, a 100g ceremonial-grade matcha sourced from Guizhou, China, at \u00a318.00, now listed in new arrivals beside its tea and chai range. The product page still carries temporary packaging artwork, which suggests a soft launch. It mirrors a wider UK speciality move into matcha and broadens Clifton's range beyond coffee.",
-      "bridgeResponse": "A range extension rather than a coffee threat. Bridge stays on the full stack \u2014 Cardiff roasting since 1985, Sanremo, Eversys and Schaerer equipment, UK-wide engineers and SCA training \u2014 and can add matcha to a wholesale order where a customer asks, without making it the headline.",
+      "detail": "Clifton has added Clifton Matcha, a 100g ceremonial-grade matcha sourced from Guizhou, China, at £18.00, now listed in new arrivals beside its tea and chai range. The product page still carries temporary packaging artwork, which suggests a soft launch. It mirrors a wider UK speciality move into matcha and broadens Clifton's range beyond coffee.",
+      "bridgeResponse": "A range extension rather than a coffee threat. Bridge stays on the full stack — Cardiff roasting since 1985, Sanremo, Eversys and Schaerer equipment, UK-wide engineers and SCA training — and can add matcha to a wholesale order where a customer asks, without making it the headline.",
       "source": "https://cliftoncoffee.co.uk/products/clifton-matcha",
       "severity": "info"
     },
@@ -28,8 +49,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "launch",
       "headline": "Origin's weekly release is Karira Hill, a transparency-led Burundi single origin",
       "image": "https://www.origincoffee.co.uk/cdn/shop/files/Karira_Hill-coffee-digital-2025.webp?v=1781251845",
-      "detail": "Origin's current weekly release is Karira Hill, a washed Red Bourbon from Muyinga District, Burundi at \u00a313.75/250g, from a relationship the roaster says is three years in the making. It is published with full transparency data \u2014 FOB $4.48/lb, +149% above the Fairtrade minimum and a cup score of 86.5 \u2014 reinforcing the weekly-cadence, sourcing-led model that is Origin's core retail strength.",
-      "bridgeResponse": "Origin competes in retail subscriptions; Bridge's contest is in trade. Where Origin is strong is published sourcing transparency \u2014 Bridge answers with its own openness as the only supplier in this set to publish trade pricing (beans \u00a310\u2013\u00a320/kg), plus Roots Collection Fairtrade, Organic and Rainforest Alliance certification.",
+      "detail": "Origin's current weekly release is Karira Hill, a washed Red Bourbon from Muyinga District, Burundi at £13.75/250g, from a relationship the roaster says is three years in the making. It is published with full transparency data — FOB $4.48/lb, +149% above the Fairtrade minimum and a cup score of 86.5 — reinforcing the weekly-cadence, sourcing-led model that is Origin's core retail strength.",
+      "bridgeResponse": "Origin competes in retail subscriptions; Bridge's contest is in trade. Where Origin is strong is published sourcing transparency — Bridge answers with its own openness as the only supplier in this set to publish trade pricing (beans £10–£20/kg), plus Roots Collection Fairtrade, Organic and Rainforest Alliance certification.",
       "source": "https://www.origincoffee.co.uk/products/karira-hill",
       "severity": "info"
     },
@@ -39,8 +60,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "launch",
       "headline": "Clifton drops Cadence, a single-origin espresso, and sells it out",
       "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Cadence_bag_May_26_83337d36-db0a-4798-b17c-d9657ba1d1ba.png?v=1777915054",
-      "detail": "Clifton has added Cadence Espresso to the range \u2014 a Colombian Caturra from Nestor Lasso's El Diviso farm in Pitalito, Huila, thermal-shock washed, at \u00a314.00 per 250g (also 1kg). Bag imagery is labelled Cadence_bag_May_26 and the product already shows as sold out, suggesting a recent, fast-selling seasonal drop. It sits above their \u00a311\u2013\u00a312 house band and continues the premium single-origin-as-espresso push alongside the Unparalleled Series.",
-      "bridgeResponse": "Clifton keeps competing on rare, high-priced single lots that sell out fast \u2014 a retail-led specialty story. Bridge competes on supply you can build a business on: consistent house blends roasted in Cardiff since 1985, published at \u00a310\u2013\u00a320/kg, with the equipment, engineers and training behind the cup.",
+      "detail": "Clifton has added Cadence Espresso to the range — a Colombian Caturra from Nestor Lasso's El Diviso farm in Pitalito, Huila, thermal-shock washed, at £14.00 per 250g (also 1kg). Bag imagery is labelled Cadence_bag_May_26 and the product already shows as sold out, suggesting a recent, fast-selling seasonal drop. It sits above their £11–£12 house band and continues the premium single-origin-as-espresso push alongside the Unparalleled Series.",
+      "bridgeResponse": "Clifton keeps competing on rare, high-priced single lots that sell out fast — a retail-led specialty story. Bridge competes on supply you can build a business on: consistent house blends roasted in Cardiff since 1985, published at £10–£20/kg, with the equipment, engineers and training behind the cup.",
       "source": "https://cliftoncoffee.co.uk/products/cadence-espresso",
       "severity": "watch"
     },
@@ -50,8 +71,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "social",
       "headline": "Origin's cold brew concentrate showing sold out on the homepage",
       "image": "https://cdn.shopify.com/s/files/1/1097/5586/collections/Menu-4.webp?v=1780475526",
-      "detail": "Origin's flagship Cold Brew Espresso Concentrate (\u00a38.00) is now flagged sold out in the homepage 'Our Favourites' module, though the coffee collection page still lists it at \u00a38.00 without the flag. This may be a homepage-module stockout or display lag rather than a full delisting; treat as a soft demand/supply signal on their headline summer launch rather than a strategy change.",
-      "bridgeResponse": "If it is a genuine sell-through, it shows the appetite for ready-to-serve cold formats. Bridge's answer stays the same: a full stack \u2014 beans, machines and engineers \u2014 so a venue's cold offer does not depend on one roaster's stock.",
+      "detail": "Origin's flagship Cold Brew Espresso Concentrate (£8.00) is now flagged sold out in the homepage 'Our Favourites' module, though the coffee collection page still lists it at £8.00 without the flag. This may be a homepage-module stockout or display lag rather than a full delisting; treat as a soft demand/supply signal on their headline summer launch rather than a strategy change.",
+      "bridgeResponse": "If it is a genuine sell-through, it shows the appetite for ready-to-serve cold formats. Bridge's answer stays the same: a full stack — beans, machines and engineers — so a venue's cold offer does not depend on one roaster's stock.",
       "source": "https://www.origincoffee.co.uk/",
       "severity": "info"
     },
@@ -60,8 +81,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "competitorId": "liquidline",
       "category": "correction",
       "headline": "Liquidline's Underdog Coffee acquisition is old news and not a roaster",
-      "detail": "Re-examined: Underdog Coffee Company is a small white-label coffee business, not a speciality roaster, and the acquisition was announced back in November 2025 \u2014 old news rather than a fresh move. It does not give Liquidline a credible own-roast story; their coffee credibility gap is unchanged.",
-      "bridgeResponse": "No change to our position. Liquidline remains an equipment-led house without a roastery of its own. Bridge's roaster-first story stands: roasting in Cardiff since 1985, Roots Collection certified Fairtrade, Organic and Rainforest Alliance, published bean pricing at \u00a310\u2013\u00a320/kg.",
+      "detail": "Re-examined: Underdog Coffee Company is a small white-label coffee business, not a speciality roaster, and the acquisition was announced back in November 2025 — old news rather than a fresh move. It does not give Liquidline a credible own-roast story; their coffee credibility gap is unchanged.",
+      "bridgeResponse": "No change to our position. Liquidline remains an equipment-led house without a roastery of its own. Bridge's roaster-first story stands: roasting in Cardiff since 1985, Roots Collection certified Fairtrade, Organic and Rainforest Alliance, published bean pricing at £10–£20/kg.",
       "source": "https://www.liquidline.co.uk/news/liquidline-acquires-sustainable-coffee-company/",
       "severity": "low"
     },
@@ -71,7 +92,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "campaign",
       "headline": "Selecta demotes smart fridges and pulls guide pricing from public view",
       "image": "https://www.selecta.com/dam/jcr:37310936-2028-47cb-87f6-9989fa9294e8/clientsolutions-vendingmachines-coffeevending-expertcoffeemachines.jpeg",
-      "detail": "Homepage now leads with 'Smarter retail. Instant Joy.' and a hot-beverage brand push (Starbucks, Change Please, Pelican Rouge). Smart fridges are off the homepage, the UK fridge page lists only the Duo 600 and Duo 850, and the guide pricing published on 11 June (rental \u00a380\u2013\u00a3400/month, machines \u00a34,000\u2013\u00a315,000) is no longer visible. Pricing appears withdrawn rather than changed.",
+      "detail": "Homepage now leads with 'Smarter retail. Instant Joy.' and a hot-beverage brand push (Starbucks, Change Please, Pelican Rouge). Smart fridges are off the homepage, the UK fridge page lists only the Duo 600 and Duo 850, and the guide pricing published on 11 June (rental £80–£400/month, machines £4,000–£15,000) is no longer visible. Pricing appears withdrawn rather than changed.",
       "bridgeResponse": "Their pricing transparency lasted a day. Bridge publishes its full price list permanently - keep putting our pricing page in front of prospects comparing the two.",
       "source": "https://www.selecta.com/uk/en",
       "severity": "watch"
@@ -91,8 +112,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "competitorId": "origin",
       "category": "pricing",
       "headline": "Origin running aggressive subscription acquisition offer",
-      "detail": "Product pages now show 25% off the first three subscription orders, then a fixed 10%, plus 15 reward points per \u00a31 and milestone gifts. Possibly pre-dates this week but newly observed; combined with their office subscription route it is a push for recurring revenue.",
-      "bridgeResponse": "Teaser-rate mechanics versus a flat honest price. Bridge wholesale customers get \u00a310\u2013\u00a320/kg published, no introductory cliff, plus free standard training visits.",
+      "detail": "Product pages now show 25% off the first three subscription orders, then a fixed 10%, plus 15 reward points per £1 and milestone gifts. Possibly pre-dates this week but newly observed; combined with their office subscription route it is a push for recurring revenue.",
+      "bridgeResponse": "Teaser-rate mechanics versus a flat honest price. Bridge wholesale customers get £10–£20/kg published, no introductory cliff, plus free standard training visits.",
       "source": "https://www.origincoffee.co.uk/products/pai-heroi",
       "severity": "watch"
     },
@@ -101,8 +122,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "competitorId": "origin",
       "category": "launch",
       "headline": "Origin releases limited-edition Ocampo family Gesha duo",
-      "detail": "Black Cedar (natural, from \u00a316.70) and Calliandra (washed, from \u00a323.90), both Colombian Geshas from the Ocampo family, released to mark London Coffee Festival and carried in the homepage favourites carousel. Review counts suggest a recent listing, though it may have launched up to two weeks ago.",
-      "bridgeResponse": "Retail halo play. In trade conversations stay on consistency, service and published pricing - and note Roots Collection covers the certified-sourcing story without the \u00a324 price tag.",
+      "detail": "Black Cedar (natural, from £16.70) and Calliandra (washed, from £23.90), both Colombian Geshas from the Ocampo family, released to mark London Coffee Festival and carried in the homepage favourites carousel. Review counts suggest a recent listing, though it may have launched up to two weeks ago.",
+      "bridgeResponse": "Retail halo play. In trade conversations stay on consistency, service and published pricing - and note Roots Collection covers the certified-sourcing story without the £24 price tag.",
       "source": "https://www.origincoffee.co.uk/products/calliandra",
       "severity": "watch"
     },
@@ -112,7 +133,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "launch",
       "headline": "Clifton expands Unparalleled Series to four Colombian lots",
       "image": "https://cdn.shopify.com/s/files/1/0866/0221/9868/collections/DSC07339-3.jpg?v=1756448429",
-      "detail": "Alongside the known Ombligon (\u00a315/120g): Pink Bourbon - Sebastian Ramirez \u00a320.75/120g, Gesha - Wilton Benitez \u00a320.00/120g, and Sidra - Sebastian Ramirez \u00a325.00/120g, the Sidra already sold out. Zero reviews on the new lots suggest a very recent listing; exact launch date uncertain.",
+      "detail": "Alongside the known Ombligon (£15/120g): Pink Bourbon - Sebastian Ramirez £20.75/120g, Gesha - Wilton Benitez £20.00/120g, and Sidra - Sebastian Ramirez £25.00/120g, the Sidra already sold out. Zero reviews on the new lots suggest a very recent listing; exact launch date uncertain.",
       "bridgeResponse": "Their showcase range is selling through - credit where due. Bridge counters at the account level: consistency, UK-wide engineers and transparent contracts win the recurring business these halo coffees advertise.",
       "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
       "severity": "watch"
@@ -133,8 +154,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "launch",
       "headline": "Selecta puts smart fridges front and centre and publishes guide pricing",
       "image": "https://www.selecta.com/dam/jcr:37310936-2028-47cb-87f6-9989fa9294e8/clientsolutions-vendingmachines-coffeevending-expertcoffeemachines.jpeg",
-      "detail": "The vending range page now leads with a Foodies-branded smart fridge family \u2014 Duo 850 ('our most spacious unattended retail fridge'), Duo 600 and Instant Single \u2014 extending the micromarket concept into modular unattended retail. The same page now publishes guide pricing: rental from \u00a380\u2013\u00a3400 a month, new machines \u00a34,000\u2013\u00a315,000, refurbished offered. A visible step away from pure enquiry-only pricing.",
-      "bridgeResponse": "Selecta publishing even guide pricing chips at our 'only supplier with published pricing' line \u2014 ours remains far fuller (beans, callouts, service contracts). In workplace deals, contrast fresh-roasted bean-to-cup with unattended retail fridges, and qualify early whether the buyer wants coffee or food retail.",
+      "detail": "The vending range page now leads with a Foodies-branded smart fridge family — Duo 850 ('our most spacious unattended retail fridge'), Duo 600 and Instant Single — extending the micromarket concept into modular unattended retail. The same page now publishes guide pricing: rental from £80–£400 a month, new machines £4,000–£15,000, refurbished offered. A visible step away from pure enquiry-only pricing.",
+      "bridgeResponse": "Selecta publishing even guide pricing chips at our 'only supplier with published pricing' line — ours remains far fuller (beans, callouts, service contracts). In workplace deals, contrast fresh-roasted bean-to-cup with unattended retail fridges, and qualify early whether the buyer wants coffee or food retail.",
       "source": "https://www.selecta.com/uk/en/campaigns/vending-machines-search",
       "severity": "watch"
     },
@@ -142,10 +163,10 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "date": "2026-06-11",
       "competitorId": "liquidline",
       "category": "pricing",
-      "headline": "Liquidline Schaerer Soul 12 lease price down to \u00a394.50 a week",
+      "headline": "Liquidline Schaerer Soul 12 lease price down to £94.50 a week",
       "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png",
-      "detail": "The flagship machine's product page now shows 'Lease from \u00a394.50/week' against the \u00a397.50 recorded on 10 June \u2014 a \u00a33 a week reduction. Page metadata suggests pricing may be served dynamically, so this could be quote variation rather than a deliberate cut; worth re-verifying over the next few days.",
-      "bridgeResponse": "Their flagship lease just got cheaper on paper. Keep quoting total cost of ownership \u2014 weekly-lease pitches hide service costs, and our published callout and contract pricing makes the comparison concrete.",
+      "detail": "The flagship machine's product page now shows 'Lease from £94.50/week' against the £97.50 recorded on 10 June — a £3 a week reduction. Page metadata suggests pricing may be served dynamically, so this could be quote variation rather than a deliberate cut; worth re-verifying over the next few days.",
+      "bridgeResponse": "Their flagship lease just got cheaper on paper. Keep quoting total cost of ownership — weekly-lease pitches hide service costs, and our published callout and contract pricing makes the comparison concrete.",
       "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
       "severity": "watch"
     },
@@ -155,8 +176,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "pricing",
       "headline": "Origin cold brew concentrate launch pricing lapses",
       "image": "https://cdn.shopify.com/s/files/1/1097/5586/collections/Menu-4.webp?v=1780475526",
-      "detail": "The 500ml Cold Brew Espresso Concentrate page now shows \u00a38.00 one-time / \u00a36.40 on subscription, against the 'from \u00a36.00' recorded at launch on 10 June; the offer is now framed as 20% off your first three orders plus a welcome glass. Most likely the introductory price expiring rather than a list-price rise.",
-      "bridgeResponse": "No action needed. Useful data point that Origin's launch pricing was promotional \u2014 worth noting if prospects cite their RTD pricing.",
+      "detail": "The 500ml Cold Brew Espresso Concentrate page now shows £8.00 one-time / £6.40 on subscription, against the 'from £6.00' recorded at launch on 10 June; the offer is now framed as 20% off your first three orders plus a welcome glass. Most likely the introductory price expiring rather than a list-price rise.",
+      "bridgeResponse": "No action needed. Useful data point that Origin's launch pricing was promotional — worth noting if prospects cite their RTD pricing.",
       "source": "https://www.origincoffee.co.uk/products/cold-brew-espresso-concentrate",
       "severity": "info"
     },
@@ -166,8 +187,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "strategy",
       "headline": "Selecta CEO signals leasing-led 'zero capex' model",
       "image": "https://www.selecta.com/dam/jcr:dcfa4107-6546-4047-895f-7dbf8b00bb04/imgi_78_Coffetek%20NEO%20Q%20LATERAL.jpg",
-      "detail": "An April 2026 Business Focus Magazine interview with CEO Venkie Shantaram describes a 3\u20135 year plan centred on water and coffee and a move to a 'Zero Capex', leasing-led model. Surfaced via search; we have not verified the full interview text, but it is consistent with the post-recapitalisation consolidation already on record.",
-      "bridgeResponse": "Expect Selecta to lead with no-upfront-cost offers in workplace deals. Counter with transparent lifetime cost \u2014 lease structures shift cost into the contract, and our published service pricing exposes that.",
+      "detail": "An April 2026 Business Focus Magazine interview with CEO Venkie Shantaram describes a 3–5 year plan centred on water and coffee and a move to a 'Zero Capex', leasing-led model. Surfaced via search; we have not verified the full interview text, but it is consistent with the post-recapitalisation consolidation already on record.",
+      "bridgeResponse": "Expect Selecta to lead with no-upfront-cost offers in workplace deals. Counter with transparent lifetime cost — lease structures shift cost into the contract, and our published service pricing exposes that.",
       "source": "https://businessfocusmagazine.com/2026/04/10/selecta-preferred-vendor-interview-with-ceo-venkie-shantaram/",
       "severity": "info"
     },
@@ -176,7 +197,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "competitorId": "liquidline",
       "category": "event",
       "headline": "Liquidline exhibiting at Automotive Management Live 2026",
-      "detail": "Exhibitor listing for the automotive retail event at the NEC, alongside their dedicated automotive sector page \u2014 a vertical not previously on our radar for them. The listing surfaced via search today; we could not confirm when it was added, and the exhibitor page itself would not load for verification.",
+      "detail": "Exhibitor listing for the automotive retail event at the NEC, alongside their dedicated automotive sector page — a vertical not previously on our radar for them. The listing surfaced via search today; we could not confirm when it was added, and the exhibitor page itself would not load for verification.",
       "bridgeResponse": "Another vertical where they sell machines-first. Car dealerships are not a Bridge focus; no action unless dealership groups appear in our pipeline, where the roaster story plus published pricing is the wedge.",
       "source": "https://automotivemanagementlive.co.uk/exhibitors/liquidline",
       "severity": "info"
@@ -186,8 +207,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "competitorId": "origin",
       "category": "strategy",
       "headline": "Origin wholesale partnership with Cornish Bakery surfaced",
-      "detail": "Trade press coverage of a wholesale supply partnership between Origin and the Cornish Bakery chain \u2014 a multi-site B2B win that shows Origin converting its consumer brand into wholesale accounts. Publication date could not be verified and the deal likely predates this week; logged because it was not previously on record.",
-      "bridgeResponse": "Origin winning multi-site bakery wholesale is a reminder they compete for our core accounts, not just retail. Warrens Bakery is the direct reference to lead with in any bakery or caf\u00e9-chain conversation.",
+      "detail": "Trade press coverage of a wholesale supply partnership between Origin and the Cornish Bakery chain — a multi-site B2B win that shows Origin converting its consumer brand into wholesale accounts. Publication date could not be verified and the deal likely predates this week; logged because it was not previously on record.",
+      "bridgeResponse": "Origin winning multi-site bakery wholesale is a reminder they compete for our core accounts, not just retail. Warrens Bakery is the direct reference to lead with in any bakery or café-chain conversation.",
       "source": "https://bakeryinfo.co.uk/finished-goods/cornish-bakery-partners-with-fellow-cornwall-based-firm-origin-coffee/713858.article",
       "severity": "watch"
     },
@@ -197,7 +218,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "launch",
       "headline": "Origin relaunches capsules and launches cold brew espresso concentrate",
       "image": "https://cdn.shopify.com/s/files/1/1097/5586/collections/Menu-4.webp?v=1780475526",
-      "detail": "Homepage hero is now 'Speciality coffee capsules, redefined' \u2014 home-compostable capsules produced in-house in Cornwall (launched 3 June), alongside a Cold Brew Espresso Concentrate from a new purpose-built brewery. Their biggest NPD push in years.",
+      "detail": "Homepage hero is now 'Speciality coffee capsules, redefined' — home-compostable capsules produced in-house in Cornwall (launched 3 June), alongside a Cold Brew Espresso Concentrate from a new purpose-built brewery. Their biggest NPD push in years.",
       "bridgeResponse": "When capsules come up: we supply pods within wholesale, but the stronger economics for most operators are bean-to-cup with fresh-roasted beans. Position the cup quality and per-serve cost, not a capsule-for-capsule comparison.",
       "source": "https://www.teaandcoffee.net/news/39402/origin-coffee-launches-cold-brew-espresso-concentrate-and-specialty-coffee-capsules/",
       "severity": "watch"
@@ -208,7 +229,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "strategy",
       "headline": "Liquidline expanding its salesforce nationwide",
       "detail": "Public signals point to a substantial new-business push across England and Scotland, alongside investment in e-commerce, data and field engineering. Expect them to appear in more workplace and hospitality deals through the year.",
-      "bridgeResponse": "Expect more Liquidline noise in workplace and hospitality deals nationwide. Lead with the roaster story and published pricing \u2014 their pitch is machine-first and quote-first.",
+      "bridgeResponse": "Expect more Liquidline noise in workplace and hospitality deals nationwide. Lead with the roaster story and published pricing — their pitch is machine-first and quote-first.",
       "source": "https://uk.linkedin.com/company/liquidline",
       "severity": "threat"
     },
@@ -239,7 +260,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "strategy",
       "headline": "UCC quietly building retail and service capability",
       "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/collections/Asset_6.png?v=1639050592",
-      "detail": "Public signals show UCC strengthening its retail channel, marketing, training and equipment-installation functions \u2014 though their UK press footprint remains stale, with little visible PR since around 2020.",
+      "detail": "Public signals show UCC strengthening its retail channel, marketing, training and equipment-installation functions — though their UK press footprint remains stale, with little visible PR since around 2020.",
       "bridgeResponse": "No immediate action. UCC competes above our typical deal size; where we meet them (universities, caterers), sell the named-account-manager service they can't offer at mid-market.",
       "source": "https://ucc-europe.com/markets/uk-ireland/",
       "severity": "info"
@@ -250,7 +271,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "campaign",
       "headline": "Union pushing Father's Day gifting and super-premium Geishas",
       "image": "https://cdn.shopify.com/s/files/1/0060/6230/9494/files/GeishaMainProductimage.jpg?v=1762866873",
-      "detail": "Homepage hero is a Father's Day gift edit; new arrivals include Panama and Colombia Geishas at up to \u00a335. The Excelsa/Kew Gardens climate-resilience story (Oct 2025) remains their flagship narrative. Vacancies page is empty \u2014 no expansion signal.",
+      "detail": "Homepage hero is a Father's Day gift edit; new arrivals include Panama and Colombia Geishas at up to £35. The Excelsa/Kew Gardens climate-resilience story (Oct 2025) remains their flagship narrative. Vacancies page is empty — no expansion signal.",
       "bridgeResponse": "Consumer-facing activity, low wholesale threat. If their ethics story comes up in a pitch, lead with Roots certifications plus the service stack they don't offer.",
       "source": "https://unionroasted.com/",
       "severity": "info"
@@ -271,7 +292,7 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "category": "award",
       "headline": "Liquidline named #5 in UK's Best Workplaces 2026",
       "detail": "Great Place To Work ranking, heavily promoted on LinkedIn. Strong employer brand supports their sales hiring spree.",
-      "bridgeResponse": "No action needed \u2014 but expect them to recruit well. Worth noting for our own employer-brand thinking.",
+      "bridgeResponse": "No action needed — but expect them to recruit well. Worth noting for our own employer-brand thinking.",
       "source": "https://uk.linkedin.com/company/liquidline",
       "severity": "info"
     },
@@ -280,8 +301,8 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "competitorId": "ucc",
       "category": "event",
       "headline": "UCC, Clifton and others exhibited at London Coffee Festival 2026",
-      "detail": "LCF ran 14\u201317 May at the Truman Brewery. UCC and Clifton confirmed exhibitors; Matthew Algie staff attended per LinkedIn activity.",
-      "bridgeResponse": "Consider our own presence at Caff\u00e8 Culture (29\u201330 Sep 2026) \u2014 several competitors treat trade events as their main demand channel.",
+      "detail": "LCF ran 14–17 May at the Truman Brewery. UCC and Clifton confirmed exhibitors; Matthew Algie staff attended per LinkedIn activity.",
+      "bridgeResponse": "Consider our own presence at Caffè Culture (29–30 Sep 2026) — several competitors treat trade events as their main demand channel.",
       "source": "https://www.londoncoffeefestival.com/exhibitors/ucc",
       "severity": "info"
     },
@@ -303,10 +324,9 @@ window.BCR=window.BCR||{};window.BCR.upd={
       "headline": "Union launched UK-first Excelsa species with Kew Gardens",
       "image": "https://unionroasted.com/cdn/shop/articles/250929_UCHR_Blog_Post_1250_x_500px_05c4a54c-10c6-4497-bf98-2a8d601e5a82_1024x1024.jpg?v=1759838801",
       "detail": "Climate-resilience narrative developed with Dr Aaron Davis (Kew). Strong PR coverage; the story still anchors their brand in June 2026.",
-      "bridgeResponse": "A reminder that origin stories earn press. Our Explorers Collection traceability has similar potential \u2014 consider a content push with the roastery team.",
+      "bridgeResponse": "A reminder that origin stories earn press. Our Explorers Collection traceability has similar potential — consider a content push with the roastery team.",
       "source": "https://unionroasted.com/blogs/latest/introducing-a-thrilling-new-chapter-in-coffee-meet-excelsa",
       "severity": "watch"
     }
   ]
-}
-;
+};
