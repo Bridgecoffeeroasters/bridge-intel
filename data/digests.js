@@ -20,7 +20,17 @@ window.BCR=window.BCR||{};window.BCR.dig={
         "Lead with Warrens Bakery and other multi-site references early in any bakery or café-chain conversation, now Origin is converting its consumer brand into wholesale accounts",
         "Protect South Wales and Bristol-adjacent accounts against Clifton's M4/M5 wholesale push, emphasising national engineering coverage and transparent contracts"
       ]
+    },
+    {
+      "weekEnding": "2026-06-26",
+      "title": "Competitors lean into frequent, story-led premium single-origin drops",
+      "summary": "A busy week of retail activity, driven almost entirely by new single-origin releases. Origin held its weekly-release cadence with three feature coffees — Karira Hill, Kiryama Hill and La Palma — alongside a sail-shipped Caxambu Bourbon, all published with farm, producer and transparency data at £13.75–£16.90 per 250g. Clifton added four lines in eight days: the Cadence espresso, a ceremonial matcha, a Guatemalan cascara and a Rwandan Mbizi single origin, continuing its push beyond coffee. Union released a producer-named anaerobic Geisha microlot at £13.85 per 100g. Several of these sold out quickly, pointing to small parcels and scarcity-led demand. The common thread is frequent, provenance-rich premium drops rather than price competition.",
+      "actions": [
+        "Lead our retail listings with the depth of provenance competitors now treat as standard: named producer, farm, process and, where we have it, cup score and FOB pricing.",
+        "Trial a regular limited-release cadence with clear scarcity messaging; the rapid sell-outs at Origin, Clifton and Union show real appetite for small, story-led parcels.",
+        "Form a view on the super-premium microlot tier (Union's £13.85/100g Geisha) and brief sales on whether Bridge competes, partners or holds.",
+        "Treat Clifton's moves beyond coffee (matcha, cascara) as a range-extension signal; gauge demand before following rather than reacting reflexively."
+      ]
     }
   ]
-}
-;
+};
