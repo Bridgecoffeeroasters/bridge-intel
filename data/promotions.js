@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-06-23",
+ "lastUpdated": "2026-06-24",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
  "items": [
   {
