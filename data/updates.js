@@ -1,6 +1,61 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-06-25",
+   "competitorId": "clifton",
+   "category": "launch",
+   "headline": "Clifton adds two Ethiopian single origins and a named-producer Pink Bourbon to new arrivals",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Ethiopia_Malawo_Black.png?v=1776422362",
+   "detail": "Clifton's new-arrivals shelf now carries Ethiopia Malawo (\u00a313.00/250g; cantaloupe melon, lemon peel, rooibos) and Ethiopia Adara Keramo (\u00a313.00/250g; papaya, peach schnapps, blossom honey), plus a discrete Pink Bourbon from producer Sebastian Ramirez (\u00a320.75/120g, omni roast; lemongrass, rose, plum, kaffir lime) listed separately from the earlier Unparalleled-Series Pink Bourbon. The continued weekly cadence of premium single-origin drops is consistent with Clifton's established pattern. Some go-live dates are inferred from Shopify image version stamps and are approximate.",
+   "bridgeResponse": "Clifton refreshes its premium single-origin shelf weekly, which keeps the brand looking lively to speciality buyers. Bridge's pitch to trade customers is steadiness and stack depth: consistent roast profiles, published bean pricing at \u00a310\u2013\u00a320/kg, and the equipment, UK-wide engineers and SCA training that keep machines pouring.",
+   "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-06-25",
+   "competitorId": "clifton",
+   "category": "strategy",
+   "headline": "Clifton extends drinkware with a Miir co-branded tumbler",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/JP-MiirSeasonal-05.11.25-3.jpg?v=1767620135",
+   "detail": "A Miir x Clifton Coffee 8oz black tumbler now features in the site's 'on the go essentials' menu, adding a co-branded drinkware line to Clifton's run of non-coffee extensions (matcha, cascara, capsules, instant, tea and chai). It is a modest brand-adjacency and merchandising play rather than a core-range move.",
+   "bridgeResponse": "Brand merchandise widens the basket but does not change what a trade buyer needs day to day. Bridge stays focused on the working stack \u2014 reliable beans, machines and service \u2014 and competes on transparency with published pricing.",
+   "source": "https://cliftoncoffee.co.uk/products/miir-x-clifton-coffee-8-oz-black-tumbler",
+   "severity": "info"
+  },
+  {
+   "date": "2026-06-25",
+   "competitorId": "origin",
+   "category": "campaign",
+   "headline": "Origin's homepage hero rotates to a 'Double Gesha Release' with the Ocampo family",
+   "image": "https://www.origincoffee.co.uk/cdn/shop/files/Origin_Coffee_Festival_7.jpg?v=1778850776",
+   "detail": "Origin's main homepage hero now leads with 'Limited Edition: Double Gesha Release', framing the two Ocampo-family lots already in our records (Black Cedar \u00a316.70, Calliandra \u00a323.90) as the headline campaign. The weekly single-origin slot is unchanged \u2014 Las Brisas (\u00a317.70/250g) remains the latest release \u2014 so this is a merchandising rotation rather than a new product. The Cold Brew Espresso Concentrate now shows a flat \u00a38.00 on the favourites rail.",
+   "bridgeResponse": "Origin keeps the top of its range in the shop window to drive halo and subscriptions. Bridge competes where trade customers actually buy \u2014 a consistent house espresso that is the same cup every week \u2014 backed by published bean pricing and certified Roots Collection coffees.",
+   "source": "https://www.origincoffee.co.uk/",
+   "severity": "info"
+  },
+  {
+   "date": "2026-06-25",
+   "competitorId": "union",
+   "category": "campaign",
+   "headline": "Union runs a sitewide 'free delivery on all orders' week with no minimum spend",
+   "image": "https://cdn.shopify.com/s/files/1/0060/6230/9494/files/Default_Social_Icon_1b343455-c387-4257-93da-7effb3e56f76.png",
+   "detail": "Union's sitewide banner now reads 'FREE DELIVERY on all orders this week', dropping the usual \u00a325 threshold (still referenced in page metadata). It replaces the Father's Day gifting promotion, which has lapsed now that Father's Day (15 June) has passed. A standalone no-minimum delivery week is a more aggressive direct-to-consumer acquisition push than the recurring threshold offer.",
+   "bridgeResponse": "Retail delivery promotions speak to home consumers, not trade buyers. Bridge's value to wholesale customers is supply certainty and the full stack behind the cup, with pricing published openly rather than discounted in bursts.",
+   "source": "https://unionroasted.com/collections/new-arrivals",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-06-25",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "UCC deepens the Ueshima trade range on its B2B shop",
+   "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/files/3_800x800_c08f9aa4-639f-4dd5-81b0-3935283d63ab.jpg?v=1777275195",
+   "detail": "UCC's trade shop (ucc-coffee-direct.co.uk) now carries a broader Ueshima catalogue than the single house-blend line we held: a bulk Pour Over Coffee Bags case (16x10x10g) at \u00a360.00, a Kobe Blend RFA beans 10x500g at \u00a374.21, Fuji Mountain / House Blend / Tokyo Roast Nespresso-compatible capsules at \u00a335.74/120, bulk coffee-bag cases at \u00a324.05, and a small-format Fuji Mountain RFA 6x200g at \u00a339.64 currently showing as sold out. The \u00a360 Pour Over case sits exactly on the free-delivery threshold, suggesting a deliberate merchandising hook. The consumer Pour Over line itself is older (launched 2024), so this is a trade/wholesale deepening rather than a brand-new product. Image version stamps imply recent listing and are approximate.",
+   "bridgeResponse": "UCC is pushing Ueshima further into the trade channel Bridge competes in. Worth watching whether this presages an office and contract-coffee push. Bridge's counter is provenance and transparency \u2014 Cardiff-roasted beans at published \u00a310\u2013\u00a320/kg with UK-wide engineer support, against an imported branded range sold on case price.",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/brand_ueshima",
+   "severity": "watch"
+  },
+  {
    "date": "2026-06-23",
    "competitorId": "origin",
    "category": "launch",

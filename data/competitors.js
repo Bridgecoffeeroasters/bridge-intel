@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-06-24",
+ "lastUpdated": "2026-06-25",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -214,7 +214,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Exhibited at London Coffee Festival May 2026",
     "Building marketing and national retail account capability",
     "Expanding training and equipment-installation capability",
-    "UK press footprint notably stale \u2014 little UK&I PR since ~2020"
+    "UK press footprint notably stale \u2014 little UK&I PR since ~2020",
+    "Deepening the Ueshima range on the B2B trade shop (bulk Pour Over case \u00a360, Kobe Blend beans, multiple capsule SKUs) - a trade/wholesale channel push"
    ],
    "keywords": [
     "total coffee solution",
@@ -396,7 +397,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Range diversification: capsules, speciality instant, tea and chai",
     "Exhibited at London Coffee Festival May 2026; 20% subscription push on homepage",
     "Extending beyond coffee into matcha \u2014 Clifton Matcha, \u00a318/100g ceremonial grade from Guizhou, launched June 2026",
-    "Second range extension beyond coffee \u2014 Guatemala cascara (\u00a36.50/100g), June 2026"
+    "Second range extension beyond coffee \u2014 Guatemala cascara (\u00a36.50/100g), June 2026",
+    "Co-branded drinkware (Miir x Clifton tumbler) added to the run of non-coffee extensions"
    ],
    "keywords": [
     "single origin coffee",

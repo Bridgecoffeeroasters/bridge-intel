@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-06-24",
+ "lastUpdated": "2026-06-25",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
  "items": [
   {
@@ -295,7 +295,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "\u00a37.95\u2013\u00a3100",
    "source": "https://unionroasted.com/collections/fathers-day-gifts",
    "spotted": "2026-06-10",
-   "counter": ""
+   "counter": "",
+   "ended": "2026-06-25"
   },
   {
    "competitorId": "union",
@@ -702,6 +703,84 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "\u00a313.99",
    "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
    "spotted": "2026-06-23"
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "Ethiopia \u2013 Malawo",
+   "detail": "New Ethiopian single origin in new arrivals \u2014 cantaloupe melon, lemon peel, rooibos.",
+   "price": "\u00a313.00 / 250g",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Ethiopia_Malawo_Black.png?v=1776422362",
+   "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
+   "spotted": "2026-06-25",
+   "counter": "A fresh single-origin every week keeps the shelf interesting. Bridge offers consistent, available house and single-origin beans at published \u00a310\u2013\u00a320/kg \u2014 the same cup, in stock, when the customer needs it."
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "Ethiopia \u2013 Adara Keramo",
+   "detail": "New Ethiopian single origin in new arrivals \u2014 papaya, peach schnapps, blossom honey.",
+   "price": "\u00a313.00 / 250g",
+   "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
+   "spotted": "2026-06-25"
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "Pink Bourbon \u2013 Sebastian Ramirez, Colombia",
+   "detail": "Named-producer Pink Bourbon (1500 masl, omni roast) listed separately from the Unparalleled-Series Pink Bourbon \u2014 lemongrass, rose, plum, kaffir lime.",
+   "price": "\u00a320.75 / 120g",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/SR_Pink_Bourbon_Black_v3.png?v=1754242969",
+   "source": "https://cliftoncoffee.co.uk/products/colombia-pinkb",
+   "spotted": "2026-06-25"
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "House Filter \u2013 Zambia, Mbala",
+   "detail": "House Filter is now a single-origin Zambia lot (Mbala, washed, 2200 masl) \u2014 pecan, toffee apple, milk chocolate.",
+   "price": "\u00a311.00 / 250g",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/ZambiaHouseFilter.png?v=1779296139",
+   "source": "https://cliftoncoffee.co.uk/products/house-filter",
+   "spotted": "2026-06-25"
+  },
+  {
+   "competitorId": "clifton",
+   "type": "content",
+   "name": "Miir x Clifton 8oz tumbler",
+   "detail": "Co-branded drinkware collaboration featured in the 'on the go essentials' menu \u2014 a brand-adjacency merchandising line.",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/JP-MiirSeasonal-05.11.25-3.jpg?v=1767620135",
+   "source": "https://cliftoncoffee.co.uk/products/miir-x-clifton-coffee-8-oz-black-tumbler",
+   "spotted": "2026-06-25"
+  },
+  {
+   "competitorId": "origin",
+   "type": "content",
+   "name": "Homepage hero: 'Double Gesha Release' (Ocampo family)",
+   "detail": "Main homepage hero now leads with the limited-edition Ocampo Gesha duo (Black Cedar \u00a316.70 / Calliandra \u00a323.90) as the headline campaign. Weekly release (Las Brisas) unchanged.",
+   "image": "https://www.origincoffee.co.uk/cdn/shop/files/Origin_Coffee_Festival_7.jpg?v=1778850776",
+   "source": "https://www.origincoffee.co.uk/",
+   "spotted": "2026-06-25"
+  },
+  {
+   "competitorId": "union",
+   "type": "offer",
+   "name": "Free delivery on all orders this week (no minimum)",
+   "detail": "Sitewide banner drops the usual \u00a325 threshold and offers free delivery on all orders for the week, replacing the lapsed Father's Day gifting promo.",
+   "source": "https://unionroasted.com/collections/new-arrivals",
+   "spotted": "2026-06-25",
+   "counter": "Burst delivery offers court home consumers. Bridge wins trade on supply certainty and a published price list, not week-by-week discounting."
+  },
+  {
+   "competitorId": "ucc",
+   "type": "coffee",
+   "name": "Ueshima Pour Over Coffee Bags (bulk trade case)",
+   "detail": "Bulk 16x10x10g trade case newly listed on the B2B shop, priced exactly on the free-delivery threshold. Part of a widened Ueshima trade range (Kobe Blend beans \u00a374.21, capsules \u00a335.74/120, bulk coffee bags \u00a324.05; Fuji Mountain 6x200g sold out).",
+   "price": "\u00a360.00 / 16x10x10g",
+   "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/files/3_800x800_c08f9aa4-639f-4dd5-81b0-3935283d63ab.jpg?v=1777275195",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/brand_ueshima",
+   "spotted": "2026-06-25",
+   "counter": "An imported branded range sold on case price. Bridge offers Cardiff-roasted provenance with published \u00a310\u2013\u00a320/kg bean pricing and engineer support behind it."
   }
  ]
 };
