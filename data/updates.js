@@ -1,6 +1,56 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-06-26",
+   "competitorId": "origin",
+   "category": "campaign",
+   "headline": "Origin swings its homepage hero to an iced-coffee summer campaign",
+   "detail": "Origin's homepage hero has rotated from last week's 'Double Gesha Release' to 'Iced Coffee, Refined', leading on its Cold Brew Espresso Concentrate (\u00a38.00, ready-to-serve, espresso-strength). It leans on the new in-house Cornwall cold-brew brewery and a 'produced and packed in Cornwall' message \u2014 a clear seasonal pivot to iced and ready-to-drink.",
+   "bridgeResponse": "A seasonal play we can read straight across to our own summer accounts. Worth a short iced-serve suggestion for hospitality customers; our strength is the equipment and engineer support behind a reliable iced menu, not the concentrate itself.",
+   "source": "https://www.origincoffee.co.uk/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-06-26",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Origin adds two single origins, Karira Hill and Calliandra",
+   "detail": "Origin's coffee page now carries Karira Hill (Burundi, from \u00a313.75; blackcurrant, rhubarb, dark chocolate) and Calliandra (from \u00a323.90; honeydew melon, jasmine, lemonade), the latter featured in the homepage carousel. Both are visible now; the exact go-live date within the week is not confirmed, so treat as newly surfaced rather than certainly brand-new.",
+   "bridgeResponse": "Consistent with their weekly-release cadence. No change to our position; we compete on roastery provenance with published bean pricing rather than rotating microlots.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "severity": "info"
+  },
+  {
+   "date": "2026-06-26",
+   "competitorId": "union",
+   "category": "launch",
+   "headline": "Union leads new arrivals with three light-roast microlots from \u00a312.35",
+   "detail": "Union's new arrivals now front three 'limited parcel' single origins, all sold per 200g: Los Lajones Catuai, Panama (\u00a314.25/200g, \u00a356.50/kg; natural anaerobic, Graciano Cruz, QS 87.0), Jo\u00e3o Hamilton, Brazil (\u00a313.85/200g, \u00a355.50/kg; natural, QS 86.5) and Verde Alto, Costa Rica (\u00a312.35/200g, \u00a349.50/kg; white honey, Tarraz\u00fa, QS 85.5). The Los Lajones Catuai is distinct from the \u00a335/100g Geisha pre-order already recorded.",
+   "bridgeResponse": "Story-led microlots at a premium per kilo. We don't chase this tier; our answer remains transparent \u00a310\u2013\u00a320/kg bean pricing with full equipment and engineer support, and the Roots Collection for certified everyday volume.",
+   "source": "https://unionroasted.com/products/los-lajones-catuai-panama",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-06-26",
+   "competitorId": "union",
+   "category": "campaign",
+   "headline": "Union's no-minimum free delivery appears to be reverting to a \u00a330 threshold",
+   "detail": "The homepage banner still runs last week's 'free delivery, no minimum spend' message, but live product pages now show 'free UK delivery when you spend \u00a330 or more'. The two states coexist on the site today, suggesting the no-minimum promotion is winding down. Unconfirmed; worth checking whether the banner drops next week.",
+   "bridgeResponse": "A short tactical promotion, as expected. No response needed; trade delivery terms sit in our quotes, not on a retail banner.",
+   "source": "https://unionroasted.com/",
+   "severity": "info"
+  },
+  {
+   "date": "2026-06-26",
+   "competitorId": "matthew-algie",
+   "category": "strategy",
+   "headline": "Matthew Algie names National Trust for Scotland and Morrisons as private-label clients",
+   "detail": "Matthew Algie's wholesale page now names National Trust for Scotland and Morrisons as own-brand coffee partners, pitched at 'larger organisations with nationwide reach' \u2014 a lean into high-volume private-label supply. The naming may predate this week, so treat it as a current strategic signal rather than a dated announcement.",
+   "bridgeResponse": "Confirms Algie competing on national private-label scale. Bridge's edge is the opposite end: a named, family-owned Cardiff roast with published pricing and UK-wide engineers, where the customer's identity is the provenance, not a white label.",
+   "source": "https://www.matthewalgie.com/wholesale-coffee/",
+   "severity": "watch"
+  },
+  {
    "date": "2026-06-25",
    "competitorId": "clifton",
    "category": "launch",

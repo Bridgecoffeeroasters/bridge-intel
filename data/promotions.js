@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-06-25",
+ "lastUpdated": "2026-06-26",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
  "items": [
   {
@@ -760,7 +760,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "detail": "Main homepage hero now leads with the limited-edition Ocampo Gesha duo (Black Cedar \u00a316.70 / Calliandra \u00a323.90) as the headline campaign. Weekly release (Las Brisas) unchanged.",
    "image": "https://www.origincoffee.co.uk/cdn/shop/files/Origin_Coffee_Festival_7.jpg?v=1778850776",
    "source": "https://www.origincoffee.co.uk/",
-   "spotted": "2026-06-25"
+   "spotted": "2026-06-25",
+   "ended": "2026-06-26"
   },
   {
    "competitorId": "union",
@@ -781,6 +782,66 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/brand_ueshima",
    "spotted": "2026-06-25",
    "counter": "An imported branded range sold on case price. Bridge offers Cardiff-roasted provenance with published \u00a310\u2013\u00a320/kg bean pricing and engineer support behind it."
+  },
+  {
+   "competitorId": "union",
+   "type": "coffee",
+   "name": "Los Lajones Catuai, Panama",
+   "detail": "Limited-parcel natural anaerobic single origin; \u00a314.25/200g (\u00a356.50/kg). Producer Graciano Cruz; raspberry, passion fruit, melon.",
+   "price": "\u00a314.25/200g",
+   "image": "https://unionroasted.com/cdn/shop/files/los-lajones-catuai-coffee-recyclable-bag-with-two-large-cups.png?v=1774608042",
+   "source": "https://unionroasted.com/products/los-lajones-catuai-panama",
+   "spotted": "2026-06-26",
+   "counter": "Premium per kilo for a rotating parcel. Bridge publishes \u00a310\u2013\u00a320/kg with engineer support behind the bag."
+  },
+  {
+   "competitorId": "union",
+   "type": "coffee",
+   "name": "Jo\u00e3o Hamilton, Brazil",
+   "detail": "Limited-parcel natural single origin; \u00a313.85/200g (\u00a355.50/kg). Dried mango, guava, macadamia.",
+   "price": "\u00a313.85/200g",
+   "image": "https://unionroasted.com/cdn/shop/files/joao-hamilton-coffee-recyclable-bag-with-two-large-cups.png?v=1777029135",
+   "source": "https://unionroasted.com/products/joao-hamilton-brazil",
+   "spotted": "2026-06-26"
+  },
+  {
+   "competitorId": "union",
+   "type": "coffee",
+   "name": "Verde Alto, Costa Rica",
+   "detail": "Limited-parcel white-honey single origin; \u00a312.35/200g (\u00a349.50/kg). Tarraz\u00fa, Cordero family; white peach, pear, honey.",
+   "price": "\u00a312.35/200g",
+   "image": "https://unionroasted.com/cdn/shop/files/verde-alto-coffee-recyclable-bag-with-two-small-cups.png?v=1773847301",
+   "source": "https://unionroasted.com/products/verde-alto-costa-rica",
+   "spotted": "2026-06-26"
+  },
+  {
+   "competitorId": "origin",
+   "type": "social",
+   "name": "Homepage hero: 'Iced Coffee, Refined'",
+   "detail": "Summer hero promoting the Cold Brew Espresso Concentrate (\u00a38.00, ready-to-serve), leaning on the new Cornwall cold-brew brewery.",
+   "price": "\u00a38.00",
+   "image": "https://www.origincoffee.co.uk/cdn/shop/files/SB_03_03_20206_-_ORIGIN1479.jpg",
+   "source": "https://www.origincoffee.co.uk/",
+   "spotted": "2026-06-26",
+   "counter": "A seasonal retail message. Our iced answer for trade is reliable equipment and engineer-backed serves, not a single concentrate SKU."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Karira Hill, Burundi",
+   "detail": "Single origin, from \u00a313.75; blackcurrant, rhubarb, dark chocolate.",
+   "price": "from \u00a313.75",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "spotted": "2026-06-26"
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Calliandra",
+   "detail": "Single origin, from \u00a323.90; honeydew melon, jasmine, lemonade. Featured in the homepage carousel.",
+   "price": "from \u00a323.90",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "spotted": "2026-06-26"
   }
  ]
 };

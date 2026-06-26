@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-06-25",
+ "lastUpdated": "2026-06-26",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -19,7 +19,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "New MD UK&I Thomas Heinen (ex-WMF) settling in \u2014 expect commercial push",
     "Exhibiting at The Workplace Event 2026 and Care Show London 2026 \u2014 workplace and care sector targeting",
     "2026 'Road to Growth' GB conference signals expansion intent",
-    "Expanding business development into England beyond the Scottish heartland"
+    "Expanding business development into England beyond the Scottish heartland",
+    "Names National Trust for Scotland and Morrisons as private-label clients \u2014 pushing high-volume own-brand supply"
    ],
    "keywords": [
     "wholesale coffee",
@@ -270,6 +271,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Independent caf\u00e9s to multi-site operators, restaurants, supermarkets, consumers. Less visible in offices and contract catering.",
    "keyCustomers": "Sainsbury's, Waitrose, Ocado; Company of Cooks collaboration",
    "currentFocus": [
+    "New light-roast 'limited parcel' microlots from \u00a312.35/200g (Los Lajones Catuai, Jo\u00e3o Hamilton, Verde Alto)",
     "Excelsa climate-resilience story still their flagship narrative",
     "Super-premium new arrivals: Los Lajones Panama Geisha at \u00a335, its priciest retail line",
     "Half Caff product launch \u2014 health/moderation trend",
@@ -327,6 +329,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality caf\u00e9s, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; caf\u00e9 estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "Homepage pivoted to an iced-coffee summer hero ('Iced Coffee, Refined') foregrounding the in-house Cornwall cold-brew brewery",
     "Capsules relaunch (3 June 2026) \u2014 'Speciality coffee capsules, redefined', home-compostable, made in Cornwall",
     "Cold Brew Espresso Concentrate launch (June 2026)",
     "Weekly coffee release model \u2014 '52 coffees a year'",
