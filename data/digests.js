@@ -31,6 +31,17 @@ window.BCR=window.BCR||{};window.BCR.dig={
         "Form a view on the super-premium microlot tier (Union's £13.85/100g Geisha) and brief sales on whether Bridge competes, partners or holds.",
         "Treat Clifton's moves beyond coffee (matcha, cascara) as a range-extension signal; gauge demand before following rather than reacting reflexively."
       ]
+    },
+    {
+      "weekEnding": "2026-07-03",
+      "title": "Origin pivots to summer iced; Union's free-delivery week winds down",
+      "summary": "The week's clearest new signal was seasonal. Origin swung its homepage to an 'Iced Coffee, Refined' campaign built around its £8 Cold Brew Espresso Concentrate and new in-house Cornwall cold-brew brewery, a deliberate move into ready-to-drink for summer. Union, having run a sitewide no-minimum free-delivery week, now appears to be reverting to a £30 threshold, with both states live on site together. Beneath that, the premium single-origin churn continued: Union added three limited 200g microlots and a £35 Panama Geisha, while Origin and Clifton kept rotating Geshas and named-producer lots. On wholesale, Matthew Algie named National Trust for Scotland and Morrisons as private-label clients, and UCC widened its Ueshima trade range — both pointing to high-volume own-brand supply.",
+      "actions": [
+        "Move Bridge's iced and cold-brew range to the front of the site and into wholesale conversations now — Origin is leading visibly on ready-to-serve cold brew for summer.",
+        "Keep Bridge's delivery offer simple and consistent while Union's no-minimum promotion reverts to a £30 threshold; a steady proposition reads well against on/off promotions.",
+        "Brief the wholesale team on the private-label push from Matthew Algie (National Trust for Scotland, Morrisons) and UCC's widened Ueshima trade range, and sharpen how Bridge is positioned against high-volume own-brand supply.",
+        "Review Bridge's premium single-origin line-up against a crowded field of Geishas and experimental microlots (Union's £35 Panama Geisha, Origin and Clifton Gesha features) and decide where to compete on prestige versus relationship-led value."
+      ]
     }
   ]
 };
