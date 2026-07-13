@@ -1,6 +1,76 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-07-13",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Origin rolls out a new visual identity, 'The Mark of the Maker'",
+   "detail": "Origin's homepage now leads with a full brand refresh, 'The Mark of the Maker \u2014 introducing our new visual identity', framed around collaboration, generosity and continual improvement in speciality coffee. This replaces the 'Iced Coffee, Refined' summer hero and reads as a strategic repositioning rather than a seasonal campaign. The exact launch date is not confirmed from third-party sources, but the identity is live across their own site.",
+   "bridgeResponse": "A rebrand is a period of internal distraction and often a moment when wholesale and office accounts get reviewed. A sensible window to approach Origin's trade customers with our stable, family-owned, full-stack offer and published pricing \u2014 beans \u00a310\u2013\u00a320/kg, callouts \u00a3185, service \u00a3500\u2013\u00a32,000/yr \u2014 against a competitor mid-reinvention.",
+   "source": "https://www.origincoffee.co.uk/",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-07-13",
+   "competitorId": "origin",
+   "category": "campaign",
+   "headline": "Origin retires its 'Iced Coffee, Refined' summer hero",
+   "detail": "The iced-summer campaign that led Origin's homepage at the last capture has been replaced by the new brand identity. Cold brew remains in range \u2014 the Cold Brew Espresso Concentrate is still catalogued and the Cornwall cold-brew brewery story persists \u2014 but the top-of-site iced push has gone, mid-summer.",
+   "bridgeResponse": "Less hero-level competition on iced and cold brew for now. A short opening to lead locally on iced serves for hospitality and office accounts, where our strength is reliable equipment and engineer support behind the menu.",
+   "source": "https://www.origincoffee.co.uk/",
+   "severity": "info"
+  },
+  {
+   "date": "2026-07-13",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Origin adds a Tanzanian single origin, Umalila",
+   "detail": "Origin's single-origin range now carries Umalila (Tanzania; raspberry, blood orange, honey) from \u00a315.75, consistent with its weekly-release model. Previously logged releases remain listed. This is the most likely genuinely new coffee since the last capture, though with the homepage now leading on the rebrand rather than a coffee, the exact headline release of the week is unconfirmed.",
+   "bridgeResponse": "Business as usual for their rotating model. No change to our position; we compete on consistent, available house coffee at published \u00a310\u2013\u00a320/kg rather than rotating microlots at \u00a315+ per bag.",
+   "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+   "severity": "info"
+  },
+  {
+   "date": "2026-07-13",
+   "competitorId": "union",
+   "category": "launch",
+   "headline": "Union launches a seasonal 'Summer Blend' as its homepage hero",
+   "detail": "Union's homepage now leads with a new light-roast seasonal blend, Summer Blend ('bright, balanced, built for summer'), a washed lot combining Chirinos (Peru) and Maraba (Rwanda, Union's original 2002 partner) with notes of red apple, damson plum and golden syrup. It is priced \u00a310.75/200g and \u00a343/kg, carries no reviews yet, and its image assets are coded to mid/late June, supporting a genuinely recent release.",
+   "bridgeResponse": "A seasonal retail play at roughly \u00a354/kg-equivalent. Our answer for wholesale and office volume stays the same: transparent \u00a310\u2013\u00a320/kg pricing and the certified Roots Collection (Fairtrade, Organic, Rainforest Alliance). A Cardiff summer house blend of our own could hold seasonal share if wanted.",
+   "source": "https://unionroasted.com/products/summer-blend",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-07-13",
+   "competitorId": "union",
+   "category": "pricing",
+   "headline": "Union's no-minimum free delivery ends, reverting to a \u00a330 threshold",
+   "detail": "As forecast at the last capture, Union's 'free delivery, no minimum spend' promotion has wound down. The site now consistently shows free delivery on 1kg bags and orders over \u00a330 (free courier over \u00a345), though a rotating 'free delivery this week' banner still appears intermittently on the new-arrivals page. Treat the no-minimum offer as ended but occasionally re-run.",
+   "bridgeResponse": "A retail delivery term, not a trade signal. No response needed; our delivery terms sit in customer quotes, not on a shop banner.",
+   "source": "https://unionroasted.com/blogs/latest",
+   "severity": "info"
+  },
+  {
+   "date": "2026-07-13",
+   "competitorId": "clifton",
+   "category": "launch",
+   "headline": "Clifton's Cadence Espresso returns as a new lot",
+   "detail": "Cadence Espresso is back in stock at \u00a314.00/250g after selling out at the last capture, now carrying a different profile (red currant jam, dulce de leche, peach) and a fresh bag image \u2014 a re-lotted crop rather than a restock of the El Diviso lot. Its review count indicates an established SKU that is periodically re-lotted.",
+   "bridgeResponse": "A premium retail espresso at roughly \u00a356/kg-equivalent. For caf\u00e9 accounts our stronger counter is transparent \u00a310\u2013\u00a320/kg wholesale pricing plus in-house SCA training and UK-wide engineer support, not a rotating single lot.",
+   "source": "https://cliftoncoffee.co.uk/products/cadence-espresso",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-07-13",
+   "competitorId": "liquidline",
+   "category": "launch",
+   "headline": "Liquidline widens its own-brand machine range with a K1 fresh-milk bean-to-cup",
+   "detail": "Alongside the recorded K2 (now labelled powdered milk), Liquidline lists an own-brand K1 Fresh Milk compact bean-to-cup (up to 40 cups/day, 7-inch touchscreen, dual thermoblock), plus a Q1 powdered-milk unit and an L4 mains-fed water cooler, from \u00a314.00/week on lease. This continues their push into self-badged hardware. Caveat: the K1 page was last modified in May 2026, so it likely surfaced shortly before the last capture rather than this fortnight \u2014 logged as an addition to the record.",
+   "bridgeResponse": "Own-brand OEM boxes compete on headline lease rate with no service cost shown. We place established Sanremo, Eversys and Schaerer machines and publish the true running cost \u2014 callouts \u00a3185, service \u00a3500\u2013\u00a32,000/yr \u2014 with UK-wide engineers, SCA training, BRITA water and PSSR included.",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-k1/",
+   "severity": "watch"
+  },
+  {
    "date": "2026-06-26",
    "competitorId": "origin",
    "category": "campaign",

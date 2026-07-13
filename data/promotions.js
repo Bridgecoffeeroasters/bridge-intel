@@ -1,7 +1,59 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-06-26",
+ "lastUpdated": "2026-07-13",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
  "items": [
+  {
+   "competitorId": "union",
+   "type": "coffee",
+   "name": "Summer Blend",
+   "detail": "New light-roast seasonal blend and current homepage hero; washed lot of Chirinos (Peru) and Maraba (Rwanda) \u2014 red apple, damson plum, golden syrup.",
+   "price": "\u00a310.75 / 200g (\u00a343/kg)",
+   "image": "https://unionroasted.com/cdn/shop/files/summer-blend-coffee-recyclable-bag-with-two-small-cups.png?v=1783084335",
+   "source": "https://unionroasted.com/products/summer-blend",
+   "spotted": "2026-07-13",
+   "counter": "A seasonal light roast at ~\u00a354/kg-equivalent retail. Bridge publishes bean pricing openly at \u00a310\u2013\u00a320/kg and offers certified Roots blends for everyday volume."
+  },
+  {
+   "competitorId": "origin",
+   "type": "content",
+   "name": "Homepage hero: 'The Mark of the Maker' rebrand",
+   "detail": "New visual identity now leads the site, replacing the iced-summer campaign; framed around collaboration, generosity and continual improvement.",
+   "source": "https://www.origincoffee.co.uk/",
+   "spotted": "2026-07-13",
+   "counter": "A brand refresh is a moment of distraction and account review; stability and published pricing are the counter-message to their trade prospects."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Umalila, Tanzania (single origin)",
+   "detail": "New addition to the single-origin range; raspberry, blood orange, honey.",
+   "price": "from \u00a315.75",
+   "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+   "spotted": "2026-07-13",
+   "counter": "Rotating microlots at \u00a315+ per bag; Bridge competes on consistent, in-stock house coffee at published \u00a310\u2013\u00a320/kg."
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "Cadence Espresso (new lot)",
+   "detail": "Back in stock after selling out; re-lotted crop with a new profile \u2014 red currant jam, dulce de leche, peach.",
+   "price": "\u00a314.00 / 250g",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Cadence_bag_May_26_83337d36-db0a-4798-b17c-d9657ba1d1ba.png",
+   "source": "https://cliftoncoffee.co.uk/products/cadence-espresso",
+   "spotted": "2026-07-13",
+   "counter": "A premium retail espresso at ~\u00a356/kg-equivalent; Bridge leads caf\u00e9 accounts with transparent \u00a310\u2013\u00a320/kg pricing plus SCA training and engineer support."
+  },
+  {
+   "competitorId": "liquidline",
+   "type": "machine",
+   "name": "Liquidline K1 Fresh Milk (own-brand bean-to-cup)",
+   "detail": "Own-brand compact bean-to-cup, up to 40 cups/day, 7-inch touchscreen, dual thermoblock; part of a widening self-badged range alongside the Q1 and L4. Likely surfaced ~May 2026.",
+   "price": "Lease from \u00a314.00/week",
+   "image": "https://www.liquidline.co.uk/content/uploads/2026/01/K1_Front_Image.jpg",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-k1/",
+   "spotted": "2026-07-13",
+   "counter": "\u00a314/week is milk-only compact kit for ~40 cups. Bridge places established specialty machines with UK-wide engineers, SCA training, BRITA water and PSSR, and shows the true running cost up front."
+  },
   {
    "competitorId": "clifton",
    "type": "coffee",
@@ -11,7 +63,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Cadence_bag_May_26_83337d36-db0a-4798-b17c-d9657ba1d1ba.png?v=1777915054",
    "source": "https://cliftoncoffee.co.uk/products/cadence-espresso",
    "spotted": "2026-06-15",
-   "counter": "Rare lots that sell out are a marketing event, not a supply. Bridge roasts consistent, available house coffee in Cardiff at published \u00a310\u2013\u00a320/kg \u2014 the cup is in stock when the customer needs it."
+   "counter": "Rare lots that sell out are a marketing event, not a supply. Bridge roasts consistent, available house coffee in Cardiff at published \u00a310\u2013\u00a320/kg \u2014 the cup is in stock when the customer needs it.",
+   "ended": "2026-07-13"
   },
   {
    "competitorId": "liquidline",
@@ -770,7 +823,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "detail": "Sitewide banner drops the usual \u00a325 threshold and offers free delivery on all orders for the week, replacing the lapsed Father's Day gifting promo.",
    "source": "https://unionroasted.com/collections/new-arrivals",
    "spotted": "2026-06-25",
-   "counter": "Burst delivery offers court home consumers. Bridge wins trade on supply certainty and a published price list, not week-by-week discounting."
+   "counter": "Burst delivery offers court home consumers. Bridge wins trade on supply certainty and a published price list, not week-by-week discounting.",
+   "ended": "2026-07-13"
   },
   {
    "competitorId": "ucc",
@@ -823,7 +877,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "image": "https://www.origincoffee.co.uk/cdn/shop/files/SB_03_03_20206_-_ORIGIN1479.jpg",
    "source": "https://www.origincoffee.co.uk/",
    "spotted": "2026-06-26",
-   "counter": "A seasonal retail message. Our iced answer for trade is reliable equipment and engineer-backed serves, not a single concentrate SKU."
+   "counter": "A seasonal retail message. Our iced answer for trade is reliable equipment and engineer-backed serves, not a single concentrate SKU.",
+   "ended": "2026-07-13"
   },
   {
    "competitorId": "origin",

@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-06-26",
+ "lastUpdated": "2026-07-13",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -271,6 +271,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Independent caf\u00e9s to multi-site operators, restaurants, supermarkets, consumers. Less visible in offices and contract catering.",
    "keyCustomers": "Sainsbury's, Waitrose, Ocado; Company of Cooks collaboration",
    "currentFocus": [
+    "Seasonal 'Summer Blend' (\u00a310.75/200g, Peru/Rwanda) launched as the homepage hero; no-minimum free delivery has ended, reverting to a \u00a330 threshold.",
     "New light-roast 'limited parcel' microlots from \u00a312.35/200g (Los Lajones Catuai, Jo\u00e3o Hamilton, Verde Alto)",
     "Excelsa climate-resilience story still their flagship narrative",
     "Super-premium new arrivals: Los Lajones Panama Geisha at \u00a335, its priciest retail line",
@@ -329,6 +330,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality caf\u00e9s, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; caf\u00e9 estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "New visual identity 'The Mark of the Maker' rolled out (mid-2026) \u2014 full rebrand; the iced-summer hero has been retired. A repositioning moment worth watching.",
     "Homepage pivoted to an iced-coffee summer hero ('Iced Coffee, Refined') foregrounding the in-house Cornwall cold-brew brewery",
     "Capsules relaunch (3 June 2026) \u2014 'Speciality coffee capsules, redefined', home-compostable, made in Cornwall",
     "Cold Brew Espresso Concentrate launch (June 2026)",
