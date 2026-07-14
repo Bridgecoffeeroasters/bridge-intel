@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-07-13",
+ "lastUpdated": "2026-07-14",
  "competitors": [
   {
    "id": "matthew-algie",

@@ -1,6 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-07-14",
+   "competitorId": "union",
+   "category": "campaign",
+   "headline": "Union appears to run a time-limited 'free delivery on all orders this week' offer",
+   "detail": "The banner on Union's new-arrivals page read 'FREE DELIVERY on all orders this week', while other pages still carried the standing 'free delivery on orders over \u00a330 and 1kg bags' line. If accurate, this is a short escalation from the usual threshold to free delivery on everything. Confidence is low-to-medium: the wording was visible on only one page and may be a rotating or cached banner, so it is recorded as tentative.",
+   "bridgeResponse": "A blanket free-delivery week is a demand-pull nudge on retail bags, not a change to trade terms. It has little bearing on wholesale accounts, where our proposition is full-stack supply, UK-wide engineers and published pricing rather than one-off delivery promotions.",
+   "source": "https://unionroasted.com/collections/new-arrivals",
+   "severity": "info"
+  },
+  {
    "date": "2026-07-13",
    "competitorId": "origin",
    "category": "strategy",

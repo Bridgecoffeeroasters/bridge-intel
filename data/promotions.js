@@ -1,7 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-07-13",
+ "lastUpdated": "2026-07-14",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly \u2014 the daily refresh records whatever is visible.",
  "items": [
+  {
+   "competitorId": "union",
+   "type": "offer",
+   "name": "Free delivery on all orders (this week)",
+   "detail": "A banner on Union's new-arrivals page advertised free delivery on all orders 'this week', an apparent short-term escalation from the standing free-delivery-over-\u00a330 threshold. Recorded as tentative \u2014 seen on one page only and may be rotating or cached.",
+   "source": "https://unionroasted.com/collections/new-arrivals",
+   "spotted": "2026-07-14",
+   "counter": "A retail delivery promotion, not a trade-terms change. Bridge competes on full-stack wholesale supply and published pricing, not one-week shipping offers."
+  },
   {
    "competitorId": "union",
    "type": "coffee",
