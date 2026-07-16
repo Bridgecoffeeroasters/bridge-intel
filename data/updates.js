@@ -1,6 +1,136 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-07-16",
+      "competitorId": "selecta",
+      "category": "strategy",
+      "headline": "Selecta approved onto the YPO Vending Solutions public-sector framework",
+      "detail": "A homepage-featured story announces Selecta as an approved supplier on the YPO Vending Solutions Framework (~£100m value, running to December 2026), giving schools, hospitals, councils and emergency services a compliant procurement route for its vending, coffee and MicroMarket offer. The story is undated, so it may have gone live shortly before this run, but it now anchors their public-sector pitch.",
+      "bridgeResponse": "Public-sector buyers using frameworks want compliance and accountability. Bridge counters with published pricing, PSSR-compliant engineering and named references — Cambridge colleges show we already operate in institutional settings. Worth checking which frameworks Bridge can access.",
+      "source": "https://www.selecta.com/uk/en/stories/ypo-framework",
+      "severity": "threat"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "selecta",
+      "category": "strategy",
+      "headline": "Change Please promoted as a headline coffee brand alongside Starbucks",
+      "detail": "Selecta's UK homepage now states it is 'proud to offer Starbucks, Change Please and our own sustainable Pelican Rouge brand', with Change Please in the brand strip. The social-enterprise brand adds an ESG story to their portfolio. Exact start date of the partnership push is unconfirmed — new to this tracker rather than provably new this week.",
+      "bridgeResponse": "Selecta rents other people's brands; Bridge roasts its own. Roots Collection carries Fairtrade, Organic and Rainforest Alliance certification with full traceability from our Cardiff roastery — an ownable sustainability story, not a licensed one.",
+      "source": "https://www.selecta.com/uk/en",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "selecta",
+      "category": "launch",
+      "headline": "Selecta broadens its Gaggia line-up with La Brillante and La Radiosa pages",
+      "detail": "Dedicated pages for the Gaggia La Brillante and La Radiosa are live alongside the G300 Krea on the office coffee machines section, positioning a three-deep Gaggia bean-to-cup range for hotels, restaurants and offices. No pricing shown — consistent with their enquiry-led model. Go-live date unconfirmed.",
+      "bridgeResponse": "Enquiry-led pricing on every machine page. Bridge publishes machine, callout (£185) and service contract (£500–£2k/yr) pricing openly, and backs Sanremo, Eversys and Schaerer with our own UK-wide engineers.",
+      "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages/gaggia-la-brillante",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "liquidline",
+      "category": "pricing",
+      "headline": "Schaerer Coffee Soul 12 lease moves back up to £97.50/week",
+      "detail": "The Soul 12 fresh-milk page now shows 'Lease from £97.50/week', reversing the £94.50 seen on 11 June and returning to the 10 June level. The refurbished machines page headlines the same figure. Second movement on this line in five weeks suggests dynamic or frequently reviewed lease pricing.",
+      "bridgeResponse": "Lease prices that drift month to month make budgeting hard. Bridge quotes Schaerer with published, stable pricing and our own engineers behind it — worth naming this movement in competitive Schaerer deals.",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "liquidline",
+      "category": "launch",
+      "headline": "Own-brand fresh-milk range runs two deep: K2 Fresh Milk page live alongside the K1",
+      "detail": "A Liquidline K2 Fresh Milk bean-to-cup page is live, aimed at offices, care homes and automotive, flagged 'Refurbished Available' with lease or buy options and add-ons from £2.50–£18.50/week; no headline lease price. Page imagery dates from August 2025, so this is likely new to the tracker rather than launched this week — the K1 (from £14/week) was only spotted on 13 July.",
+      "bridgeResponse": "Their own-brand machines are rebadged imports without published pricing. Bridge's range is specified and priced openly, with SCA-trained support and BRITA water treatment as standard.",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-k2-fresh-milk/",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "ucc",
+      "category": "launch",
+      "headline": "UCC Direct adds Oatly Baristamatic to the trade webshop",
+      "detail": "Oatly Oat Drink Baristamatic (6 x 1.5L, £14.62/case) was published to the trade store on 19 June — the newest listing in the 126-SKU catalogue and the first addition since the Ueshima pour-over bags. Extends UCC Direct from coffee into branded alt-milk sides for trade customers.",
+      "bridgeResponse": "Consumables breadth matters for retention. BridgeConnect should match obvious basket items like barista oat milk; flag to the consumables reactivation workstream.",
+      "source": "https://www.ucc-coffee-direct.co.uk/products/oatly-oat-drink-baristamatic-1-5l",
+      "severity": "info"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "union",
+      "category": "launch",
+      "headline": "Union pivots New Arrivals to accessible blends: Half Caff and Community at £8.45",
+      "detail": "Union's New Arrivals collection now leads with Half Caff Blend (chocolate, toffee, tangerine — reduced caffeine) and Community Blend (red berry jam, dark chocolate, walnut), both £8.45/200g with subscription pricing at £7.61. Half Caff already sells through Waitrose, Sainsbury's and Ocado; giving it DTC new-arrivals placement signals a push on the lower-caffeine segment.",
+      "bridgeResponse": "Retail blends at £42/kg-equivalent. Bridge publishes wholesale bean pricing at £10–£20/kg; the half-caff trend is one to note for NPD but not a wholesale threat.",
+      "source": "https://unionroasted.com/collections/new-arrivals",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "union",
+      "category": "pricing",
+      "headline": "Union's Geishas sell through; short-lived free-delivery-on-everything banner ends",
+      "detail": "Both super-premium Geishas (Los Lajones Panama £35/100g, Ronald Castaño Colombia £13.85/100g) are no longer purchasable — site search returns nothing for 'geisha' and the Panama page 404s; this may be sell-through rather than permanent delisting. The 'free delivery on all orders this week' banner seen on 14 July is also gone, with the header back to the standing £30 threshold.",
+      "bridgeResponse": "Top of their premium range is now Los Lajones Catuai at £14.25/200g. No action needed; note the retail promotion lasted under a week.",
+      "source": "https://unionroasted.com/collections/new-arrivals",
+      "severity": "info"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Origin adds 'Resolute', a second flagship espresso blend in rebrand livery",
+      "detail": "Resolute (stone fruit, caramel, milk chocolate, from £12.50) now takes the top featured slot in Origin's coffee collection and sits in the homepage favourites row alongside — not replacing — Stronghold at the same price. Pack design is the 2026 'Mark of the Maker' identity, making this a rebrand-era flagship addition. Exact launch date unprovable from the site, but it was absent at the 15 July check.",
+      "bridgeResponse": "Origin is building a retail espresso franchise around the rebrand. Bridge sells wholesale espresso at published £10–£20/kg with training and equipment behind it — different game, but watch their wholesale pitch adopting the same identity.",
+      "source": "https://www.origincoffee.co.uk/products/resolute",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "origin",
+      "category": "campaign",
+      "headline": "Origin pushes cold brew for summer: £8 single unit, subscription on sale at £14.40",
+      "detail": "Cold Brew Espresso Concentrate was republished on 6 July as an £8.00 single purchase, and the subscription carries a homepage SALE flag at £14.40 against £16.00. Alongside the £25 free-delivery threshold — the lowest of the roaster set — this is a clear seasonal ready-to-drink push. Two single origins (El Eucalipto £13.75, Providencia y Santa Barbara £14.90) also joined the range in late June/early July.",
+      "bridgeResponse": "Cold and iced formats keep growing. Feed into NPD: Bridge's iced/cold offer for operators (syrups, cold brew, RTD) is the relevant counter, not retail concentrate.",
+      "source": "https://www.origincoffee.co.uk/products/cold-brew-espresso-concentrate",
+      "severity": "info"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "origin",
+      "category": "strategy",
+      "headline": "Origin supplies Cornish Bakery's expanding national estate",
+      "detail": "Trade press (January 2026, surfaced this week — recorded late) reports Origin supplies Cornish Bakery's 73-shop estate, around five million cups a year, with the chain targeting 400 sites. Evidence that Origin's wholesale arm is winning multi-site national accounts, not just independents.",
+      "bridgeResponse": "Multi-site bakery and café groups are contested ground. Bridge's full stack — roasting, equipment, UK-wide engineers, training, water — is the counter to a roaster-only supply deal; Warrens Bakery is our proof point.",
+      "source": "https://bakeryinfo.co.uk/finished-goods/cornish-bakery-partners-with-fellow-cornwall-based-firm-origin-coffee/713858.article",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "Clifton launches East Timor Rotutu at £12/250g — the week's only in-window launch",
+      "detail": "Rotutu returns for its fifth year: a natural-process community lot from 16 farmers in East Timor, processed at the Daurfusu facility, in espresso and filter roasts at £12.00/250g (published 15 July). Slots into Clifton's accessible single-origin tier alongside the £11 House Filter.",
+      "bridgeResponse": "A well-told provenance story at an accessible price. Bridge's equivalent is the Roots Collection with third-party certification — lead with Fairtrade/Organic/Rainforest Alliance where provenance stories come up.",
+      "source": "https://cliftoncoffee.co.uk/products/east-timor-rotutu",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-16",
+      "competitorId": "clifton",
+      "category": "campaign",
+      "headline": "Clifton adds an 8am same-day dispatch promise to its header messaging",
+      "detail": "The rotating announcement bar now includes 'Freshly roasted in Bristol. Order by 8am for same-day dispatch (Mon–Fri)' alongside free shipping over £50 and the 20% subscription offer. A fulfilment-speed positioning signal aimed at the same buyers Origin courts with next-day delivery.",
+      "bridgeResponse": "Dispatch speed is becoming a stated battleground among the roasters. Worth confirming and publishing Bridge's own dispatch and engineer response commitments — we already publish callout pricing; response times are the natural pair.",
+      "source": "https://cliftoncoffee.co.uk/",
+      "severity": "info"
+    },
+    {
       "date": "2026-07-15",
       "competitorId": "origin",
       "category": "launch",
