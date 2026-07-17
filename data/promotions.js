@@ -1,7 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-17",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "origin",
+      "type": "content",
+      "name": "'A Summer Shared' hosting campaign",
+      "detail": "New homepage hero campaign framing coffee around seasonal hosting/entertaining, displacing the Kibira Hill Honey single-origin feature from the top banner slot. 'Resolute' espresso blend remains the top featured product alongside it.",
+      "source": "https://www.origincoffee.co.uk/",
+      "spotted": "2026-07-17",
+      "counter": "A retail lifestyle campaign with no wholesale or equipment angle. Bridge's shop-window story stays operational: published pricing and full-stack service."
+    },
     {
       "competitorId": "origin",
       "type": "coffee",

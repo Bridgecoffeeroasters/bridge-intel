@@ -160,6 +160,17 @@ window.BCR=window.BCR||{};window.BCR.price={
           "change": "Shop-window shift: £35/100g Geisha delisted; range now led by £8.45 blends"
         }
       ]
+    },
+    {
+      "date": "2026-07-17",
+      "entries": [
+        {
+          "competitorId": "liquidline",
+          "item": "Schaerer Coffee Soul 12 lease",
+          "price": "£94.50 / week",
+          "change": "-£3.00/wk vs 16 Jul (£97.50); fourth movement in six weeks (97.50 -> 94.50 -> 97.50 -> 94.50 since 10 Jun) — consistent with frequently reviewed or dynamic lease pricing rather than a promotion"
+        }
+      ]
     }
   ]
 };

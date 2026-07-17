@@ -1,6 +1,26 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-07-17",
+      "competitorId": "origin",
+      "category": "campaign",
+      "headline": "Origin's homepage hero switches from single-origin feature to a broader 'A Summer Shared' hosting campaign",
+      "detail": "The homepage top banner now reads 'A Summer Shared — Seasonal hosting, elevated with exceptional coffee', replacing the Kibira Hill Honey, Burundi single-origin feature that held the hero slot on 15-16 Jul. The weekly single-origin release may still be purchasable elsewhere on the site; only the homepage hero placement has changed. This reads as a seasonal lifestyle push (dinner parties, hosting) rather than a coffee-specific launch — 'Resolute' remains the featured flagship espresso blend alongside it.",
+      "bridgeResponse": "A lifestyle hosting angle plays well for Origin's retail/gift audience but has no bearing on wholesale or equipment accounts. Bridge's positioning stays anchored in the operational case — published pricing, full-stack service, named enterprise references.",
+      "source": "https://www.origincoffee.co.uk/",
+      "severity": "info"
+    },
+    {
+      "date": "2026-07-17",
+      "competitorId": "liquidline",
+      "category": "pricing",
+      "headline": "Schaerer Coffee Soul 12 lease price drops back to £94.50/week — fourth movement in six weeks",
+      "detail": "Confirmed live on the product page: lease price is back to £94.50/week, down £3.00 from the £97.50/week logged on 16 Jul. This is the same figure seen on 11 Jun, meaning the price has now moved 97.50 → 94.50 → 97.50 → 94.50 across four checks since 10 Jun. The pattern points to frequent or dynamic lease-price review rather than a one-off promotion; no discount messaging or offer banner accompanies the change.",
+      "bridgeResponse": "Worth flagging internally: a prospect quoted Liquidline's Schaerer lease on different days could see a genuinely different number. Bridge's published pricing removes that ambiguity — one number, holds until we change it.",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
+      "severity": "watch"
+    },
+    {
       "date": "2026-07-16",
       "competitorId": "selecta",
       "category": "strategy",
