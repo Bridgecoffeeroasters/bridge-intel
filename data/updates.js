@@ -1,6 +1,26 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-07-20",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "Clifton's new Unparalleled Series flagship, Ombligon - Finca El Diviso, sells out almost immediately",
+      "detail": "Ombligon - Finca El Diviso (Nestor & Adrian Lasso, Pitalito, Huila — Ethiopian Heirloom x Pacamara mutation, thermal-shock anaerobic natural process) launched as the new lead lot in the Unparalleled Series, replacing the Pink Bourbon/Gesha pairing as the featured visual. By 20 Jul the product page already shows 'Sold out' at £15.00/120g. Fast sell-through on a £15/120g (~£125/kg) micro-lot signals real demand at the very top of Clifton's range and reinforces their credibility in the limited-lot/collector segment.",
+      "bridgeResponse": "Clifton's rotating micro-lot model builds hype and scarcity but isn't a wholesale or equipment play. Bridge's Roots Collection (certified Fairtrade/Organic/Rainforest Alliance) competes on a different axis — consistent, certified supply at scale rather than collector scarcity — worth reinforcing in trade conversations where continuity of supply matters more than novelty.",
+      "source": "https://cliftoncoffee.co.uk/products/ombligon-finca-el-diviso",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-20",
+      "competitorId": "clifton",
+      "category": "content",
+      "headline": "Clifton's Single Origin collection rotates: East Timor Rotutu out, Colombia - Los Nogales Low Caf in at £18",
+      "detail": "The core Single Origin collection (branded 'rotating' on-site) now lists 5 lots: Rwanda - Mbizi (£11), Guatemala - La Esperanza (£14), Ethiopia - Malawo (£13), Colombia - Los Nogales Low Caf (£18, new), Ethiopia - Adara Keramo (£13). East Timor Rotutu (£12/250g), live on 16 Jul, is no longer listed — most likely sold through rather than discontinued, given the collection's rotating format, but this isn't independently confirmed.",
+      "bridgeResponse": "Standard single-origin rotation — no strategic shift. Noting the new Los Nogales Low Caf (decaf-adjacent low-caffeine lot at a premium £18/250g) as a category Bridge doesn't currently stock in Roots.",
+      "source": "https://cliftoncoffee.co.uk/collections/single-origin",
+      "severity": "info"
+    },
+    {
       "date": "2026-07-17",
       "competitorId": "origin",
       "category": "campaign",

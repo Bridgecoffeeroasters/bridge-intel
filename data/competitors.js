@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-20",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -401,14 +401,15 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
       "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
       "currentFocus": [
-        "Fulfilment-speed positioning: order-by-8am same-day dispatch promise added to header; East Timor Rotutu launched 15 Jul (£12/250g, fifth year)",
+        "Fulfilment-speed positioning: order-by-8am same-day dispatch promise added to header; core Single Origin range rotates fast — East Timor Rotutu (launched 15 Jul) rotated out by 20 Jul, replaced by Colombia - Los Nogales Low Caf (£18/250g)",
         "Investing in wholesale sales capability — a visible growth push",
         "New warehouse lease at Avon Riverside (2025): 300+ pallet bays — capacity expansion",
         "Range diversification: capsules, speciality instant, tea and chai",
         "Exhibited at London Coffee Festival May 2026; 20% subscription push on homepage",
         "Extending beyond coffee into matcha — Clifton Matcha, £18/100g ceremonial grade from Guizhou, launched June 2026",
         "Second range extension beyond coffee — Guatemala cascara (£6.50/100g), June 2026",
-        "Co-branded drinkware (Miir x Clifton tumbler) added to the run of non-coffee extensions"
+        "Co-branded drinkware (Miir x Clifton tumbler) added to the run of non-coffee extensions",
+        "Unparalleled Series flagship lot (Ombligon - Finca El Diviso, £15/120g) sold out within days of launch — strong demand signal at the collector/micro-lot end of the range"
       ],
       "keywords": [
         "single origin coffee",

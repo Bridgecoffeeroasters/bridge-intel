@@ -1,7 +1,28 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-07-17",
+  "lastUpdated": "2026-07-20",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Ombligon - Finca El Diviso (Unparalleled Series)",
+      "detail": "New flagship lot in the Unparalleled Series — Ethiopian Heirloom x Pacamara mutation, thermal-shock anaerobic natural process, Pitalito, Huila. Tasting notes: guava, cane sugar, cranberry, blood orange, clove. Already sold out as of 20 Jul.",
+      "price": "£15.00 / 120g",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Ombligon.png?v=1769527102",
+      "source": "https://cliftoncoffee.co.uk/products/ombligon-finca-el-diviso",
+      "spotted": "2026-07-20",
+      "counter": "A collector micro-lot at ~£125/kg selling out fast — strong proof of demand at the top end, but a scarcity model. Bridge's Roots Collection competes on certified, consistent supply rather than limited allocation."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Colombia - Los Nogales Low Caf (single origin)",
+      "detail": "New addition to the core rotating Single Origin collection. Notes: nectarine, caramelised banana, bergamot.",
+      "price": "£18.00 / 250g",
+      "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Colombia_Low_Caf.png?v=1775382108",
+      "source": "https://cliftoncoffee.co.uk/products/colombia-los-nogales-low-caf",
+      "spotted": "2026-07-20"
+    },
     {
       "competitorId": "origin",
       "type": "content",
@@ -1038,7 +1059,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "image": "http://cliftoncoffee.co.uk/cdn/shop/files/TimorRotutu.png?v=1784020693",
       "source": "https://cliftoncoffee.co.uk/products/east-timor-rotutu",
       "spotted": "2026-07-16",
-      "counter": "Strong provenance story at an accessible price. Bridge leads with certified Roots origins and full traceability from our Cardiff roastery."
+      "counter": "Strong provenance story at an accessible price. Bridge leads with certified Roots origins and full traceability from our Cardiff roastery.",
+      "ended": "2026-07-20"
     },
     {
       "competitorId": "clifton",
