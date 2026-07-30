@@ -1,6 +1,46 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-07-30",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Origin Coffee launches its first ready-to-drink product: a canned Iced Black Coffee",
+      "detail": "Business Cornwall reported (29 Jul) that Origin has entered the RTD coffee category with a 250ml canned Iced Black Coffee, produced in-house at its dedicated Cold Brew Brewery in Helston. Cites the UK RTD coffee market at over £367m, growing 10.5% year-on-year. No price confirmed yet. Sits alongside Origin's existing cold brew concentrate and capsule lines and its recent home-equipment push — a genuine category extension for the 'Mark of the Maker' rebrand era.",
+      "bridgeResponse": "A convenience-format move into a category Bridge doesn't compete in directly. Worth tracking whether it stays DTC/retail or reaches trade and office channels; no immediate action needed but flag for the NPD portfolio conversation.",
+      "source": "https://businesscornwall.co.uk/latest-news/2026/07/origin-enters-ready-to-drink-market/",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-30",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "Clifton's single-origin line-up appears to have rotated again — Ethiopia Duwancho, Kenya Ngunguini PB and Burundi CAFEX",
+      "detail": "A third-party review (Balance Journal), last updated 27 Jul, lists these three lots as Clifton's current tasting range — none match the previously logged Malawo / Adara Keramo / Mbizi / Las Flores set. Clifton's own site did not render for direct verification this cycle, so this is moderate confidence pending a direct check, though it is consistent with Clifton's habitually fast single-origin turnover. The same review references speciality instant sachets from £9.00 for six — a product line not previously logged and also unconfirmed directly — and a Single Origin Subscription currently on Honduras Finca La Valentina (honey-processed, Carlos Ernesto Mejía), which may simply be the normal monthly rotation rather than news.",
+      "bridgeResponse": "Consistent with Clifton's pattern of constant single-origin turnover to stay visible. Bridge's Roots Collection (Fairtrade/Organic/Rainforest Alliance certified) offers a steadier, certification-led story rather than a rotating novelty one — worth reinforcing where continuity of supply matters more than novelty.",
+      "source": "https://balancejournal.co/food-drink/clifton-coffee-review",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-30",
+      "competitorId": "ucc",
+      "category": "pricing",
+      "headline": "Possible active summer promotion on the UCC trade webshop — terms not confirmed",
+      "detail": "The ucc-coffee-direct.co.uk footer now links a 'UCC Summer Promotion' terms & conditions PDF not present at last capture (16 Jul). The PDF itself could not be accessed to confirm scope, discount or dates, so this is an unconfirmed lead rather than a verified development — flagged for direct follow-up next cycle rather than reported as fact.",
+      "bridgeResponse": "None yet — awaiting confirmation of terms before any comparison to Bridge's own published consumable pricing.",
+      "source": "https://www.ucc-coffee-direct.co.uk/",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-07-30",
+      "competitorId": "liquidline",
+      "category": "award",
+      "headline": "Liquidline named a UK Best Workplace for Women 2026 (ranked 90th, large organisation category)",
+      "detail": "Liquidline published a news piece (27 Jul) citing Great Place To Work UK recognition, noting women make up roughly a third of its workforce and around half its board and senior team, alongside enhanced family leave, menopause support and wellbeing initiatives. An employer-brand story rather than a product or pricing move — no change to their machine, coffee or lease offer identified this cycle.",
+      "bridgeResponse": "No commercial impact on Bridge's coffee, machine or service offer. Worth noting as a credential Liquidline may use in trade or tender conversations where culture comes up.",
+      "source": "https://www.liquidline.co.uk/news/what-makes-liquidline-one-of-the-uks-best-workplaces-for-women/",
+      "severity": "info"
+    },
+    {
       "date": "2026-07-20",
       "competitorId": "clifton",
       "category": "launch",

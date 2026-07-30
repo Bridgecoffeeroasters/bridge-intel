@@ -1,7 +1,44 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-30",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Ready-to-Drink Iced Black Coffee (250ml can)",
+      "detail": "Origin's first RTD product — canned and produced in-house at its Cold Brew Brewery in Helston. Entry into the UK RTD coffee category (reported market value £367m+, growing 10.5% year-on-year). Price not yet confirmed.",
+      "image": "https://businesscornwall.co.uk/wp-content/uploads/2026/07/origin-coffee.jpg",
+      "source": "https://businesscornwall.co.uk/latest-news/2026/07/origin-enters-ready-to-drink-market/",
+      "spotted": "2026-07-30",
+      "counter": "Bridge doesn't play in RTD/on-the-go; focus stays on wholesale bean, machine and service relationships where certification and service depth win over convenience-format novelty."
+    },
+    {
+      "competitorId": "union",
+      "type": "coffee",
+      "name": "Campus #2 (limited-edition microlot, Rwanda Maraba)",
+      "detail": "Limited-edition microlot with packaging art by London tattoo artist Ben Clark, implying an ongoing 'Campus' series. Launch date and price unconfirmed — product page did not render for direct verification; flagged for a follow-up check.",
+      "source": "https://unionroasted.com/products/campus-2-limited-edition-microlot",
+      "spotted": "2026-07-30"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Single-origin rotation: Ethiopia Duwancho, Kenya Ngunguini PB, Burundi CAFEX",
+      "detail": "Current tasting range per a third-party review (Balance Journal, updated 27 Jul); none of these three lots match the previously logged set. Clifton's own site did not render for direct verification this cycle — moderate confidence, consistent with Clifton's fast single-origin turnover.",
+      "price": "£10.50–£15.00 / 250g (per review)",
+      "source": "https://balancejournal.co/food-drink/clifton-coffee-review",
+      "spotted": "2026-07-30",
+      "counter": "Fast rotation keeps Clifton visible but is a novelty model. Bridge's Roots Collection competes on certified, consistent supply rather than a constantly-changing line-up."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Speciality instant sachets (from £9.00 for six)",
+      "detail": "Referenced in a third-party review as a current product line; not previously logged and not directly verified on Clifton's own site this cycle — flagged for confirmation.",
+      "price": "from £9.00 / 6 sachets (unconfirmed)",
+      "source": "https://balancejournal.co/food-drink/clifton-coffee-review",
+      "spotted": "2026-07-30"
+    },
     {
       "competitorId": "clifton",
       "type": "coffee",

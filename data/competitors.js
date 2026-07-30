@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-07-20",
+  "lastUpdated": "2026-07-30",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -333,6 +333,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
       "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
       "currentFocus": [
+        "First RTD product: 250ml canned Iced Black Coffee, produced in-house at the Helston Cold Brew Brewery (reported 29 Jul) — a genuine category extension beyond bags, concentrate and capsules",
         "Rebrand-era range refresh: new flagship espresso 'Resolute' (from £12.50) alongside Stronghold; summer cold brew push (£8 unit, subscription sale £14.40); £25 free-delivery threshold — lowest of the roaster set; supplying Cornish Bakery's 73-shop estate (~5m cups/yr, 400-site ambition)",
         "New visual identity 'The Mark of the Maker' rolled out (mid-2026) — full rebrand; the iced-summer hero has been retired. A repositioning moment worth watching.",
         "Homepage pivoted to an iced-coffee summer hero ('Iced Coffee, Refined') foregrounding the in-house Cornwall cold-brew brewery",
