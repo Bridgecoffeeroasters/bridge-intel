@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-07-31",
+ "lastUpdated": "2026-08-03",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -22,7 +22,11 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Exhibiting at The Workplace Event 2026 and Care Show London 2026 — workplace and care sector targeting",
     "2026 'Road to Growth' GB conference signals expansion intent",
     "Expanding business development into England beyond the Scottish heartland",
-    "Names National Trust for Scotland and Morrisons as private-label clients — pushing high-volume own-brand supply"
+    "Names National Trust for Scotland and Morrisons as private-label clients — pushing high-volume own-brand supply",
+    "La Marzocco Linea Classic S now leads the traditional espresso range, ahead of the Rancilio Classe 5 and 7 — a step upmarket on equipment",
+    "Logo wall reordered and expanded, now also showing Esquires, National Trust for Scotland, Dobbies and Handpicked Hotels (carousel rotates, read cautiously)",
+    "Filter and bulk-brew catalogue is deeper than previously logged — Bravilor, Bunn, Eureka and Mazzer — a genuine strength in staff catering",
+    "Site itself is dormant: journal unreadable, footer and modern slavery statement both still 2025 editions"
    ],
    "keywords": [
     "wholesale coffee",
@@ -91,7 +95,10 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Exhibited at Workspace Design Show Feb 2026 with VR experience — workplace design-and-build channel",
     "Blog targeting workplace buyers: tea points, matcha, machine cost explainers",
     "Pushing into the automotive dealership vertical — exhibiting at Automotive Management Live 2026 (NEC)",
-    "Owns Underdog Coffee (Devon speciality roaster, acquired Nov 2025) - an own-roast story to counter; automotive push now includes on-site barista training"
+    "Owns Underdog Coffee (Devon speciality roaster, acquired Nov 2025) - an own-roast story to counter; automotive push now includes on-site barista training",
+    "New own-brand Q1 Evo bean-to-cup at £16.50/week completes a ladder from the K1 (£14.00) to the Q3 (£33.00) — own-brand hardware is now the core of their offer",
+    "Full weekly lease ladder published from £1.00 to £101.50, but fresh-milk flagships (K2, Jura WE8) remain price-suppressed behind 'Contact Us'",
+    "Content cadence has stalled — no blog post since the Best Workplaces for Women piece"
    ],
    "keywords": [
     "commercial coffee machines",
@@ -159,7 +166,12 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "YPO framework win pushed in content — public-sector procurement focus",
     "Micromarkets (Foodies) and healthier vending (Vitamin Well partnership)",
     "Operations-heavy focus: merchandising, engineering and account retention",
-    "Smart fridges demoted from the homepage (12 Jun) and guide pricing withdrawn after a day - hero now 'Smarter retail. Instant Joy.' with a hot-beverage brand push; CEO still signalling a leasing-led 'zero capex' model"
+    "Smart fridges demoted from the homepage (12 Jun) and guide pricing withdrawn after a day - hero now 'Smarter retail. Instant Joy.' with a hot-beverage brand push; CEO still signalling a leasing-led 'zero capex' model",
+    "New office coffee machines landing page built around rental and lease search terms — bidding for the same demand Bridge relies on",
+    "New 'growing businesses' segment page marks a step down from enterprise-only positioning into Bridge's mid-market territory",
+    "Hot drinks range now nineteen machines; the new Coffetek Vitro S1 Evo is the same platform as Liquidline's Q1 Evo",
+    "Change Please given equal billing with Starbucks and Pelican Rouge — social value being pushed harder, relevant in framework tenders",
+    "Group newsroom silent since November 2025 — no 2026 announcements at all"
    ],
    "keywords": [
     "vending machine operator",
@@ -226,7 +238,11 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Building marketing and national retail account capability",
     "Expanding training and equipment-installation capability",
     "UK press footprint notably stale — little UK&I PR since ~2020",
-    "Deepening the Ueshima range on the B2B trade shop (bulk Pour Over case £60, Kobe Blend beans, multiple capsule SKUs) - a trade/wholesale channel push"
+    "Deepening the Ueshima range on the B2B trade shop (bulk Pour Over case £60, Kobe Blend beans, multiple capsule SKUs) - a trade/wholesale channel push",
+    "Bulk trade pack sizes going out of stock while retail formats stay available — three core Lyons coffee bag lines and around eight syrups currently unavailable",
+    "Trade shop merchandising is dormant: hero banners date to 2022–23, blog has two posts from 2022, no social card on the homepage",
+    "A Summer Promotion dated 14 July is live in the footer small print but not merchandised anywhere on the storefront; terms still unread",
+    "Grand Café decaf case pricing now visible from £52.30, extending the published range downward"
    ],
    "keywords": [
     "total coffee solution",
@@ -290,7 +306,12 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Excelsa climate-resilience story still their flagship narrative",
     "Super-premium new arrivals: Los Lajones Panama Geisha at £35, its priciest retail line",
     "Half Caff product launch — health/moderation trend",
-    "Job vacancies page empty (June 2026) — no expansion signal"
+    "Job vacancies page empty (June 2026) — no expansion signal",
+    "Publishing numeric cup scores across the range (84.25–86.5) — a transparency position rather than a promotion",
+    "£7.95 entry point confirmed on two named blends; Natural Spirit Organic at £8.45 anchors the organic offer",
+    "All 1kg bags ship free at any order value — a quiet wholesale-adjacent hook into small independents",
+    "Discovery Week multi-buy still running with no end date after a fortnight — starting to read as a price cut rather than a promotion",
+    "Quietest of the speciality roasters this pass: no new coffees, no price moves, no new editorial"
    ],
    "keywords": [
     "speciality coffee",
@@ -357,7 +378,13 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Weekly coffee release model — '52 coffees a year'",
     "Investing in brand design and sustainability staffing",
     "Aggressive retail subscription mechanics: 25% off first three orders then 10%, with rewards app points",
-    "Premium experimental microlots in the weekly slot (Las Brisas, El Salvador, £17.70/250g)"
+    "Premium experimental microlots in the weekly slot (Las Brisas, El Salvador, £17.70/250g)",
+    "August given over to a Fellow Series 1 giveaway worth over £2,000, entries close 31 August — expect the retail push to soften in September",
+    "Moving into premium prosumer equipment: Fellow Espresso Series 1 taking pre-launch registrations at £1,299.95 for late August",
+    "Subscription is a retention system, not a discount: 25% off three orders, then 10% for life, plus milestone gifts at orders 4, 7 and 10",
+    "Ready to Drink promoted to a top-level navigation category alongside espresso concentrate",
+    "Bristol now listed among eight sites, putting a shop roughly an hour from Cardiff (may predate this pass — unconfirmed as new)",
+    "Site shows signs of a mid-migration: blends collection down to two products while copy claims three, and delivery threshold split between £35 and £25"
    ],
    "keywords": [
     "speciality coffee online",
@@ -426,7 +453,13 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Extending beyond coffee into matcha — Clifton Matcha, £18/100g ceremonial grade from Guizhou, launched June 2026",
     "Second range extension beyond coffee — Guatemala cascara (£6.50/100g), June 2026",
     "Co-branded drinkware (Miir x Clifton tumbler) added to the run of non-coffee extensions",
-    "Unparalleled Series flagship lot (Ombligon - Finca El Diviso, £15/120g) sold out within days of launch — strong demand signal at the collector/micro-lot end of the range"
+    "Unparalleled Series flagship lot (Ombligon - Finca El Diviso, £15/120g) sold out within days of launch — strong demand signal at the collector/micro-lot end of the range",
+    "Claims to be the UK's only SCA Premier Training Campus outside London, with two accredited Q-Graders — a genuine trade-side credential",
+    "House espresso rail anchored by Suspension at £11.00/250g, the lowest comparable house espresso in this competitor set, with 1kg formats across the range",
+    "Subscription incentive now stacks a free £8.99 storage tin on top of the standing 20% discount",
+    "Six new taste-and-use browse collections plus a £50 free-shipping threshold — a sustained retail conversion push",
+    "E1 Project Espresso artwork reissued around 31 July with a Great Taste reference in the filename — a 2026 award badge is likely but unconfirmed",
+    "Range churns fast: four coffees have left the listing since the last pass and Rwanda Mbizi is sold out"
    ],
    "keywords": [
     "single origin coffee",

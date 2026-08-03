@@ -1,6 +1,316 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "campaign",
+   "headline": "Origin's homepage has been given over to a Fellow Series 1 giveaway worth over £2,000, running to 31 August",
+   "detail": "The hero now reads 'Win a Fellow Series 1 Bundle', with a prize of a Fellow Series 1 espresso machine, a Fellow Opus 2 grinder and a year's supply of coffee. Entry is by buying a bag of Resolute or Los Altos; entries close 31 August 2026 at 23:59 with the winner announced 2 September. A dedicated collection has been built at /collections/august-competition holding two purpose-made entry SKUs from £12.50, and a 'Win a Fellow Series 1' tile has been added to the main coffee navigation. This replaces the 'Go Anywhere With Origin' hero logged on 31 July.",
+   "bridgeResponse": "This is a month-long acquisition mechanic tied to two named coffees, which tells us Origin is buying first orders rather than defending price. Bridge does not need a prize draw to open a conversation: our numbers are published, so a buyer can cost a year of coffee, water and service before they speak to anyone. Sales should note the 31 August close — expect Origin's retail push to soften in September, which is the window to approach any accounts they have been courting.",
+   "source": "https://www.origincoffee.co.uk/collections/august-competition",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Origin is taking pre-launch registrations for the Fellow Espresso Series 1 at £1,299.95, arriving late August",
+   "detail": "The product page carries a £1,299.95 price, an 'arriving late August 2026' note and a 'Notify Me When Available' button rather than add-to-cart. Specification claims a boosted boiler, heated grouphead, assisted milk steaming, pressure profiling and shot feedback. Every equipment purchase carries a free three-month coffee subscription and a one-year repair, replace or refund guarantee. The listed power specification reads 110–120V / 60Hz, which looks like unedited US copy on a UK page.",
+   "bridgeResponse": "Origin is building a premium prosumer equipment line alongside its roasting, which is the same direction of travel Bridge takes from the other end of the market. The relevant point for our own equipment argument is what sits behind the sale: a one-year manufacturer-style guarantee is not the same as UK-wide directly employed engineers, a published £185 callout and a service contract between £500 and £2,000 a year. Lead on who turns up when it stops working.",
+   "source": "https://www.origincoffee.co.uk/products/fellow-espresso-series-1",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "pricing",
+   "headline": "Origin's subscription is materially more aggressive than the headline discount suggests — 25% off three orders, then 10% for life, plus milestone gifts",
+   "detail": "On Resolute the subscription price shows £9.40 against £12.50 one-time. The mechanic is 25% off the first three orders, then a standing 10% discount thereafter, 15 reward points per £1 against 10 for one-time buyers, free Tracked 24 delivery, a welcome box on the first order and free gifts at order milestones four, seven and ten. Other confirmed subscription prices: Feature Coffee £12.95, capsules from £12.00, cold brew concentrate £16.00 reduced to £14.40.",
+   "bridgeResponse": "The permanent 10% and the milestone gifts are a retention system, not a promotion, and they set a reference price a retail customer will carry into any trade conversation. Bridge competes on a different basis: published trade pricing at £10–£20/kg with no lock-in and no points scheme. Where a prospect quotes Origin's subscription price at us, the honest comparison is per kilo delivered on a trade account, not per 250g bag.",
+   "source": "https://www.origincoffee.co.uk/products/resolute",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Four Origin single origins with published prices had not previously been logged, including the coffee anchoring the August competition",
+   "detail": "The single origin collection holds eleven products. New to our record: Los Altos from £12.50 (Nicaragua, Mierisch family — green apple, prune, roasted hazelnut, described as a seasonal returner), Beija Flor from £12.50, Pathfinder from £12.95 and Atlas Decaf from £14.75. Los Altos is the more significant of the four, being one of only two coffees that qualify for the Fellow competition entry.",
+   "bridgeResponse": "Origin's range now spans £12.50 to £23.90 on bagged retail. That is the ceiling our Roots Collection is measured against by any customer who shops both. Nothing to do differently — record the prices and keep our own certified Fairtrade, Organic and Rainforest Alliance positioning in front of buyers who care about provenance as well as cup score.",
+   "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Origin's blends collection has dropped to two products while the page copy still claims three",
+   "detail": "The blends collection now shows two products — Resolute from £12.50 and Stronghold from £12.50 — but the body copy still reads 'three unique offerings'. Pathfinder, named as the third blend in Origin's own journal, now appears in the single origin collection at from £12.95. This is either a deliberate reclassification or an unfinished edit; we cannot tell which.",
+   "bridgeResponse": "Alongside the half-implemented delivery threshold, this is the second visible inconsistency on Origin's site in a week. It reads like a brand mid-migration after the July rebrand rather than a business in trouble, and we should not over-read it. Worth noting only because a shrinking blend range narrows their footing on the everyday espresso volume that most trade accounts actually buy.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee-blends",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "pricing",
+   "headline": "Origin's £35 free-delivery threshold is real but only half-implemented — the cart still tells customers £25",
+   "detail": "Following on from the flag raised on 31 July: newer templates including the homepage, competition collection and product pages show 'Free delivery on orders over £35' in the announcement bar, while the cart drawer on those same pages and the product-level shipping module both still state £25. Older templates such as the journal and blends collection show £25 in the banner too. The £35 figure is appearing, but £25 is what a customer is told at the point of purchase.",
+   "bridgeResponse": "Resolves last Friday's uncertainty in the honest direction: an intended increase, not yet operative. No action for Bridge beyond keeping the record straight — we should not brief sales on a £35 threshold that a customer can disprove in one click.",
+   "source": "https://www.origincoffee.co.uk/products/resolute",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "ads",
+   "headline": "Origin is running an open-ended equipment clearance across Sage, Fellow and Wilfa",
+   "detail": "A 'Coffee Equipment Sale — Including Sage, Fellow, Wilfa & more' tile sits in the equipment navigation, with 'Brew Bundles SAVE' alongside it. Individual discounted prices were not visible without going into the sale collection, so the depth of discount is unconfirmed. Running a clearance in the same month as launching a £1,299.95 machine suggests they are clearing older stock ahead of the Fellow arrival.",
+   "bridgeResponse": "Relevant to Bridge's equipment side only at the domestic and prosumer end, which is not where our commercial business competes. Note it as context for the Fellow launch rather than a threat in its own right.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee-blends",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Origin's footprint claim now lists Bristol among eight sites, putting a shop roughly an hour from Cardiff",
+   "detail": "The locations listed are Bristol, The Roastery at Porthleven, the Cold Brew Brewery, Shoreditch, The British Library, Southwark and Edinburgh, described as 'eight coffee shop locations around the UK'. We cannot confirm the Bristol site is new — it may well predate the last pass and simply have been missed — so this is logged as new to the record, not as a new opening.",
+   "bridgeResponse": "Proximity matters for brand familiarity in South Wales and the South West, not for service. A Cornwall roaster with a Bristol shop still has no engineer within reach of a Cardiff account at 7am. Bridge's answer stays the same and stays local: UK-wide directly employed engineers, a published callout rate and a named account contact.",
+   "source": "https://www.origincoffee.co.uk/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "strategy",
+   "headline": "Clifton claims to be the only SCA Premier Training Campus in the UK outside London, with two Q-Graders on staff",
+   "detail": "The homepage training block reads 'The UK's only SCA Premier Training Campus located outside London', supported by a page confirming Premier status and two accredited Q-Graders. Their education offer runs from home barista courses through SCA modules to a separate wholesale training collection. This is a direct trade-side credential in the same region Bridge sells into.",
+   "bridgeResponse": "This is a genuine strength and we should not talk it down. Bridge also delivers SCA training, but Premier campus status and two Q-Graders is a stronger training claim than ours on paper. Where a prospect raises it, the honest line is that training is one component: Bridge is the only supplier in this set publishing its equipment, callout and service pricing, and the only one wrapping roasting, engineers, BRITA water and PSSR compliance into a single accountable contract. If training is the deciding factor for a target account, we should be prepared to bring our own SCA credentials and QC process into the room in detail.",
+   "source": "https://cliftoncoffee.co.uk/pages/speciality-training",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "pricing",
+   "headline": "Three named Clifton house espressos anchor the best-seller rail, with Suspension at £11.00 undercutting the set",
+   "detail": "New to our record: Suspension Espresso £11.00/250g (Brazil, Fazenda Pinhal, pulped natural — malted milk biscuits, peanut butter, dark chocolate); Village Organic £12.00/250g (Honduras, Comucap cooperative — fig jam, speculoos, hazelnut); E1 Project Espresso £12.00/250g (El Salvador, Ahuachapán, washed — cinnamon roll, marmalade, baker's chocolate). All three are sold in 250g and 1kg formats. At £11.00 Suspension is the cheapest comparable house espresso across the seven competitors we track.",
+   "bridgeResponse": "A 1kg format on a named speciality espresso at this level is the pack size trade buyers actually order, so this is the closest direct comparison to Bridge's own published £10–£20/kg range. We are competitive on price at the volume end; where we win is that a Bridge customer buying beans also gets the engineer, the water treatment and the compliance paperwork from the same supplier. Sales should be ready with a per-kilo comparison rather than a per-bag one.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "campaign",
+   "headline": "Clifton has stacked a free £8.99 storage tin on top of its 20% subscription discount",
+   "detail": "The homepage subscription block reads 'Save 20% on every order and get a free Clifton Coffee tin on your first!'. Both storage tin SKUs, black and grey at £8.99, carry the subtitle 'FREE when you start a House Subscription'. The 20% discount itself is unchanged from 10 June; the hard-goods incentive on top of it is new.",
+   "bridgeResponse": "A physical gift on first order is a straightforward retail conversion tactic and it works because it is tangible. Bridge does not compete on gifts. Our equivalent lever is certainty of supply and cost: published pricing, no lock-in, and a named contact who answers the phone. If sales meet this in a retail-adjacent account, the response is total cost over a year, not a like-for-like giveaway.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee?page=2",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "award",
+   "headline": "Clifton appears to have added a 2026 Great Taste badge to E1 Project Espresso, though this is unconfirmed",
+   "detail": "The current E1 bag artwork is served as a file named 'E1_Fresh_Crop_26_GREAT_TASTE.png' with a cache-buster resolving to approximately 31 July 2026. The 2026 Great Taste Awards coffee results were published in the same window — 192 one-star, 70 two-star and 17 three-star awards from a record entry. The inference is strong but we could not load the product page to read the on-page copy, and Clifton has published no announcement we could find. This needs a manual check before anyone repeats it.",
+   "bridgeResponse": "Flagged rather than asserted. If it is confirmed, it gives Clifton a third-party quality credential to put in front of trade buyers, and we should expect to see it on their wholesale collateral. Bridge's own answer on quality stays evidence-based: our QC process, cupping records and the certified Roots Collection.",
+   "source": "https://www.teaandcoffee.net/news/39768/multiple-coffee-companies-honoured-with-2026-great-taste-awards/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "launch",
+   "headline": "Clifton has launched a Nicaraguan sugarcane decaf at £14.00 and now runs two low-caffeine propositions",
+   "detail": "Sugarcane Decaf £14.00/250g (1,200–1,400 masl, sugarcane EA process — toffee, dried cranberry, spiced chocolate), available in both filter and espresso roast profiles and in 250g and 1kg. Artwork timestamp resolves to around 6 July 2026, so it may have been live before the last pass and been missed. It sits alongside Colombia Los Nogales Low Caf at £18.00, giving them two distinct low-caffeine offers.",
+   "bridgeResponse": "Decaf is a rising share of workplace and hospitality volume and a sugarcane-process decaf at £14.00 in a 1kg trade format is a credible trade proposition, not just retail garnish. Worth checking our own decaf offer reads as deliberately as this one in front of a buyer.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee?page=2",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "pricing",
+   "headline": "Clifton's Nespresso-compatible capsule pricing is now visible from £7.95, with a Podback recycling upsell",
+   "detail": "House Nespresso Capsules from £7.95 and Decaf Nespresso Capsules from £8.25, each sold as a single sleeve of fourteen, a case of six sleeves, or a case bundled with a Podback recycling bag. This sits below Origin's £6.00–£6.50 per unit capsule pricing on a per-sleeve basis and adds a recycling-led reason to buy the larger format. This also supersedes the unconfirmed 'instant sachets from £9.00 for six' note on our record, which could not be found anywhere on the site.",
+   "bridgeResponse": "Capsules are not a battleground Bridge chooses, but the Podback bundle is a neat idea worth noting: it turns a sustainability obligation into a bigger basket. Where a customer asks Bridge about pod recycling, we should have a straight answer ready rather than deflecting to beans.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee?page=2",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "strategy",
+   "headline": "Clifton has added six taste-and-use browse collections to its coffee listing",
+   "detail": "A new filter rail runs across the top of the coffee collection: Best Sellers, New Arrivals, Great for Filter, Great for Espresso, Great with Milk, and Complex & Funky. These sit alongside faceted filters for country, process and category. Read together with the free tin and the £50 shipping threshold, this is a sustained conversion-optimisation push on the retail side of the business.",
+   "bridgeResponse": "'Great with Milk' is the useful observation here — it is the question every workplace and hospitality buyer actually asks, framed in plain language rather than cupping notes. Worth borrowing the framing for how Bridge presents its own range to trade buyers, without borrowing the retail tone.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "pricing",
+   "headline": "Clifton's free-shipping threshold is £50, the highest of the three speciality roasters we track",
+   "detail": "The cart drawer and site banner read 'Free shipping on orders over £50!' on every page checked. Against Union at £30 and Origin at £25 to £35, this is a notably high bar. It was not previously on our record, so we cannot say whether it has moved.",
+   "bridgeResponse": "A high threshold pushes basket size but filters out trial orders — a deliberate trade-off for a roaster leaning on subscriptions. Not directly comparable to Bridge, which delivers on trade terms rather than by parcel threshold, but useful when a small account is comparing the true cost of ordering from a speciality retailer.",
+   "source": "https://cliftoncoffee.co.uk/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "clifton",
+   "category": "launch",
+   "headline": "Four coffees on our Clifton record are no longer in the range, and Rwanda Mbizi is showing sold out",
+   "detail": "A full enumeration of the twenty-one products in Clifton's coffee collection confirms Ethiopia Duwancho, Kenya Ngunguini PB, Burundi CAFEX and Ethiopia Adara Keramo are all absent. Rwanda Mbizi remains listed at from £11.00 but is flagged sold out. East Timor Rotutu has entered the rotation at £12.00/250g (dried pineapple, butterscotch, winey), with artwork dating to around 14 July. These items have been marked ended in the shop-window record rather than deleted.",
+   "bridgeResponse": "Normal seasonal churn for a speciality roaster, and a reminder of the structural difference in our propositions: Clifton's range turns over every few weeks, which is exciting for retail and awkward for a trade customer who needs the same cup in the same cafe next quarter. Consistency of supply is a Bridge argument worth making plainly.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "liquidline",
+   "category": "launch",
+   "headline": "Liquidline has added a new own-brand bean-to-cup, the Q1 Evo, at £16.50 a week and already badged best seller",
+   "detail": "The Q1 Evo product page carries a modified timestamp of 30 July 2026. Specification: 60 cups a day, one 1.2kg bean hopper, two 1.6L powder canisters, 4L manual-fill tank or plumbed, 305 x 430 x 625mm, available on three or five year lease or outright purchase. At £16.50 a week it sits between the K1 at £14.00 and the Q2 at £23.00. It appears on the main machine listing but not yet on the rental listing, which reads as an incomplete rollout rather than deliberate positioning.",
+   "bridgeResponse": "Liquidline continues to build out an own-brand ladder at price points that make the small-office decision look trivially cheap — £16.50 a week reads as nothing until you total five years and add the consumables and callouts. Bridge's counter is the arithmetic: our machine range, published callout at £185 and service contracts from £500 to £2,000 a year let a buyer see the whole cost, which a weekly lease figure deliberately does not.",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-q1-evo/",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "liquidline",
+   "category": "pricing",
+   "headline": "Liquidline's full weekly lease ladder is now visible, from £1.00 to £101.50 a week across the range",
+   "detail": "Figures captured today and not previously logged: Schaerer Soul 10 £92.00/wk, Schaerer Skye £59.00/wk, Schaerer Club Fresh Milk £35.00/wk, Franke SB1200 Fresh Milk £101.50/wk, Coffetek Vitro X4 Powdered Milk £39.00/wk, Vitro X3 Duo £38.00/wk, Vitro S5 £26.50/wk, Vitro X1 £23.00/wk, Vitro S2 Instant £23.00/wk, Vitro S1 £16.00/wk, Vitro S1 Instant £12.50/wk, Liquidline Q1 £15.00/wk, Q2 £23.00/wk, Q3 £33.00/wk, La Spaziale S10 3-group £37.50/wk, La Spaziale S21 2-group compact £25.00/wk, Marco Jet6 Twin £23.50/wk, Marco Maxibrew Twin £40.50/wk, Marco Bru Auto Fill £2.50/wk, K-Fee Lattensia £4.00/wk, K-Fee One £1.00/wk. The K2 variants and Jura WE8 show 'Contact Us' with no price. Schaerer Soul 12 holds at £97.50/wk, unchanged from 31 July and now at the top of its band across two consecutive passes. WMF Espresso NEXT did not appear in the results fetched, so the £93.50/wk figure is unverified today.",
+   "bridgeResponse": "This is the most useful thing in today's sweep for sales. We now have a full competitor lease ladder to price against, machine by machine, and it confirms Liquidline uses transparent weekly figures as the hook and holds back price on the fresh-milk flagships. Bridge should quote against the like-for-like weekly figure and then put the five-year total, service cost and milk-fridge requirement next to it — our Aero models need a fridge added to every quote, and their published figures make no such allowance either.",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "selecta",
+   "category": "strategy",
+   "headline": "Selecta has built a dedicated office coffee machines landing page explicitly targeting rental and leasing search terms",
+   "detail": "The page carries meta keywords 'office coffee machines, coffee machine rental, coffee machine lease, coffee machine for business, coffee machine suppliers' — the only Selecta page checked that has a keywords tag at all, which suggests recent and deliberate SEO work. The content is consultative, walking a buyer through daily cups, space and drink preferences, and ends in an enquiry form rather than a price. Two internal calls to action mis-link to the Ireland site, which suggests a hurried build. The page cannot be dated, so it is logged as new to the record.",
+   "bridgeResponse": "A pan-European operator bidding for the same search terms Bridge relies on is a genuine competitive cost, and their site is better resourced than ours. The gap we can exploit is what happens after the click: Selecta asks for an enquiry and promises a response within 24 hours, while Bridge publishes the numbers. Marketing should make sure our equivalent pages carry real figures — beans £10–£20/kg, callouts £185, service £500–£2,000 a year — because that is the one thing Selecta will not match.",
+   "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages/office-coffee-machines",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "selecta",
+   "category": "strategy",
+   "headline": "Selecta has added a 'growing businesses' segment page, a step down from its enterprise-only positioning",
+   "detail": "Two new segment pages have appeared: /locations/enterprises, 'Trusted solutions built for national organisations', and /locations/businesses, 'Flexible solutions tailored to growing businesses… scalable vending and retail solutions that fit your space, needs and ambitions'. Selecta has historically described itself as serving medium-sized offices up to large distribution centres, so an explicit scalable-SME message is a move down-market into territory Bridge competes in. Two new stories have also appeared above the previously logged Gym Group and YPO items, on workplace hydration and vending for employee wellbeing.",
+   "bridgeResponse": "The mid-market is where Bridge wins, so this deserves attention. Selecta's scale is real but their model still requires the customer to enter an enquiry funnel and wait, and their group newsroom has published nothing since November 2025. Bridge's advantage against them is speed and specificity: published pricing, a named contact, and an engineer who is directly employed rather than subcontracted. Sales should expect to see Selecta in accounts they previously would not have bothered with.",
+   "source": "https://www.selecta.com/uk/en",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "selecta",
+   "category": "launch",
+   "headline": "Selecta's hot drinks range has grown to nineteen machines, adding Astoria C600, Coffetek Vitro S1 Evo, Crane Cali, Vitro Series 3 and Schaerer Skye",
+   "detail": "Full current line-up: Coffetek Vitro S1 Evo, Gaggia La Brillante, Gaggia La Radiosa, Gaggia G300 Krea, Astoria Plus 4U Advantage, Astoria C600, Schaerer Skye, Schaerer Soul 12, Schaerer Soul 10, Coffetek Neo Q, Coffetek Vitro X4, Coffetek Vitro Series 3, Coffetek Vitro S2, Coffetek Vitro X1, Coffetek Vitro X3, Coffetek Neo, Crane Infinity, Crane Cali, Franke A600. Notable that Selecta's new 'Vitro S1 Evo' and Liquidline's new 'Q1 Evo' are both Coffetek platforms, so the two are competing on the same hardware under different badges. No prices are shown for any of them.",
+   "bridgeResponse": "Two of our largest competitors adding the same Coffetek platform in the same week is a useful reminder that own-brand bean-to-cup ranges in this market are mostly the same factories with different fascias. Bridge's own machine range faces the same question, and the answer is not the badge but the ecosystem around it: engineers, water, training and compliance. Sales should be comfortable naming the shared-platform point when a prospect treats a competitor's own-brand machine as proprietary technology.",
+   "source": "https://www.selecta.com/uk/en/coffee-and-hot-beverages",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "selecta",
+   "category": "campaign",
+   "headline": "Selecta is now giving Change Please equal billing with Starbucks and its own Pelican Rouge brand",
+   "detail": "The UK homepage hot beverage panel reads 'We are proud to offer Starbucks®, Change Please and our own sustainable Pelican Rouge brand', and Change Please sits in the brand wall alongside Coca-Cola, Cadbury and Walkers. Change Please is a social-enterprise coffee brand; Selecta signed a pan-European agreement with them in early 2024. The homepage hero is 'Smarter retail. Instant Joy.' The page is undated so we cannot confirm the change happened this week.",
+   "bridgeResponse": "A social-impact brand given equal billing is a straightforward answer to procurement questions about social value, which is increasingly a scored criterion in public and framework tenders. Bridge's equivalent is certification rather than cause branding: the Roots Collection carries Fairtrade, Organic and Rainforest Alliance. Both answer the question; ours is auditable, and we should present it that way in tender responses.",
+   "source": "https://www.selecta.com/uk/en",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "matthew-algie",
+   "category": "launch",
+   "headline": "Matthew Algie has added La Marzocco to its traditional espresso line-up, moving upmarket on equipment",
+   "detail": "The machines page now leads its traditional espresso section with the La Marzocco Linea Classic S in two and three group, ahead of the Rancilio Classe 5 USB Tall and Classe 7 USB Tall. La Marzocco was not previously in their published range, which showed a generic Rancilio on the homepage. The page is undated and its image filenames suggest a September 2025 build, so we cannot confirm this landed this week — it is new to the record. No prices are published.",
+   "bridgeResponse": "A specialty halo brand alongside the volume Rancilios is a credibility play against independent roasters, and it puts Matthew Algie in the same equipment conversations as Bridge in hospitality and visitor attractions. Our position is unchanged and stronger on transparency: they publish no machine prices at all, only 0% finance over 36 to 48 months. Sales should ask a prospect what the machine actually costs and what a callout costs, because Matthew Algie's site does not say.",
+   "source": "https://www.matthewalgie.com/commercial-coffee-machines/",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "matthew-algie",
+   "category": "content",
+   "headline": "Matthew Algie's equipment catalogue is considerably broader than logged, particularly in brewers and grinders",
+   "detail": "Beyond the known WMF 5000S+, Carimali Armonia Ultra and Coffea Enjoy Plus, the page details Bravilor Bonamat B10 HW, ISO and TH, Bravilor Bolero 11 and Bolero 43, Bunn ICBA Platinum Edition and Thermofresh brewers, and grinders including Eureka Helios 75, Eureka Atom Touch 65, Eureka Mythos, Bunn GVH-3A and Mazzer Super Jolly V Up. Image filenames date to around September 2025, so this is not new this week — it had simply not been captured. Their journal renders client-side and could not be read; the site footer and modern slavery statement are both still 2025 editions.",
+   "bridgeResponse": "Their filter and brew catalogue is deeper than ours in the batch-brew and bulk-tea segment, which matters in staff catering and visitor attractions. Honest read: that is a place they are better equipped than Bridge on paper. Worth a conversation with Darryl about whether our filter and bulk-brew offer is complete enough to answer a multi-site catering tender without a gap.",
+   "source": "https://www.matthewalgie.com/commercial-coffee-machines/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "UCC's trade shop is showing stock gaps concentrated in bulk trade pack sizes, including three core Lyons coffee bag lines",
+   "detail": "Currently out of stock: Lyons Go Joe, Perkadilly and Rockadero coffee bags in 150 x 7g bulk (£25.32, £25.05, £25.05), Lyons No.4 roast and ground 7 x 150g £17.96, Ueshima RFA Fuji Mountain Beans 6 x 200g £39.64, Grand Café Rainforest Alliance roast and ground 40 x 210g £129.68, Bunn 2.5L airpot £56.00, and around eight Simply syrup variants. Notably the 40-count retail-format Lyons bags remain in stock at £9.37 while every 150-count bulk trade format is out, which points at a supply or production issue on trade packs specifically. Whether this is new since 31 July is unconfirmed.",
+   "bridgeResponse": "This is actionable. Any account buying Lyons coffee bags in bulk trade format cannot get them from UCC's own shop right now, and syrups are similarly patchy. Sales should check which of our prospects and shared accounts run Lyons bags and open the conversation on availability rather than price. Bridge's argument is continuity of supply from a roaster that controls its own production in Cardiff.",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/all?page=3",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "ucc",
+   "category": "pricing",
+   "headline": "Every tracked UCC trade shop price is unchanged, and three Grand Café decaf lines extend the published range down to £52.30",
+   "detail": "Verified individually today with no movement: Oatly Baristamatic 6 x 1.5L £14.62; Ueshima pour over bags £60.00; Ueshima iced latte and iced matcha latte both £24.61; Ueshima House Blend RFA beans 10 x 500g £86.20; Lyons Perkadilly and Go-Joe Mocha both £56.28; Grand Café 100% RFA beans £69.74; Grand Café Fairtrade beans £83.69; free delivery over £60 unchanged. New to the record: Grand Café Fairtrade decaf pods 200 x 14g £52.30, Fairtrade decaf double shot sachets 150 x 14g £57.16, and Fairtrade decaf beans 20 x 200g £75.63. Also captured: Ueshima Kobe Blend RFA beans 10 x 500g £74.21.",
+   "bridgeResponse": "A full basket held flat across a fortnight while their bulk trade lines go out of stock suggests UCC is managing supply rather than chasing volume on price. The decaf case prices are the useful addition — they give us a firm reference point for the one part of the range where trade buyers most often have no idea what they should be paying.",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/all",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "ucc",
+   "category": "content",
+   "headline": "UCC's trade shop is doing almost no merchandising work — hero banners date to 2022 and 2023 and the blog has two posts, both 2022",
+   "detail": "Both homepage hero banners resolve to Shopify assets with version timestamps from 2022 and January 2023. The homepage og:image is Shopify's default placeholder, so there is no social card at all. The news and trends blog contains exactly two posts, dated April and October 2022. The Summer Promotion terms document, dated 14 July 2026, is still linked in the footer but the offer is not merchandised anywhere on the storefront — no banner, no promo code, no percentage. We were again unable to read the terms PDF, so the actual discount remains unknown.",
+   "bridgeResponse": "A large supplier running a live promotion that its own storefront does not mention is a real weakness, and it is consistent with the corporate site having gone quiet. Where Bridge competes with UCC on consumables, the argument is attention: our customers are told what is available, what it costs and when it ships. Worth someone opening the terms PDF manually so we know what UCC's summer discount actually is before a customer tells us.",
+   "source": "https://www.ucc-coffee-direct.co.uk/blogs/news",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "union",
+   "category": "pricing",
+   "headline": "Union is publishing cup scores on shelf and confirms two named blends at the £7.95 entry point",
+   "detail": "The homepage 'Familiar Favourites' range shows Revelation Signature Espresso £7.95 with a published quality score of 84.5, House Roast Original Blend £7.95 at 84.25, and Natural Spirit Organic Blend £8.45 at 85.25. João Hamilton Brazil remains £13.85 and is now badged 'Limited Parcel' with a score of 86.5. Union is publishing numeric cup scores across the range, which is a transparency position rather than a promotion.",
+   "bridgeResponse": "Publishing cup scores is a confident move and it is the sort of evidence-led claim Bridge respects and should be able to match. It also sets up an awkward comparison for anyone who publishes no scores at all. Worth discussing with Darryl whether Bridge's QC process could support publishing scores on the Roots Collection — we already do the cupping, we simply do not show the number. The £7.95 entry price also confirms Union holds a genuine sub-£8 opening point in retail.",
+   "source": "https://unionroasted.com/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "union",
+   "category": "pricing",
+   "headline": "Union ships all 1kg bags free regardless of order value, alongside a £30 threshold on everything else",
+   "detail": "The site-wide announcement bar reads 'FREE DELIVERY on orders over £30 and 1kg bags'. The 1kg carve-out had not previously been captured and is the more significant half: it makes a single 1kg trade-format bag free to ship at any order value, which is a direct route into small cafes and offices that would otherwise buy on a trade account. For comparison, Origin sits at £25 to £35 and Clifton at £50.",
+   "bridgeResponse": "This is a quiet piece of wholesale-adjacent pricing rather than a retail offer, and it is aimed squarely at the small independent accounts that make up the long tail of our market. Bridge delivers on trade terms, which is a better deal at volume, but a one-bag customer testing a roaster will notice free shipping on a single kilo. Worth checking our own small-order terms do not make trial harder than it needs to be.",
+   "source": "https://unionroasted.com/collections/all-our-coffees",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-03",
+   "competitorId": "union",
+   "category": "campaign",
+   "headline": "Union's Discovery Week multi-buy is still running, and Summer Blend has been given its own hero slide",
+   "detail": "Discovery Week remains slide one — 15% off two bags, 20% off three or more on all single origins and microlots, auto-applied with no code and no stated end date. It has now been live at least four days beyond the 31 July observation. Slide two is new detail on Summer Blend: 'Bright. Balanced. Built for summer', named as a Peru and Rwanda blend with notes of red apple, damson plum and golden syrup, price unchanged at £10.75. The coffee itself dates to early July; the hero placement is what has changed. Union's collection grids render client-side, so several individual prices on our record could not be re-verified this pass and are recorded as not observed rather than changed.",
+   "bridgeResponse": "Union is the quietest of the three speciality roasters this week — no new coffees, no price moves, no new editorial. A discount window with no end date running for a fortnight starts to look like a price cut rather than a promotion, which is worth watching. Bridge's position is unchanged: we publish our pricing so a trade buyer can budget without waiting for a promotional window.",
+   "source": "https://unionroasted.com/",
+   "severity": "info"
+  },
+  {
    "date": "2026-07-31",
    "competitorId": "ucc",
    "category": "strategy",

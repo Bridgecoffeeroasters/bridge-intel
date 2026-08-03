@@ -236,6 +236,137 @@ window.BCR=window.BCR||{};window.BCR.price={
      "change": "Product grids are client-side rendered and did not return; free delivery over £60 confirmed unchanged. A summer promotion exists but its terms could not be read."
     }
    ]
+  },
+  {
+   "date": "2026-08-03",
+   "entries": [
+    {
+     "competitorId": "liquidline",
+     "item": "Liquidline Q1 Evo lease (new own-brand bean-to-cup)",
+     "price": "from £16.50 / week",
+     "change": "baseline — first capture; sits between the K1 (£14.00) and the Q2 (£23.00)"
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Schaerer Coffee Soul 12 lease",
+     "price": "£97.50 / week",
+     "change": "unchanged vs 31 Jul (£97.50) — first time it has held across two consecutive passes; band remains £94.50–£97.50"
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Weekly lease ladder (now visible across the range)",
+     "price": "£1.00–£101.50 / week",
+     "change": "baseline — first full capture. Franke SB1200 Fresh Milk £101.50; Schaerer Soul 10 £92.00; Schaerer Skye £59.00; Marco Maxibrew Twin £40.50; Coffetek Vitro X4 Powdered £39.00; Vitro X3 Duo £38.00; La Spaziale S10 3-group £37.50; Schaerer Club Fresh Milk £35.00; Q3 £33.00; Coffetek Vitro S5 £26.50; La Spaziale S21 2-group compact £25.00; Marco Jet6 Twin £23.50; Q2, Vitro X1 and Vitro S2 Instant £23.00; Vitro S1 £16.00; Q1 £15.00; K1 £14.00; Vitro S1 Instant £12.50; K-Fee Lattensia £4.00; Marco Bru Auto Fill £2.50; K-Fee One £1.00. The K2 variants and Jura WE8 remain price-suppressed ('Contact Us')."
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "WMF Espresso NEXT lease",
+     "price": "Not observed",
+     "change": "unverified this pass — did not appear in the listings fetched; last logged at from £93.50/week on 31 Jul"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "House espresso range 250g",
+     "price": "£11.00–£12.00",
+     "change": "baseline — first capture of Suspension £11.00, Village Organic £12.00 and E1 Project Espresso £12.00, all also sold in 1kg. £11.00 is the lowest comparable house espresso across the seven competitors tracked."
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Nespresso-compatible capsules",
+     "price": "from £7.95 house / £8.25 decaf, sleeve of 14",
+     "change": "baseline — first capture; supersedes the unconfirmed 'instant sachets from £9.00 for six' note, which is not present anywhere on the site"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Free-shipping threshold",
+     "price": "£50",
+     "change": "baseline — first capture; the highest of the three speciality roasters (Union £30, Origin £25–£35)"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Sugarcane Decaf, Nicaragua",
+     "price": "£14.00 / 250g",
+     "change": "baseline — new line; Clifton now runs two low-caffeine offers at £14.00 and £18.00"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "East Timor – Rotutu",
+     "price": "£12.00 / 250g",
+     "change": "baseline — new to the record; artwork dates to around 14 Jul so it may predate the last pass"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Unparalleled Series 120g lots",
+     "price": "£15.00–£20.75",
+     "change": "lower bound below the £20.00–£25.00 previously logged (Ombligon £15.00, Gesha £20.00, Pink Bourbon £20.75). More likely a recording correction than a price cut."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Fellow Espresso Series 1",
+     "price": "£1,299.95",
+     "change": "baseline — pre-launch registration, arriving late Aug 2026; new ceiling on their equipment range"
+    },
+    {
+     "competitorId": "origin",
+     "item": "Resolute on subscription",
+     "price": "£9.40 (vs £12.50 one-time)",
+     "change": "baseline — 25% off the first three orders, then a standing 10% discount thereafter, plus free gifts at order milestones 4, 7 and 10"
+    },
+    {
+     "competitorId": "origin",
+     "item": "Single origin additions",
+     "price": "£12.50–£14.75",
+     "change": "baseline — Los Altos from £12.50, Beija Flor from £12.50, Pathfinder from £12.95, Atlas Decaf from £14.75"
+    },
+    {
+     "competitorId": "origin",
+     "item": "Free-delivery threshold",
+     "price": "£35 (banner on newer templates) / £25 (cart drawer and product shipping copy)",
+     "change": "still contradictory, now better understood than on 31 Jul: the £35 increase appears in banners but £25 is what a customer is told at the point of purchase. Treat £25 as operative."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Origin x Dor & Tan coffee cup",
+     "price": "£25.00",
+     "change": "baseline — first published price for the ceramics collaboration logged on 31 Jul"
+    },
+    {
+     "competitorId": "union",
+     "item": "Free-delivery threshold",
+     "price": "£30, and free on all 1kg bags at any order value",
+     "change": "the 1kg carve-out is new to the record — a single 1kg trade-format bag ships free regardless of basket size"
+    },
+    {
+     "competitorId": "union",
+     "item": "Entry blends 200g",
+     "price": "£7.95 (Revelation Signature Espresso, House Roast Original Blend); Natural Spirit Organic £8.45",
+     "change": "unchanged vs 31 Jul; the £7.95 floor is confirmed on two named SKUs, with published cup scores of 84.5 and 84.25"
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Trade shop basket (nine tracked lines)",
+     "price": "Unchanged across the basket",
+     "change": "no movement vs 31 Jul: Oatly Baristamatic £14.62; Ueshima pour over bags £60.00; Ueshima iced latte and iced matcha latte £24.61; Ueshima House Blend RFA £86.20; Lyons Perkadilly and Go-Joe Mocha £56.28; Grand Café 100% RFA £69.74; Grand Café Fairtrade £83.69; free delivery over £60"
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Grand Café Fairtrade decaf case range",
+     "price": "£52.30–£75.63",
+     "change": "baseline — extends the published Grand Café case range downward from the £69.74–£83.69 band. Decaf pods 200x14g £52.30; decaf double shot sachets 150x14g £57.16; decaf beans 20x200g £75.63. Ueshima Kobe Blend RFA 10x500g also captured at £74.21."
+    },
+    {
+     "competitorId": "selecta",
+     "item": "Machines and hot drinks range",
+     "price": "Enquiry only — no figures visible",
+     "change": "unchanged since 12 Jun; the one-day June guide pricing has not returned, including on the new office coffee machines landing page"
+    },
+    {
+     "competitorId": "matthew-algie",
+     "item": "Machines, including the new La Marzocco Linea Classic S",
+     "price": "No prices published",
+     "change": "unchanged; Easy Purchase confirmed verbatim at 0% over 36 or 48 months, with free delivery, installation and training on outright purchase"
+    }
+   ]
   }
  ]
 };
