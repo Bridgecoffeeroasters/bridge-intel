@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-08-03",
+ "lastUpdated": "2026-08-04",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -26,7 +26,9 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "La Marzocco Linea Classic S now leads the traditional espresso range, ahead of the Rancilio Classe 5 and 7 — a step upmarket on equipment",
     "Logo wall reordered and expanded, now also showing Esquires, National Trust for Scotland, Dobbies and Handpicked Hotels (carousel rotates, read cautiously)",
     "Filter and bulk-brew catalogue is deeper than previously logged — Bravilor, Bunn, Eureka and Mazzer — a genuine strength in staff catering",
-    "Site itself is dormant: journal unreadable, footer and modern slavery statement both still 2025 editions"
+    "Site itself is dormant: journal unreadable, footer and modern slavery statement both still 2025 editions",
+    "Logo wall today also shows Tinderbox Espresso Glasgow and Glasgow Science Centre; carousels rotate, so read as observation rather than new wins",
+    "Journal index renders client-side and returned no articles - whether anything was published this week is unverified, not confirmed absent"
    ],
    "keywords": [
     "wholesale coffee",
@@ -98,7 +100,9 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Owns Underdog Coffee (Devon speciality roaster, acquired Nov 2025) - an own-roast story to counter; automotive push now includes on-site barista training",
     "New own-brand Q1 Evo bean-to-cup at £16.50/week completes a ladder from the K1 (£14.00) to the Q3 (£33.00) — own-brand hardware is now the core of their offer",
     "Full weekly lease ladder published from £1.00 to £101.50, but fresh-milk flagships (K2, Jura WE8) remain price-suppressed behind 'Contact Us'",
-    "Content cadence has stalled — no blog post since the Best Workplaces for Women piece"
+    "Content cadence has stalled — no blog post since the Best Workplaces for Women piece",
+    "Homepage unmodified since 15 July and the news index still leads with the Best Workplaces for Women piece - content cadence remains stalled",
+    "Lease ladder held flat on every visible figure, with the Soul 12 at £97.50 for a second consecutive pass - the first sustained stability since 10 June"
    ],
    "keywords": [
     "commercial coffee machines",
@@ -171,7 +175,8 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "New 'growing businesses' segment page marks a step down from enterprise-only positioning into Bridge's mid-market territory",
     "Hot drinks range now nineteen machines; the new Coffetek Vitro S1 Evo is the same platform as Liquidline's Q1 Evo",
     "Change Please given equal billing with Starbucks and Pelican Rouge — social value being pushed harder, relevant in framework tenders",
-    "Group newsroom silent since November 2025 — no 2026 announcements at all"
+    "Group newsroom silent since November 2025 — no 2026 announcements at all",
+    "Hot drinks range steady at nineteen machines with no additions or removals; pricing fully withdrawn and the group newsroom still silent since November 2025"
    ],
    "keywords": [
     "vending machine operator",
@@ -242,7 +247,11 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Bulk trade pack sizes going out of stock while retail formats stay available — three core Lyons coffee bag lines and around eight syrups currently unavailable",
     "Trade shop merchandising is dormant: hero banners date to 2022–23, blog has two posts from 2022, no social card on the homepage",
     "A Summer Promotion dated 14 July is live in the footer small print but not merchandised anywhere on the storefront; terms still unread",
-    "Grand Café decaf case pricing now visible from £52.30, extending the published range downward"
+    "Grand Café decaf case pricing now visible from £52.30, extending the published range downward",
+    "Bulk Lyons coffee bag lines back in stock at £25.05-£32.29, closing the availability gap we had been watching",
+    "Ueshima Kobe Blend RFA beans now sold out, opening a short gap at the premium end of the trade shop",
+    "New smaller trade format: Ueshima RFA Fuji Mountain Beans 6 x 200g at £39.64 alongside the 10 x 500g cases",
+    "Summer Promotion terms unread for a third consecutive pass - the PDF sits behind a CDN we cannot fetch"
    ],
    "keywords": [
     "total coffee solution",
@@ -311,7 +320,11 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "£7.95 entry point confirmed on two named blends; Natural Spirit Organic at £8.45 anchors the organic offer",
     "All 1kg bags ship free at any order value — a quiet wholesale-adjacent hook into small independents",
     "Discovery Week multi-buy still running with no end date after a fortnight — starting to read as a price cut rather than a promotion",
-    "Quietest of the speciality roasters this pass: no new coffees, no price moves, no new editorial"
+    "Quietest of the speciality roasters this pass: no new coffees, no price moves, no new editorial",
+    "Discovery Week multi-buy has disappeared from every page after roughly two weeks; homepage is back to a product-led Summer Blend hero (may still apply silently at checkout - unverified)",
+    "Summer Blend also sold at 1kg for £43.00, which ships free at any order value under the 1kg carve-out",
+    "Three different free-delivery thresholds now published across their own pages (£30 site bar, £25 in search metadata, £45 for courier)",
+    "No new editorial since October 2025 - the content engine is dormant and the effort is going into merchandising"
    ],
    "keywords": [
     "speciality coffee",
@@ -384,7 +397,11 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Subscription is a retention system, not a discount: 25% off three orders, then 10% for life, plus milestone gifts at orders 4, 7 and 10",
     "Ready to Drink promoted to a top-level navigation category alongside espresso concentrate",
     "Bristol now listed among eight sites, putting a shop roughly an hour from Cardiff (may predate this pass — unconfirmed as new)",
-    "Site shows signs of a mid-migration: blends collection down to two products while copy claims three, and delivery threshold split between £35 and £25"
+    "Site shows signs of a mid-migration: blends collection down to two products while copy claims three, and delivery threshold split between £35 and £25",
+    "Weekly release is Kibira Hill Honey, Burundi, from £14.20, published with FOB paid of $5.49/lb and a cup score of 86.5 - the deepest sourcing transparency in this set",
+    "'Shipped by Sail' promoted from a single coffee to a standing navigation item and permanent brand pillar alongside B Corp and the Queen's Award",
+    "Free-delivery threshold resolves to £25 at the point of purchase; the £35 banner is a stale template, so the flagged increase did not happen",
+    "Feature Coffee Subscription at £12.95 a week converts the 52-coffees-a-year cadence into recurring revenue"
    ],
    "keywords": [
     "speciality coffee online",
@@ -459,7 +476,12 @@ window.BCR=window.BCR||{};window.BCR.comp={
     "Subscription incentive now stacks a free £8.99 storage tin on top of the standing 20% discount",
     "Six new taste-and-use browse collections plus a £50 free-shipping threshold — a sustained retail conversion push",
     "E1 Project Espresso artwork reissued around 31 July with a Great Taste reference in the filename — a 2026 award badge is likely but unconfirmed",
-    "Range churns fast: four coffees have left the listing since the last pass and Rwanda Mbizi is sold out"
+    "Range churns fast: four coffees have left the listing since the last pass and Rwanda Mbizi is sold out",
+    "Dedicated office subscription now sits alongside the consumer plans - a self-serve route into small offices that previously would have been a wholesale enquiry",
+    "Speciality instant range back in the navigation at £9.00-£37.00, but all three SKUs are sold out; artwork dates to 2025, so it is a re-exposure rather than a launch",
+    "Great Taste artwork on E1 pushed live around 30 July, but no award year or star count is stated anywhere on the site",
+    "Newsletter sign-up now carries 10% off a first order, stacking with the 20% subscription discount and the free £8.99 tin",
+    "Shop-by-use browse rails layered over the coffee landing page - the most developed retail conversion work in the roaster set"
    ],
    "keywords": [
     "single origin coffee",

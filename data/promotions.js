@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-08-03",
+ "lastUpdated": "2026-08-04",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
   {
@@ -203,7 +203,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "15% off 2 bags / 20% off 3+",
    "source": "https://unionroasted.com/",
    "spotted": "2026-07-31",
-   "counter": "Bridge does not discount to buy trial. We publish our pricing — £10–£20/kg on beans, £185 a callout, £500–£2,000 a year on service — so a trade buyer can budget without waiting for a promotion window."
+   "counter": "Bridge does not discount to buy trial. We publish our pricing — £10–£20/kg on beans, £185 a callout, £500–£2,000 a year on service — so a trade buyer can budget without waiting for a promotion window.",
+   "ended": "2026-08-04"
   },
   {
    "competitorId": "origin",
@@ -1403,6 +1404,90 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "source": "https://cliftoncoffee.co.uk/",
    "spotted": "2026-07-16",
    "counter": "Dispatch speed is now a stated battleground. Bridge should publish its own dispatch and engineer response commitments to pair with published callout pricing."
+  },
+  {
+   "competitorId": "clifton",
+   "type": "offer",
+   "name": "Office Subscription (dedicated small-office plan)",
+   "detail": "A distinct office subscription collection now sits in the subscriptions menu alongside House, Single Origin and Capsules. Pricing was not readable on the collection tile, so the mechanic is unconfirmed. It marks a self-serve route into the small-office segment that previously would have been a wholesale enquiry.",
+   "price": "Not visible - collection tile only",
+   "source": "https://cliftoncoffee.co.uk/collections/office-subscription",
+   "spotted": "2026-08-04",
+   "counter": "A subscription buys coffee. It does not buy an engineer, a descale, a water filter or barista training. Bridge publishes all four - beans £10-£20/kg, callouts £185, service contracts £500-£2,000 a year - so an office can cost the whole thing before it commits to any of it."
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "Speciality Instant range (three SKUs, all sold out)",
+   "detail": "A dedicated Speciality Instant collection with its own hero video, holding Single Origin (Kenya, Mugaya AA) from £10.00, House Blend (Guatemala and Brazil) from £9.00, and a Dual Pack at £37.00. All three show sold out. Artwork version stamps date to late July and early August 2025, so this is most likely an existing range re-exposed in the navigation rather than a new launch.",
+   "price": "£9.00-£37.00 (all sold out)",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/Dual_Pack_v2.png?v=1754300911",
+   "source": "https://cliftoncoffee.co.uk/collections/speciality-instant",
+   "spotted": "2026-08-04",
+   "counter": "Bridge does not offer speciality instant, and it is better to say so than to talk around it. It is a travel and desk-drawer format, not a site solution - it does not put a machine in, service it or train anyone on it."
+  },
+  {
+   "competitorId": "clifton",
+   "type": "coffee",
+   "name": "Ethiopia - Adara Keramo (single origin)",
+   "detail": "New single origin on the rotating rail. Papaya, peach schnapps and blossom honey; 250g and 1kg, espresso or filter roast, four grind options. The single origin rail has contracted to five products around it, so the churn rate remains high.",
+   "price": "from £13.00",
+   "image": "https://cliftoncoffee.co.uk/cdn/shop/files/EthiopiaAdaraKeramo.png?v=1773104932",
+   "source": "https://cliftoncoffee.co.uk/collections/single-origin",
+   "spotted": "2026-08-04",
+   "counter": "A fast-rotating rail suits a home buyer chasing novelty. A site pouring three hundred cups a day needs the same cup in January and July, which is what a Bridge house blend and a fixed price per kilo are for."
+  },
+  {
+   "competitorId": "clifton",
+   "type": "offer",
+   "name": "Newsletter sign-up: 10% off first order",
+   "detail": "The homepage community block now reads 'Sign up to our newsletter to save 10% on your first order' - a first-order acquisition discount not previously recorded. The inner collection pages still run the older wording without the 10 per cent hook, so this looks like a homepage-first rollout.",
+   "price": "10% off first order",
+   "source": "https://cliftoncoffee.co.uk/",
+   "spotted": "2026-08-04",
+   "counter": "A first-order discount is a retail acquisition cost, not a trade price. It stacks on top of a 20 per cent subscription discount and a free tin, which together say Clifton are buying the first order rather than defending the tenth."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Kibira Hill Honey, Burundi (weekly release)",
+   "detail": "Honey-processed Red Bourbon from Kayanza at 1,800-2,000 metres, produced by Girukwishaka Etienne, sitting alongside the existing Kibira Hill Natural. Published FOB paid of $5.49/lb, stated as 205 per cent above the Fairtrade minimum, with a cup score of 86.5. Framed as one of a series of Burundi coffees releasing this year after a three-year relationship build with partner TIB. No og:image could be extracted from Origin's pages this pass.",
+   "price": "from £14.20",
+   "source": "https://www.origincoffee.co.uk/products/kibira-hill-honey",
+   "spotted": "2026-08-04",
+   "counter": "Origin publish what they pay the farmer. Bridge publishes what the customer pays - beans, callouts and service contracts. Both are transparency; only one of them lets a buyer build a budget."
+  },
+  {
+   "competitorId": "origin",
+   "type": "offer",
+   "name": "Feature Coffee Subscription - 'a new coffee every week'",
+   "detail": "Promoted in the homepage favourites rail at a flat weekly price, tied to the 52-coffees-a-year proposition. It converts the weekly release cadence into a recurring revenue product rather than a series of one-off launches.",
+   "price": "£12.95",
+   "source": "https://www.origincoffee.co.uk/",
+   "spotted": "2026-08-04",
+   "counter": "A different coffee every week is a feature for a home drinker and a fault line for a business. Consistency is the trade requirement, and it is why Bridge builds a house blend around a site rather than rotating one through it."
+  },
+  {
+   "competitorId": "union",
+   "type": "coffee",
+   "name": "Summer Blend 1kg format",
+   "detail": "The Summer Blend, previously recorded only at 200g for £10.75, is also listed at 1kg for £43.00, whole bean only. At £43 a kilo it sits well above Bridge's published £10-£20 trade band, but it ships free at any order value under Union's 1kg carve-out.",
+   "price": "£43.00 / 1kg (£10.75 / 200g)",
+   "image": "https://unionroasted.com/cdn/shop/files/summer-blend-coffee-recyclable-bag-with-two-small-cups.png?v=1783084335",
+   "source": "https://unionroasted.com/products/summer-blend",
+   "spotted": "2026-08-04",
+   "counter": "£43 a kilo, retail, with free delivery on the bag. Bridge publishes £10-£20 a kilo on trade terms. The free 1kg delivery is the hook worth watching, because it is how a small independent gets started with Union without ever making a wholesale enquiry."
+  },
+  {
+   "competitorId": "ucc",
+   "type": "coffee",
+   "name": "Ueshima RFA Fuji Mountain Beans (6 x 200g)",
+   "detail": "A 6 x 200g Ueshima bean pack merchandised on both the front page and the coffee collection, not previously in the recorded basket. Stock status contradicts between the two pages - sold out on the front page, add-to-cart on the coffee collection - which most likely reflects page caching. The smaller 200g format suggests UCC testing a lighter trade pack alongside the 10 x 500g cases.",
+   "price": "£39.64 / 6 x 200g",
+   "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/files/FujiMountainBeans-Front_1x.png?v=1756306669",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/products/ueshima-rfa-fuji-mountain-beans-6-x-200g",
+   "spotted": "2026-08-04",
+   "counter": "£39.64 for 1.2kg is a shade over £33 a kilo on a case that has to be bought whole. Bridge's £10-£20 a kilo is published, and the pack format follows the site rather than the other way round."
   }
  ]
 };

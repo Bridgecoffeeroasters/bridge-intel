@@ -1,6 +1,136 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-08-04",
+   "competitorId": "clifton",
+   "category": "strategy",
+   "headline": "Clifton has added a dedicated office subscription alongside its house, single origin and capsule plans",
+   "detail": "An 'Office Subscription' collection now sits in the subscriptions menu at /collections/office-subscription, given equal billing with the three consumer plans. Pricing was not readable on the collection tile, so the mechanic is unconfirmed. Read alongside the 20 per cent house subscription discount and the free £8.99 tin, this is a speciality roaster building a self-serve route into the small-office segment rather than routing those buyers through a wholesale enquiry.",
+   "bridgeResponse": "A subscription box is coffee only. The office buyer's real cost is the machine, the water, the descale, the engineer and the training, and a subscription answers none of it. Bridge should meet this head-on with the full-stack comparison: our beans are £10-£20 a kilo published, our callout is £185, our service contracts are £500-£2,000 a year, and there is a UK-wide engineer network behind them. Where Clifton genuinely wins is speed of sign-up, so sales should keep the Bridge starter conversation short.",
+   "source": "https://cliftoncoffee.co.uk/collections/office-subscription",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "clifton",
+   "category": "launch",
+   "headline": "Clifton's speciality instant range is back in the navigation, but all three products are sold out",
+   "detail": "A 'Speciality Instant' collection with its own hero video is now surfaced under coffee, holding three sachet products: Single Origin (Kenya, Mugaya AA) from £10.00, House Blend (Guatemala and Brazil) from £9.00, and a Dual Pack at £37.00. Every one shows sold out. The pack artwork carries version stamps from late July and early August 2025, so this reads as an existing range that has been out of stock for some time and has only now been re-exposed in the menu, not a fresh launch. This corrects the unverified 'from £9.00 for six' note logged on 30 July.",
+   "bridgeResponse": "Sachet instant is a format Bridge does not currently offer, and it is honest to say so. It is aimed at travel, hotel rooms and desk drawers rather than at a machine estate, so it does not contest a Bridge site. Worth watching only for whether it restocks: a speciality instant that actually stays in stock would give Clifton a low-commitment way into offices that have no machine.",
+   "source": "https://cliftoncoffee.co.uk/collections/speciality-instant",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "clifton",
+   "category": "award",
+   "headline": "Great Taste artwork on E1 Project Espresso is now firmly dated to around 30 July, though the year and star count remain unconfirmed",
+   "detail": "The E1 pack image on the coffee collection is served as 'E1_Fresh_Crop_26_GREAT_TASTE.png' with a CDN version stamp that decodes to roughly 30 July 2026. That is stronger evidence than the filename hint logged on 3 August. There is still no text claim of a Great Taste award anywhere in the fetched HTML, no star rating, and the E1 product page itself returned an empty body, so the award year cannot be confirmed. Treat an award as near-certain and the detail as unknown.",
+   "bridgeResponse": "Do not concede an award we cannot see stated. If a customer raises it, the honest line is that Clifton appear to have one on a single espresso and we would want to see the citation. Bridge's own credentials are structural rather than annual: SCA training delivery, the Roots Collection certified Fairtrade, Organic and Rainforest Alliance, and forty years of continuous supply since 1985.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "clifton",
+   "category": "content",
+   "headline": "Clifton has layered shop-by-use browse rails over the coffee landing page",
+   "detail": "The coffee landing page now carries a scrollable set of curated sub-collections: Best Sellers, New Arrivals, Great for Filter, Great for Espresso, Great with Milk and Complex & Funky. It is a navigation layer built for buyers who do not know origin names, and it is more developed than anything on Union's or Origin's sites. This follows the six taste-and-use collections logged on 3 August, so the conversion work is sustained rather than a one-off.",
+   "bridgeResponse": "This is retail conversion work and it is good. The equivalent question for Bridge is not browsing but specification: which blend suits a 200-cup-a-day bean-to-cup on semi-skimmed. That is answered by a person and a sample, not a filter. Where Clifton win is a buyer who wants to self-serve at midnight without talking to anyone.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "clifton",
+   "category": "content",
+   "headline": "An unfinished internal listing, 'Test Roast Coffee' at £8.25, is live and purchasable",
+   "detail": "A 250g whole-bean product named 'Test Roast Coffee' at £8.25 with placeholder imagery appears in the public coffee collection. Several product cards also carry mismatched alt text, with the Colombia Finca Las Flores card labelled 'East Timor - Rotutu'. Minor in itself, but consistent with a catalogue being edited at pace with quality control slipping.",
+   "bridgeResponse": "No action. Recorded because it corroborates how fast Clifton rotate their range, which is the thing that actually matters: four coffees left the listing in the last pass. A rotating rail is exciting for a home buyer and a problem for a site that needs the same cup every week, which is the ground Bridge should keep the conversation on.",
+   "source": "https://cliftoncoffee.co.uk/collections/coffee",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "union",
+   "category": "campaign",
+   "headline": "Union's Discovery Week multi-buy is no longer advertised anywhere on the site; the homepage has reverted to a product-led Summer Blend hero",
+   "detail": "The 15 per cent off two bags and 20 per cent off three or more offer, live since 31 July with no stated end date, is absent from the homepage, both coffee collections and the Summer Blend product page. The only site-wide message is now free delivery over £30 and on 1kg bags. The single hero slide reads 'Bright. Balanced. Built for summer.' One honest caveat: the discount was described as applying automatically at checkout, and no basket test was run, so it may still be live but unadvertised.",
+   "bridgeResponse": "If it has genuinely gone, Union's premium tier is effectively 15 to 20 per cent more expensive than it was last week, which weakens the discount comparison a prospect may have been holding. Bridge's answer does not change either way: our per-kilo trade price is published and does not move with a homepage banner. Worth a basket check on the next pass before anyone quotes this to a customer.",
+   "source": "https://unionroasted.com/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "union",
+   "category": "pricing",
+   "headline": "Union now quotes three different free-delivery thresholds across its own pages",
+   "detail": "The site-wide bar says £30. The meta description on the new arrivals collection, which is what appears in search results, says £25. The Summer Blend product page gives a third structure: free Royal Mail 48 over £30, free DPD courier over £45, and free delivery on any 1kg bag at any order value. This is the same threshold-clarity problem currently visible at Origin, and it is a fair read that both are mid-migration rather than deliberately misleading.",
+   "bridgeResponse": "Noted rather than exploited. Bridge's delivery terms should be stated once and consistently, because the contrast only works if our own numbers hold up. The 1kg free-delivery carve-out is the part that matters commercially: it is a quiet route into small independents who would otherwise be a wholesale enquiry.",
+   "source": "https://unionroasted.com/products/summer-blend",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Origin's weekly release is Kibira Hill Honey, Burundi, published with FOB price and cup score",
+   "detail": "A honey-processed Red Bourbon from Kibira Hill in Kayanza at 1,800 to 2,000 metres, produced by Girukwishaka Etienne, listed from £14.20 and sitting alongside the existing Kibira Hill Natural. Origin publish an FOB price paid of $5.49 per pound, which they state is 205 per cent above the Fairtrade minimum, and a cup score of 86.5. The copy frames it as one of a series of Burundi coffees being released this year following a three-year relationship build with their partner TIB.",
+   "bridgeResponse": "Be straight about this: publishing FOB paid and cup score on every lot is a real transparency position and Origin do it better than anyone else in this set. Bridge's transparency is on the other side of the transaction — we are the only supplier here who publishes what the customer pays, for beans, callouts and service contracts. Both are honest and they answer different questions. The Roots Collection is where Bridge can talk certification with the same specificity.",
+   "source": "https://www.origincoffee.co.uk/products/kibira-hill-honey",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "origin",
+   "category": "pricing",
+   "headline": "The Origin delivery-threshold contradiction now resolves to £25 at the point of purchase",
+   "detail": "The £35 message still appears in the top bar on the homepage and the single origin collection, while the same pages' cart drawer says £25. On the newest product pages the top bar itself says £25 and the shipping panel confirms free Royal Mail Tracked 48 over £25, with free Tracked 24 on all subscription orders. The most likely reading is that £25 remains operative and the £35 bar is a stale template, which supersedes the possible increase flagged on 31 July.",
+   "bridgeResponse": "Treat £25 as the working figure. This is the third pass on which Origin's site has contradicted itself, alongside a blends collection showing two products while the copy claims three, so a site migration is the plainest explanation. No customer-facing point to make here; it is a correction to our own record.",
+   "source": "https://www.origincoffee.co.uk/products/kibira-hill-honey",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "'Shipped by Sail' has become a permanent navigation item rather than a campaign",
+   "detail": "The journal menu now carries a standing promoted entry, 'Shipped by Sail - setting a new standard for responsible sourcing', describing an ongoing commitment to move coffee from origin to Europe on wind-powered vessels instead of diesel container ships. It is presented alongside B Corp certification and the Queen's Award as a permanent brand pillar. Previously this appeared only as a single sail-shipped coffee, Caxambu, which has now rotated off the range.",
+   "bridgeResponse": "Sustainability is moving from product claim to structural claim at Origin, and that is the form that carries weight in a tender. Bridge's certified position is the Roots Collection - Fairtrade, Organic and Rainforest Alliance - and it should be stated with the same permanence rather than treated as a range feature. Where we are stronger is proximity: Cardiff roasting and UK-wide engineers means fewer miles on the service side, which is the half of the footprint Origin do not have to account for.",
+   "source": "https://www.origincoffee.co.uk/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "UCC's bulk Lyons coffee bag lines appear to be back in stock",
+   "detail": "All four bulk 150 x 7g Lyons coffee bag lines now show an active add-to-cart on the trade shop: Go Joe £25.32, Perkadilly £25.05, Rockadero £25.05 and Decaf Dreams £32.29. This reverses the position logged over recent passes, where three of these lines were unavailable. If it holds, the bulk trade availability gap we had been watching has closed.",
+   "bridgeResponse": "That switching opening is closing, so stop leading with it. The durable argument is not whether a case is in stock this week but who answers the phone when a machine goes down, and UCC's UK shop window - hero banners from 2022 and 2023, a blog last posted in 2022 - still says less about service than ours does.",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "Ueshima Kobe Blend RFA beans have gone out of stock on the trade shop",
+   "detail": "Ueshima Kobe Blend RFA Beans, 10 x 500g at £74.21, is listed sold out on the coffee collection, having been orderable on 3 August. Lyons No.4 R&G 7 x 150g at £17.96 is also sold out. The premium Ueshima bean line is the more useful of the two gaps, since it is the range UCC have been building out on the trade channel.",
+   "bridgeResponse": "A short, specific opening on the premium bean end of UCC's trade shop. Bridge beans are £10-£20 a kilo published, roasted in Cardiff, with no case minimum dictating the format - which is the practical difference when a customer needs coffee this week rather than when the container lands.",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/frontpage",
+   "severity": "info"
+  },
+  {
+   "date": "2026-08-04",
+   "competitorId": "matthew-algie",
+   "category": "content",
+   "headline": "Two Glasgow accounts appear on the customer logo wall that were not previously recorded",
+   "detail": "The homepage partnership carousel today shows Tinderbox Espresso Glasgow and Glasgow Science Centre alongside the six already on file. Logo walls rotate and these may simply be slides missed on earlier passes rather than new wins, so this is logged as an observation and not a claim. Both are small Glasgow-area accounts with no read-across to South Wales. Separately, the journal index could not be read - it renders client-side and returned no article listings - so whether anything was published in the last week is a genuine gap rather than a confirmed nothing.",
+   "bridgeResponse": "No commercial consequence. Recorded to keep the account picture accurate and to be honest that the site is dormant on everything we can read: the footer still says 2025 and the modern slavery statement is still the 2025 edition. Matthew Algie's strength remains their scale in grocery and private label, not their marketing.",
+   "source": "https://www.matthewalgie.com/",
+   "severity": "info"
+  },
+  {
    "date": "2026-08-03",
    "competitorId": "origin",
    "category": "campaign",

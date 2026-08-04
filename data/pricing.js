@@ -367,6 +367,131 @@ window.BCR=window.BCR||{};window.BCR.price={
      "change": "unchanged; Easy Purchase confirmed verbatim at 0% over 36 or 48 months, with free delivery, installation and training on outright purchase"
     }
    ]
+  },
+  {
+   "date": "2026-08-04",
+   "entries": [
+    {
+     "competitorId": "union",
+     "item": "Discovery Week multi-buy (15% off 2 bags, 20% off 3+)",
+     "price": "No longer advertised",
+     "change": "Withdrawn after roughly two weeks. Single origins and microlots revert to full price, an effective 15-20% increase on the premium tier. Caveat: the discount applied automatically at checkout and no basket test was run, so it may be live but unadvertised."
+    },
+    {
+     "competitorId": "union",
+     "item": "Summer Blend 1kg",
+     "price": "£43.00 / 1kg",
+     "change": "baseline - first capture of the 1kg format; the 200g remains £10.75"
+    },
+    {
+     "competitorId": "union",
+     "item": "Free-delivery threshold",
+     "price": "£30 site bar / £25 in search metadata / £45 for DPD courier; free on any 1kg bag",
+     "change": "Three different figures now published across Union's own pages. £30 is the operative site-wide bar; the £25 appears only in a collection meta description. Treat £30 as the working number."
+    },
+    {
+     "competitorId": "union",
+     "item": "Entry and blend prices",
+     "price": "£7.95-£10.75 / 200g",
+     "change": "unchanged vs 3 Aug: Revelation £7.95, House Roast £7.95, Natural Spirit Organic £8.45, Summer Blend £10.75, Joao Hamilton £13.85. Cup scores unchanged."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Kibira Hill Honey, Burundi",
+     "price": "from £14.20",
+     "change": "baseline - new weekly release, priced level with the existing Kibira Hill Natural at £14.20"
+    },
+    {
+     "competitorId": "origin",
+     "item": "Feature Coffee Subscription",
+     "price": "£12.95 / week",
+     "change": "baseline - first capture of the weekly-release subscription price"
+    },
+    {
+     "competitorId": "origin",
+     "item": "Cold Brew Espresso Concentrate subscription",
+     "price": "£14.40 (anchored against £16.00)",
+     "change": "payable price unchanged at £14.40; the £16.00 strike-through anchor is newly visible on the homepage, so this is a presentation change rather than a price move"
+    },
+    {
+     "competitorId": "origin",
+     "item": "Free-delivery threshold",
+     "price": "£25 operative",
+     "change": "resolves the 31 Jul and 3 Aug contradiction: newer product templates show £25 in both the top bar and the shipping panel, while the homepage and collection bars still show a stale £35. The probable +£10 increase flagged on 31 Jul did not happen."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Single origin range",
+     "price": "£12.50-£23.90",
+     "change": "unchanged vs 3 Aug across eleven listed lines; Caxambu has rotated off the rail as recorded"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Speciality instant sachets",
+     "price": "£9.00-£37.00 (all sold out)",
+     "change": "baseline - House Blend from £9.00, Single Origin from £10.00, Dual Pack £37.00. Supersedes and corrects the unverified 'from £9.00 for six' note of 30 Jul."
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Ethiopia - Adara Keramo",
+     "price": "from £13.00 / 250g",
+     "change": "baseline - new single origin; sits inside the existing £11.00-£18.00 single origin band"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "First-order discount",
+     "price": "10% off first order for newsletter sign-up",
+     "change": "new mechanic - stacks alongside the standing 20% subscription discount and the free £8.99 tin"
+    },
+    {
+     "competitorId": "clifton",
+     "item": "House and single origin range",
+     "price": "£11.00-£20.75",
+     "change": "unchanged vs 3 Aug across every tracked line; £50 free-shipping threshold and order-by-8am dispatch also unchanged"
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Lyons bulk coffee bags (150 x 7g)",
+     "price": "£25.05-£32.29",
+     "change": "baseline - prices newly visible because the lines have come back into stock: Perkadilly £25.05, Rockadero £25.05, Go Joe £25.32, Decaf Dreams £32.29"
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Ueshima RFA Fuji Mountain Beans 6 x 200g",
+     "price": "£39.64",
+     "change": "baseline - first capture; a smaller 1.2kg case format alongside the 10 x 500g lines"
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Ueshima Kobe Blend RFA Beans 10 x 500g",
+     "price": "£74.21 (sold out)",
+     "change": "price unchanged but the line is now out of stock, having been orderable on 3 Aug; Lyons No.4 R&G 7 x 150g at £17.96 is also sold out"
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Trade shop basket (nine tracked lines)",
+     "price": "Unchanged across the basket",
+     "change": "no movement vs 3 Aug on any tracked price; free delivery over £60 unchanged. The 14 July Summer Promotion terms remain unread for a third day - the PDF sits on a CDN outside the fetchable set."
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Weekly lease ladder (page 1 re-confirmed)",
+     "price": "£4.00-£101.50 / week",
+     "change": "unchanged vs 3 Aug on every figure visible: Soul 12 £97.50 (second consecutive hold at the top of the £94.50-£97.50 band), Franke SB1200 £101.50, Soul 10 £92.00, Skye £59.00, S10 3-group £37.50, Q3 £33.00, Vitro S5 £26.50, S21 £25.00, Vitro S2 Instant £23.00, Q2 £23.00, Q1 Evo £16.50, K1 £14.00, K-Fee Lattensia £4.00. Pages 2-3 could not be fetched, so the lower rungs and the WMF Espresso NEXT at £93.50 are carried over rather than re-confirmed. K2 and Jura WE8 remain price-suppressed."
+    },
+    {
+     "competitorId": "selecta",
+     "item": "Machines and hot drinks range",
+     "price": "Enquiry only - no figures visible",
+     "change": "unchanged since 12 Jun. Nineteen machines listed, no additions or removals; no guide pricing has returned."
+    },
+    {
+     "competitorId": "matthew-algie",
+     "item": "Machines",
+     "price": "No prices published",
+     "change": "unchanged; Easy Purchase 0% over 36-48 months still the only commercial term stated"
+    }
+   ]
   }
  ]
 };
