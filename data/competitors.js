@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -16,6 +16,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "HoReCa-weighted: cafés, hotels, education (TUCO), healthcare, workplace, contract catering, convenience and forecourt coffee-to-go.",
       "keyCustomers": "M&S, Tesco Ireland, National Trust for Scotland, Dobbies, Esquires, Hand Picked Hotels",
       "currentFocus": [
+        "Names Morrisons as a private-label customer on the wholesale page — grocery-scale own-brand supply, an order of account above the café logo wall; a third bean-to-cup (Coffea Enjoy Plus) leads on matcha capability; site now measurably dormant, newest asset 29 April 2026",
         "Logo wall now leads with Marks & Spencer and Tesco Ireland, plus Dobbies and Handpicked Hotels; Morrisons no longer displayed — grocery and coffee-to-go emphasis (logo walls rotate, read cautiously)",
         "A Rancilio machine now illustrates the homepage equipment tile — possible new supplier relationship, unconfirmed",
         "New MD UK&I Thomas Heinen (ex-WMF) settling in — expect commercial push",
@@ -89,6 +90,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Very broad: offices, automotive, care homes, healthcare, education, hotels, garden centres, golf, aviation, commercial landlords.",
       "keyCustomers": "VW, Audi, Virgin, Holiday Inn, Butlin's, 22 Bishopsgate",
       "currentFocus": [
+        "Belfast footprint was acquired (The Hot Coffee Company, Oct 2025) not opened — a second bolt-on alongside Underdog Coffee, pointing to buy-and-build on regional service estates; lease ladder verified at 25 SKUs with the Soul 12 holding £97.50 for a third pass",
         "New Perfect Moose Jack milk steamer given featured billing (lease from £22/wk) alongside a new uncertified own-range bean SKU (Café Bonté Milano) — filling out the ancillary/consumables side of the lease book rather than the core espresso range",
         "Schaerer Soul 12 lease back to £97.50/wk (31 Jul) — fifth change in seven weeks; WMF Espresso NEXT visible at from £93.50/wk",
         "Named in Great Place To Work's UK's Best Workplaces for Women 2026 — a social-value asset for tenders",
@@ -164,6 +166,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Medium-to-large workplaces, distribution centres, hospitals, transport hubs, leisure.",
       "keyCustomers": "Gym Group (case study), national enterprise accounts",
       "currentFocus": [
+        "Rewritten office coffee buyer's guide concedes that milk-related technical call-outs may be chargeable, and refuses to publish any budget figure; a London and Home Counties geo-campaign page is live claiming three local depots",
         "Hot drinks range widened to around seventeen machines including Schaerer Soul 12/10/Skye and traditional Astoria espresso — a move beyond pure vending into barista-style hospitality; range now tiered table-top / branded / floor-standing",
         "Guide pricing still withdrawn; buyer's guide carries no figures and retains a 2024 title",
         "Public-sector procurement push: approved supplier on the YPO Vending Solutions framework (~£100m, to Dec 2026); Change Please now headlined alongside Starbucks and Pelican Rouge; Gaggia range broadened to three machines (G300, La Brillante, La Radiosa) — all enquiry-led",
@@ -238,6 +241,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
       "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
       "currentFocus": [
+        "One Lyons bulk bag line (Decaf Dreams, £32.29) restocked while three stay sold out; Grand Café range under a manufacturing plant constraint and shipping in temporary packaging, with the largest case line out of stock; published case pricing in fact spans £52.30-£129.68",
         "Bulk Lyons coffee bag lines have flipped back to sold out after a brief restock, and Ueshima Kobe Blend/Fuji Mountain formats are swapping stock status — a pattern of genuine supply volatility on trade formats; new single-serve pour-over format (Ueshima Pour Over bags, £60) spotted",
         "Strategic partnership with Sanremo Coffee Machines announced Feb 2026, launching in the UK first — a premium traditional-espresso hardware route alongside coffee supply, in Bridge's own equipment territory",
         "Summer promotion running on the trade shop from 14 Jul; terms not published on reachable pages",
@@ -308,6 +312,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Independent cafés to multi-site operators, restaurants, supermarkets, consumers. Less visible in offices and contract catering.",
       "keyCustomers": "Sainsbury's, Waitrose, Ocado; Company of Cooks collaboration",
       "currentFocus": [
+        "Second consecutive pass with no acquisition offer running and no editorial since October 2025 — the quietest name in the set, with the three contradictory delivery thresholds still unresolved",
         "First new coffee since the quiet spell began — João Hamilton, Brazil microlot added to New Arrivals; Discovery Week multi-buy remains absent and the three conflicting free-delivery thresholds are still unresolved",
         "'Discovery Week' multi-buy live on the homepage — 15% off two bags, 20% off three or more, across all single origins and microlots; no end date stated",
         "Defending both ends of the range at once: sub-£8 entry blends (Revelation, House Roast at £7.95) alongside a discounted premium tier",
@@ -381,6 +386,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
       "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
       "currentFocus": [
+        "Equipment sale is shallower than first read — three SKUs, up to 15%, and the only discounted line sold out; El Paseo enters the range at £20.70, second only to Calliandra; Edinburgh site trading hard through the festival with extended hours and an evening menu",
         "Fellow Espresso Series 1 (£1,299.95) has moved from pre-launch registration to a live, orderable product page with a bundled free 3-month subscription; subscriber loyalty mechanic now fully visible (25% off first three orders, then 10% for life, plus milestone gifts)",
         "RTD can priced at £18.00 for a six-pack (£3.00 per can) and now the homepage hero under 'Go Anywhere With Origin'; 'A Summer Shared' retired",
         "Capsule production brought entirely in-house (three SKUs, £6.00–£6.50) alongside the Helston cold brew brewery — a vertical-integration push into formats beyond bags",
@@ -465,6 +471,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
       "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
       "currentFocus": [
+        "Speciality Instant has dropped out of the header navigation while all three SKUs remain sold out; collector tier now two named £20-plus microlots (Gesha Wilton Benitez, Pink Bourbon Sebastian Ramirez) with a decaf pod at £8.25; the unfinished 'Test Roast Coffee' listing is still live and taking orders",
         "Site access restored after a two-day automated-access block; Office Subscription discount confirmed at 25% (ahead of the 20% consumer rate); three new coffees added (Cadence Espresso, Ombligon rare lot at ~£125/kg, Guatemala La Esperanza)",
         "Site has blocked automated access two days running — the July single-origin rotation and the speciality instant pricing remain unverified against Clifton's own pages; needs a browser-based check",
         "Fulfilment-speed positioning: order-by-8am same-day dispatch promise added to header; core Single Origin range rotates fast — East Timor Rotutu (launched 15 Jul) rotated out by 20 Jul, replaced by Colombia - Los Nogales Low Caf (£18/250g)",

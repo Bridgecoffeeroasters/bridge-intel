@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-05",
+  "lastUpdated": "2026-08-06",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
     {
@@ -1140,7 +1140,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "image": "https://cliftoncoffee.co.uk/cdn/shop/files/RwandaMbizi.png?v=1780474343",
       "source": "https://cliftoncoffee.co.uk/products/rwanda-mbizi",
       "spotted": "2026-06-22",
-      "counter": "Accessible single origins are welcome, but Bridge pairs comparable pricing with UK-wide engineering, equipment and SCA training — the support a wholesale account actually runs on."
+      "counter": "Accessible single origins are welcome, but Bridge pairs comparable pricing with UK-wide engineering, equipment and SCA training — the support a wholesale account actually runs on.",
+      "ended": "2026-08-06"
     },
     {
       "competitorId": "union",
@@ -1564,6 +1565,100 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee/products/ueshima-rfa-fuji-mountain-beans-6-x-200g",
       "spotted": "2026-08-04",
       "counter": "£39.64 for 1.2kg is a shade over £33 a kilo on a case that has to be bought whole. Bridge's £10-£20 a kilo is published, and the pack format follows the site rather than the other way round."
+    },
+    {
+      "competitorId": "matthew-algie",
+      "type": "machine",
+      "name": "Coffea Enjoy Plus (bean-to-cup, matcha capability)",
+      "detail": "Third machine in the bean-to-cup line-up alongside the WMF 5000S+ and Carimali Armonia Ultra. Badges 'Matcha Capability (NEW)' as a profit-driving serve, with dual 1,000g powder hoppers, Coffee IQ telemetry and a 10.1-inch self-serve touchscreen. Page assets date to early April 2026 — new to our record, not new to market.",
+      "price": "Not visible — enquiry only; Easy Purchase 0% finance over 36-48 months",
+      "image": "https://www.matthewalgie.com/media/4hrd1qqs/bean-to-cup.jpg",
+      "source": "https://www.matthewalgie.com/Coffea-Enjoy-Plus/",
+      "spotted": "2026-08-06",
+      "counter": "Matcha from a powder hopper is a specification tick, not a drink. Bridge quotes the whole serve — machine, milk, training and a published callout rate — rather than a feature list with no price attached."
+    },
+    {
+      "competitorId": "liquidline",
+      "type": "offer",
+      "name": "Published weekly lease ladder — 25 bean-to-cup SKUs, £14.00 to £101.50",
+      "detail": "Verified in full today: K1 £14.00, Q1 Powdered £15.00, Coffetek Vitro S1 £16.00, Q1 Evo £16.50, Q2 Powdered and Vitro X1 £23.00, Vitro S5 £26.50, Q3 and Vitro X3 Espresso £33.00, Schaerer Coffee Club £35.00, Vitro X3 Duo £38.00, Vitro X4 £39.00, Schaerer Skye £59.00, Soul 10 £92.00, WMF Espresso NEXT £93.50, Soul 12 £97.50, Franke SB1200 £101.50. Every fresh-milk flagship — K2, Jura WE8 and the Franke A-series — stays behind 'Contact Us'.",
+      "price": "£14.00 - £101.50 / week",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/",
+      "spotted": "2026-08-06",
+      "counter": "Bridge publishes its numbers all the way up the range, including service: beans £10-£20/kg, callouts £185, contracts £500-£2,000 a year. A ladder that hides its flagships is a ladder with a conversation missing from it."
+    },
+    {
+      "competitorId": "selecta",
+      "type": "content",
+      "name": "Office Coffee Machine Buyer's Guide (rewritten)",
+      "detail": "Long-form soft-conversion asset covering bean-to-cup versus instant, fresh milk, capacity, cost drivers and buy-versus-lease. Notably concedes that 'where a fault is found to be linked to cleaning failure or incorrect milk use, technical call-outs may also be chargeable'. The cost section publishes no figures at all: 'there is no single cost answer'.",
+      "price": "No pricing shown — enquiry only",
+      "image": "https://www.selecta.com/dam/jcr:5cb4deb4-5a23-4569-b541-9f4594e2f569/Medium-People%20drinking%20Lavazza%20Coffee%201.jpg",
+      "source": "https://www.selecta.com/uk/en/guides/office-coffee-machine-buyers-guide",
+      "spotted": "2026-08-06",
+      "counter": "Their own guide says milk-related call-outs may be chargeable and refuses to give a budget figure. Bridge publishes £185 a callout and £500-£2,000 a year on contract, so the buyer knows the number before they sign, not after."
+    },
+    {
+      "competitorId": "selecta",
+      "type": "content",
+      "name": "London and Home Counties campaign page",
+      "detail": "Geo-targeted page for 'Office Coffee, Water & Vending Machines for London', claiming three local depots and routing a capture form to a named London team. Brand wall wider than the homepage: Starbucks, Change Please, Pelican Rouge, Coca-Cola, Nestlé, Cadbury, Walkers, Urban Eat, Monster, La Famiglia Rana, Yo! Sushi. Undated — first observed today.",
+      "price": "No pricing shown — enquiry only",
+      "image": "https://www.selecta.com/dam/jcr:38ee3fc2-6f6b-4500-9376-70972a1b4313/london-coffee.png",
+      "source": "https://www.selecta.com/uk/en/campaigns/vending-london",
+      "spotted": "2026-08-06",
+      "counter": "A depot address is not a local supplier. Bridge roasts in Cardiff and services with its own engineers, which is a stronger regional claim than a logistics footprint."
+    },
+    {
+      "competitorId": "ucc",
+      "type": "coffee",
+      "name": "Lyons Decaf Dreams Coffee Bags Bulk (150 x 7g)",
+      "detail": "Back in stock at an unchanged £32.29 after the bulk bag lines flipped sold out on 5 August. Go Joe (£25.32), Perkadilly (£25.05) and Rockadero (£25.05) remain unavailable, so this is a single-SKU decaf restock rather than a general recovery.",
+      "price": "£32.29 / 150 x 7g",
+      "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/products/LYONSDecafDreams_7gSachet_1x.png",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-bags/products/lyons-decaf-dreams-coffee-bags-bulk",
+      "spotted": "2026-08-06",
+      "counter": "Three of four bulk lines are still out. Bridge holds stock and publishes the price, which is the whole argument for a caterer who has been told to wait."
+    },
+    {
+      "competitorId": "origin",
+      "type": "offer",
+      "name": "Coffee equipment sale — up to 15% off, three SKUs",
+      "detail": "Corrects the 3 August capture. The sale collection states 'up-to 15% off' and holds three products only: Sage Barista Pro Black and Steel at £729.95 with no strike-through, and the Mahlkönig X54 Home Grinder reduced £499.95 to £424.95 but sold out. No Fellow or Wilfa lines are in the collection.",
+      "price": "Up to 15% off; X54 £499.95 → £424.95 (sold out)",
+      "source": "https://origincoffee.co.uk/collections/coffee-equipment",
+      "spotted": "2026-08-06",
+      "counter": "Home hardware clearance with the discounted item out of stock. It does not touch commercial equipment and needs no response."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "El Paseo (single origin)",
+      "detail": "Leads the Single Origin collection at from £20.70, tasting Lavender, Pineapple and Strawberry — second only to Calliandra at £23.90 in the range. Likeliest candidate for the 3 August weekly release, but no release date, FOB price or cup score could be confirmed as the product page would not open.",
+      "price": "from £20.70",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-06",
+      "counter": "Two lines now above £20 a bag. That is a collector price, not a cost-per-cup a café can build a menu on — which is where Bridge's published £10-£20/kg wholesale range does the work."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Gesha - Wilton Benitez (Unparalleled Series)",
+      "detail": "Named lot in the collector tier at £20.00 for 120g, roughly £167/kg, sitting alongside Pink Bourbon - Sebastian Ramirez at £20.75/120g. Previously logged only as a generic Unparalleled Series expansion; now captured as a named lot with its own price.",
+      "price": "£20.00 / 120g (approx. £167/kg)",
+      "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
+      "spotted": "2026-08-06",
+      "counter": "Bridge does not compete at the collector end and does not need to. The trade conversation is consistency of supply and a price a menu can be costed against."
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Decaf Nespresso Capsules",
+      "detail": "Extends the pod range above the £7.95 house sleeve, listed from £8.25 in New Arrivals. Clifton now runs house, decaf and Podback recycling across its Nespresso-compatible line.",
+      "price": "from £8.25",
+      "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
+      "spotted": "2026-08-06",
+      "counter": "Capsules are a retail play. Where it matters to Bridge is offices choosing pods over a machine, and there the answer is total cost per cup against a leased bean-to-cup with a service contract behind it."
     }
   ]
 };
