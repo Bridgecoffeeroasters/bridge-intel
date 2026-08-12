@@ -1,6 +1,96 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-12",
+      "competitorId": "ucc",
+      "category": "launch",
+      "headline": "UCC has put a bean-to-cup machine on its trade shop at £2,999.99 and is selling it direct, on purchase or lease",
+      "detail": "The Dr Coffee M12 Plus is now listed on ucc-coffee-direct.co.uk at £2,999.99 with an outright-purchase or lease choice, specified as a fresh-milk dual-boiler unit with a 10-inch touchscreen, telemetry, automated cleaning, a compatible SC08 fridge and a stated 100 cups a day. Until now the Coffee Machines collection on that shop amounted to little more than a Bunn airpot; UCC's own copy still describes it as 'entry-level boxed commercial coffee machines'. This is the first time UCC UK&I has published a machine price to the open trade market rather than routing hardware through consultation.",
+      "bridgeResponse": "A coffee supplier selling a box is not the same as a coffee supplier standing behind it. At 100 cups a day the M12 Plus is a low-volume unit, and the question a buyer should ask is who fixes it on day 400 — Bridge answers that with UK-wide employed engineers, a published £185 callout and service contracts at £500-£2,000 a year. Sell the estate, not the sticker: machine, beans at £10-£20/kg, water, training and PSSR from one accountable supplier.",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-machines/products/dr-coffee-m12-plus-automatic-coffee-machine",
+      "severity": "threat"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "ucc",
+      "category": "campaign",
+      "headline": "The Dr Coffee launch is a real campaign, not a listing — homepage hero, its own landing page, a callback capture form and paid-style LinkedIn activity",
+      "detail": "The machine now holds the lead homepage banner on the trade shop and has a dedicated brand page at /pages/dr-coffee plus a separate /pages/dr-coffee-callback lead-capture route. UCC Coffee UK & Ireland has run at least two LinkedIn posts under the #drcoffee tag pushing the M12 Plus on speed, consistency and affordability. Coffee Machines also sits in the shop's footer product menu alongside Roast & Ground, Coffee Bags and Coffee Beans. Notable in a business whose merchandising has otherwise been dormant since 2022-23 — this is where the marketing effort has gone.",
+      "bridgeResponse": "The interesting signal is not the machine, it is that UCC has switched its marketing back on and pointed it at hardware. Expect the M12 Plus in convenience, small hotel and low-volume café conversations where we would normally quote a Sanremo or an entry Schaerer. Meet it with total cost of ownership over three years rather than a purchase price.",
+      "source": "https://www.ucc-coffee-direct.co.uk/pages/coffee-solutions",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "ucc",
+      "category": "pricing",
+      "headline": "Ueshima stock has swapped over again — the Kobe Blend is back at £74.21 while the Fuji Mountain small format has gone out",
+      "detail": "Ueshima Kobe Blend RFA Beans 10 x 500g is orderable at £74.21, having been logged as sold out on 4 August; the Ueshima RFA Fuji Mountain Beans 6 x 200g at £39.64, which we logged as a new smaller trade format on the same date, is now showing sold out. Grand Café Fair Trade Beans 10 x 500g at £83.69 showed as available on the beans collection and sold out on the general coffee collection within minutes of each other, which most likely reflects listing caching rather than a real change. All other visible case prices held: Lyons 10 x 500g £56.28, Ueshima House Blend 10 x 500g £86.20, 100% RFA 10 x 500g £69.74, Fairtrade Decaf 20 x 200g £75.63.",
+      "bridgeResponse": "Prices are stable; availability is not. Four passes running, UCC's bulk trade formats have flipped in and out of stock while the retail-sized packs stay on the shelf. For a site with a fixed weekly grind, that is the argument — Bridge roasts to order in Cardiff and delivers against a schedule, so the blend does not change because a case went out of stock.",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-beans",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "origin",
+      "category": "pricing",
+      "headline": "Origin's free-delivery threshold has split again, with £35 on the banner and £25 still at the point of purchase",
+      "detail": "The site-wide banner and the shipping block on several product pages, including Beija Flor and Pathfinder, now read free delivery on orders over £35, while the cart badge and the Fellow Espresso Series 1 page still say £25. On 6 August we recorded this as resolved to £25 and treated the £35 banner as a stale template. It is back across more than one template, so either the increase is being rolled out in stages or the site remains mid-migration. Unresolved either way.",
+      "bridgeResponse": "Not a threat, but worth watching: at £35 Origin loses the lowest free-delivery threshold in the roaster set. It also tells you something about the state of their site four months after the rebrand. Bridge's own answer is simply to publish one number and hold it.",
+      "source": "https://www.origincoffee.co.uk/products/beija-flor",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "The single origin rail has rotated again — Beija Flor, Atlas Decaf and Pathfinder are showing, Providencia y Santa Barbara has gone",
+      "detail": "The eleven-item single origin collection now carries Beija Flor at £12.50, a Brazil lot tied to the women-led Donas do Café programme, Atlas Decaf at £14.75 on sugarcane process, and Pathfinder at £12.95, currently a washed Ethiopian Sidama. Providencia y Santa Barbara at £14.90, logged on 16 July, is no longer listed. Given the fifty-two-coffees-a-year cadence these may be established seasonal lines we had not captured rather than launches, so treat them as additions to the record.",
+      "bridgeResponse": "The rotation is the product. It is a strong retail engine and a poor fit for a trade buyer who needs the same cup every week for eighteen months. Bridge's Roots Collection holds its specification and its certifications — Fairtrade, Organic and Rainforest Alliance — so a hotel or contract caterer can print a menu and keep it.",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "severity": "info"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "origin",
+      "category": "campaign",
+      "headline": "The August giveaway is tied to two named coffees, and the equipment sale it sits next to is effectively empty",
+      "detail": "Entry to the Fellow Series 1 prize bundle requires buying a bag or starting a subscription of Resolute or Los Altos from £12.50, closing 31 August at 23:59 with the winner announced on 2 September — a volume mechanic pointed at two SKUs rather than a general prize draw. The Fellow Espresso Series 1 itself has moved to early-access preorder at £1,299.95, dispatching before the end of August. The equipment sale alongside it holds three products: two Sage Barista Pro units at £729.95 carrying no visible reduction despite 'up to 15% off' copy, and the Mahlkönig X54 at £424.95, still sold out.",
+      "bridgeResponse": "A sale with nothing discounted in stock is a page, not an offer. Worth remembering when a customer quotes Origin's retail energy at us: the promotional machinery is aimed at consumers buying 250g bags, not at anyone running a site. Our conversation is kilos, equipment and uptime.",
+      "source": "https://www.origincoffee.co.uk/collections/august-competition",
+      "severity": "info"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "clifton",
+      "category": "strategy",
+      "headline": "Clifton's sold-out count keeps climbing — six visible lines are now unavailable, including two of the newest",
+      "detail": "House Filter from Mount Sunzu in Mbala, Zambia at £11.00/250g and Ethiopia - Malawo at £13.00/250g both show sold out, as does the Indy Coffee Guide South No. 9 at £13.99, on top of all three Speciality Instant SKUs at £9.00-£37.00 which remain out and still absent from the header navigation. Ethiopia - Malawo carries the Keramo origin field and the same £13 price as the Adara Keramo line we logged, so it reads as a relist or rename of the same lot rather than a new coffee — unconfirmed. Everything else held: the Unparalleled Series stays at three SKUs and the same prices, the £50 free-shipping threshold is unchanged, and the unfinished Test Roast Coffee listing is still live at £8.25.",
+      "bridgeResponse": "Small-lot roasting produces this: a good shop window with gaps in it. Where it matters to Bridge is the wholesale conversation — a café or office that cannot reorder what it served last month has a supply problem, not a coffee problem. Roasting to order in Cardiff with a published price list is the counter, and it is a fair fight because Clifton's training credentials are genuinely strong.",
+      "source": "https://cliftoncoffee.co.uk/products/house-filter",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "liquidline",
+      "category": "strategy",
+      "headline": "Liquidline's site has now been untouched for four weeks and the lease ladder has held flat for a fourth consecutive pass",
+      "detail": "The homepage modified date still reads 15 July 2026 and the news index still leads with the Best Workplaces for Women piece, so nothing has been published in four weeks. Every rung of the 25-SKU bean-to-cup ladder was re-verified unchanged, from the K1 at £14.00 to the Franke SB1200 at £101.50, with the Schaerer Soul 12 at £97.50 for a fourth pass. The K2 in both milk formats and the Jura WE8 stay behind 'Contact Us'. After five lease moves in seven weeks earlier in the summer, this is a settled book rather than an active one.",
+      "bridgeResponse": "Read this as capacity going into integrating the two acquisitions rather than into new selling. It is the window to be in front of their accounts. Where we win is the part they will not publish — the fresh-milk flagships are still price-suppressed, and Bridge quotes equipment, beans, water and service with the numbers attached.",
+      "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/",
+      "severity": "info"
+    },
+    {
+      "date": "2026-08-12",
+      "competitorId": "matthew-algie",
+      "category": "content",
+      "headline": "The traditional espresso range runs deeper than recorded, and the footer still reads 2025",
+      "detail": "Alongside the La Marzocco Linea Classic S the commercial machines hub lists the Rancilio Classe 5 USB Tall and Classe 7 USB Tall, so the traditional line-up is three models, not one — worth having on the record when the range comes up in a competitive quote. Separately the site footer still carries a 2025 copyright, consistent with the newest asset dating to 29 April 2026. Morrisons did not appear in this rotation of the homepage logo carousel; carousels rotate, so read that as an observation rather than a loss.",
+      "bridgeResponse": "Nothing here changes the plan. Algie's equipment story is credible and its filter and bulk-brew catalogue is a genuine strength, but the business is not marketing itself. Against a dormant competitor the win comes from being present, quoting fast and publishing prices they will not.",
+      "source": "https://www.matthewalgie.com/commercial-coffee-machines/",
+      "severity": "info"
+    },
+    {
       "date": "2026-08-06",
       "competitorId": "matthew-algie",
       "category": "strategy",

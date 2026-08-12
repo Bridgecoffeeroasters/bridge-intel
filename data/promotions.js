@@ -1,7 +1,56 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-12",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "ucc",
+      "type": "machine",
+      "name": "Dr Coffee M12 Plus automatic coffee machine",
+      "detail": "First real machine on UCC's trade shop and the current homepage hero, sold outright or on lease. Fresh-milk bean-to-cup with a 10-inch touchscreen, automated cleaning in ten minutes, telemetry and a matching SC08 fridge; 41cm W x 60cm D x 65cm H, rated to 100 cups a day and pitched at cafés, convenience, hotels and low-volume outlets. Supported by its own landing page, a callback form and LinkedIn activity.",
+      "price": "£2,999.99 (purchase or lease)",
+      "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/files/dr-coffee.webp?v=1786094884",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-machines/products/dr-coffee-m12-plus-automatic-coffee-machine",
+      "spotted": "2026-08-12",
+      "counter": "£2,999.99 buys the box. It does not buy an engineer, a water spec, PSSR paperwork or anyone to train the staff. Bridge quotes the whole estate with the numbers visible — beans £10-£20/kg, callouts £185, service £500-£2,000 a year — and backs it with employed engineers UK-wide. Ask what happens in year two."
+    },
+    {
+      "competitorId": "ucc",
+      "type": "coffee",
+      "name": "Ueshima Kobe Blend RFA Beans (10 x 500g)",
+      "detail": "Back in stock at £74.21 a case after being logged as sold out on 4 August. Sits between the Grand Café 100% RFA case at £69.74 and the Ueshima House Blend at £86.20, so it fills the middle of the certified trade rail.",
+      "price": "£74.21 / 10 x 500g",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-beans",
+      "spotted": "2026-08-12",
+      "counter": "£74.21 for 5kg is £14.84/kg for a nationally blended bean. Bridge publishes £10-£20/kg for coffee roasted in Cardiff, with the roast profile and the delivery schedule agreed rather than assigned."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Beija Flor (single origin, Brazil)",
+      "detail": "In the single origin rail at £12.50, tied to the women-led Donas do Café programme. Its product page is one of those now showing the £35 free-delivery threshold rather than £25.",
+      "price": "from £12.50",
+      "source": "https://www.origincoffee.co.uk/products/beija-flor",
+      "spotted": "2026-08-12"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Atlas Decaf (sugarcane process)",
+      "detail": "Decaf line at £14.75, priced above most of the standard single origin rail. New to our record; may be an established seasonal line rather than a launch.",
+      "price": "£14.75",
+      "source": "https://www.origincoffee.co.uk/products/decaf-coffee-beans",
+      "spotted": "2026-08-12",
+      "counter": "£14.75 for 250g is £59/kg. Bridge's published bean range tops out at £20/kg, decaf included, and a trade buyer can budget from the price list rather than a product page."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Pathfinder (rotating single origin)",
+      "detail": "Listed at £12.95, currently a washed Ethiopian Sidama. Origin rotates the lot behind the name several times a year, so the name persists while the coffee changes.",
+      "price": "£12.95",
+      "source": "https://www.origincoffee.co.uk/products/pathfinder",
+      "spotted": "2026-08-12"
+    },
     {
       "competitorId": "liquidline",
       "type": "machine",
@@ -1459,7 +1508,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "image": "http://www.origincoffee.co.uk/cdn/shop/files/Providencia_y_Santa_Barbara-coffee-digital-2026_1_1024x1024.webp?v=1783501083",
       "source": "https://www.origincoffee.co.uk/products/providencia-y-santa-barbara",
       "spotted": "2026-07-16",
-      "counter": "Rotation churn is their model; consistency is ours. Bridge blends are specified for repeatability on commercial equipment."
+      "counter": "Rotation churn is their model; consistency is ours. Bridge blends are specified for repeatability on commercial equipment.",
+      "ended": "2026-08-12"
     },
     {
       "competitorId": "clifton",

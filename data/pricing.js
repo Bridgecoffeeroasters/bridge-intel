@@ -521,6 +521,35 @@ window.BCR=window.BCR||{};window.BCR.price={
           "change": "Recording correction, not a movement. Our £69.74-£83.69 band covered beans only and still holds; the collection also carries FT Decaf Pods 200x14g £52.30, FT Decaf Double Shot Sachets 150x14g £57.16 and RFA Roast & Ground 40x210g £129.68 (sold out)."
         }
       ]
+    },
+    {
+      "date": "2026-08-12",
+      "entries": [
+        {
+          "competitorId": "ucc",
+          "item": "Dr Coffee M12 Plus bean-to-cup machine",
+          "price": "£2,999.99 (purchase or lease)",
+          "change": "New — the first machine price UCC UK&I has published to the open trade market. Their hardware previously went through consultation or the corporate site."
+        },
+        {
+          "competitorId": "ucc",
+          "item": "Ueshima Kobe Blend RFA Beans 10 x 500g",
+          "price": "£74.21 / case",
+          "change": "Back on sale after being sold out on 4 Aug; price itself unchanged. The Ueshima RFA Fuji Mountain 6 x 200g at £39.64 has gone out of stock in the same pass."
+        },
+        {
+          "competitorId": "origin",
+          "item": "Free delivery threshold",
+          "price": "£35 on the banner and several product pages, £25 in the cart and on the Fellow page",
+          "change": "Split again after resolving to £25 on 6 Aug. The £35 figure now appears on more than one template, so a staged increase cannot be ruled out — unresolved."
+        },
+        {
+          "competitorId": "liquidline",
+          "item": "Bean-to-cup lease ladder (25 SKUs)",
+          "price": "£14.00 - £101.50 / week; Schaerer Soul 12 £97.50",
+          "change": "Every rung unchanged for a fourth consecutive pass."
+        }
+      ]
     }
   ]
 };

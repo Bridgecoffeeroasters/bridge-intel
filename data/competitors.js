@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-12",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -16,6 +16,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "HoReCa-weighted: cafés, hotels, education (TUCO), healthcare, workplace, contract catering, convenience and forecourt coffee-to-go.",
       "keyCustomers": "M&S, Tesco Ireland, National Trust for Scotland, Dobbies, Esquires, Hand Picked Hotels",
       "currentFocus": [
+        "Traditional espresso range is three models, not one — La Marzocco Linea Classic S plus Rancilio Classe 5 and Classe 7 USB Tall. Footer still carries a 2025 copyright, consistent with the site's dormancy; Morrisons absent from this carousel rotation, which rotates, so not read as a loss.",
         "Names Morrisons as a private-label customer on the wholesale page — grocery-scale own-brand supply, an order of account above the café logo wall; a third bean-to-cup (Coffea Enjoy Plus) leads on matcha capability; site now measurably dormant, newest asset 29 April 2026",
         "Logo wall now leads with Marks & Spencer and Tesco Ireland, plus Dobbies and Handpicked Hotels; Morrisons no longer displayed — grocery and coffee-to-go emphasis (logo walls rotate, read cautiously)",
         "A Rancilio machine now illustrates the homepage equipment tile — possible new supplier relationship, unconfirmed",
@@ -90,6 +91,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Very broad: offices, automotive, care homes, healthcare, education, hotels, garden centres, golf, aviation, commercial landlords.",
       "keyCustomers": "VW, Audi, Virgin, Holiday Inn, Butlin's, 22 Bishopsgate",
       "currentFocus": [
+        "Site untouched for four weeks — homepage still dated 15 July, news index unchanged — and every rung of the 25-SKU lease ladder held for a fourth consecutive pass, Soul 12 at £97.50. Reads as capacity going into integrating the two acquisitions rather than into selling.",
         "Belfast footprint was acquired (The Hot Coffee Company, Oct 2025) not opened — a second bolt-on alongside Underdog Coffee, pointing to buy-and-build on regional service estates; lease ladder verified at 25 SKUs with the Soul 12 holding £97.50 for a third pass",
         "New Perfect Moose Jack milk steamer given featured billing (lease from £22/wk) alongside a new uncertified own-range bean SKU (Café Bonté Milano) — filling out the ancillary/consumables side of the lease book rather than the core espresso range",
         "Schaerer Soul 12 lease back to £97.50/wk (31 Jul) — fifth change in seven weeks; WMF Espresso NEXT visible at from £93.50/wk",
@@ -241,6 +243,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
       "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
       "currentFocus": [
+        "Now selling a bean-to-cup machine direct at £2,999.99 — the Dr Coffee M12 Plus, on purchase or lease, with a homepage hero, its own landing page, a callback form and LinkedIn support. The first machine price UCC UK&I has published openly, and the first sign of life from a merchandising operation dormant since 2022-23. Trade case prices held; Ueshima stock swapped again, Kobe Blend back at £74.21 and Fuji Mountain 6 x 200g out.",
         "One Lyons bulk bag line (Decaf Dreams, £32.29) restocked while three stay sold out; Grand Café range under a manufacturing plant constraint and shipping in temporary packaging, with the largest case line out of stock; published case pricing in fact spans £52.30-£129.68",
         "Bulk Lyons coffee bag lines have flipped back to sold out after a brief restock, and Ueshima Kobe Blend/Fuji Mountain formats are swapping stock status — a pattern of genuine supply volatility on trade formats; new single-serve pour-over format (Ueshima Pour Over bags, £60) spotted",
         "Strategic partnership with Sanremo Coffee Machines announced Feb 2026, launching in the UK first — a premium traditional-espresso hardware route alongside coffee supply, in Bridge's own equipment territory",
@@ -386,6 +389,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
       "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
       "currentFocus": [
+        "Free-delivery threshold has split again — £35 on the banner and several product pages, £25 in the cart — after resolving to £25 last pass. Single origin rail rotated: Beija Flor £12.50, Atlas Decaf £14.75 and Pathfinder £12.95 now showing, Providencia y Santa Barbara gone. August giveaway is tied specifically to Resolute or Los Altos purchases, and the equipment sale holds nothing discounted and in stock.",
         "Equipment sale is shallower than first read — three SKUs, up to 15%, and the only discounted line sold out; El Paseo enters the range at £20.70, second only to Calliandra; Edinburgh site trading hard through the festival with extended hours and an evening menu",
         "Fellow Espresso Series 1 (£1,299.95) has moved from pre-launch registration to a live, orderable product page with a bundled free 3-month subscription; subscriber loyalty mechanic now fully visible (25% off first three orders, then 10% for life, plus milestone gifts)",
         "RTD can priced at £18.00 for a six-pack (£3.00 per can) and now the homepage hero under 'Go Anywhere With Origin'; 'A Summer Shared' retired",
@@ -471,6 +475,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
       "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
       "currentFocus": [
+        "Six visible lines now sold out — House Filter (Zambia, £11), Ethiopia - Malawo (£13, probably a relist of Adara Keramo) and the Indy Coffee Guide (£13.99) on top of all three Speciality Instant SKUs. Pricing, the Unparalleled Series and the £50 shipping threshold all held; the unfinished Test Roast listing is still taking orders.",
         "Speciality Instant has dropped out of the header navigation while all three SKUs remain sold out; collector tier now two named £20-plus microlots (Gesha Wilton Benitez, Pink Bourbon Sebastian Ramirez) with a decaf pod at £8.25; the unfinished 'Test Roast Coffee' listing is still live and taking orders",
         "Site access restored after a two-day automated-access block; Office Subscription discount confirmed at 25% (ahead of the 20% consumer rate); three new coffees added (Cadence Espresso, Ombligon rare lot at ~£125/kg, Guatemala La Esperanza)",
         "Site has blocked automated access two days running — the July single-origin rotation and the speciality instant pricing remain unverified against Clifton's own pages; needs a browser-based check",
