@@ -1,6 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-13",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Origin's weekly single origin rotates to Pai Herói, a Brazil from Fernanda de Moraes",
+      "detail": "The 'latest weekly release' slot has moved on from Kibira Hill Honey (Burundi) to Pai Herói, a Brazilian lot from producer Fernanda de Moraes at £14.70/250g — tasting notes orange, honeycomb and cane sugar. Confirms the '52 coffees a year' rotation is still running on schedule; no other movement found across the other six competitors this pass.",
+      "bridgeResponse": "Our Roots Collection origins carry certified Fairtrade, Organic or Rainforest Alliance status and published pricing year-round — not a single week's feature.",
+      "source": "https://www.origincoffee.co.uk/products/pai-heroi",
+      "severity": "info"
+    },
+    {
       "date": "2026-08-12",
       "competitorId": "ucc",
       "category": "launch",

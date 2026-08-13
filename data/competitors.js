@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -389,6 +389,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
       "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
       "currentFocus": [
+        "Weekly release rotated again — Pai Herói (Brazil, Fernanda de Moraes, £14.70/250g) replaces Kibira Hill Honey, confirming the 52-coffees-a-year cadence is still on schedule",
         "Free-delivery threshold has split again — £35 on the banner and several product pages, £25 in the cart — after resolving to £25 last pass. Single origin rail rotated: Beija Flor £12.50, Atlas Decaf £14.75 and Pathfinder £12.95 now showing, Providencia y Santa Barbara gone. August giveaway is tied specifically to Resolute or Los Altos purchases, and the equipment sale holds nothing discounted and in stock.",
         "Equipment sale is shallower than first read — three SKUs, up to 15%, and the only discounted line sold out; El Paseo enters the range at £20.70, second only to Calliandra; Edinburgh site trading hard through the festival with extended hours and an evening menu",
         "Fellow Espresso Series 1 (£1,299.95) has moved from pre-launch registration to a live, orderable product page with a bundled free 3-month subscription; subscriber loyalty mechanic now fully visible (25% off first three orders, then 10% for life, plus milestone gifts)",

@@ -1,7 +1,17 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-12",
+  "lastUpdated": "2026-08-13",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Pai Herói, Brazil (weekly release)",
+      "detail": "Weekly-rotation single origin from producer Fernanda de Moraes. Tasting notes orange, honeycomb, cane sugar. Replaces Kibira Hill Honey in the 'latest weekly release' slot.",
+      "price": "£14.70 / 250g",
+      "source": "https://www.origincoffee.co.uk/products/pai-heroi",
+      "spotted": "2026-08-13",
+      "counter": "Our Roots Collection carries certified Fairtrade/Organic/Rainforest Alliance origins at published pricing year-round, not as a single-week feature."
+    },
     {
       "competitorId": "ucc",
       "type": "machine",
@@ -1582,7 +1592,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "price": "from £14.20",
       "source": "https://www.origincoffee.co.uk/products/kibira-hill-honey",
       "spotted": "2026-08-04",
-      "counter": "Origin publish what they pay the farmer. Bridge publishes what the customer pays - beans, callouts and service contracts. Both are transparency; only one of them lets a buyer build a budget."
+      "counter": "Origin publish what they pay the farmer. Bridge publishes what the customer pays - beans, callouts and service contracts. Both are transparency; only one of them lets a buyer build a budget.",
+      "ended": "2026-08-13"
     },
     {
       "competitorId": "origin",
