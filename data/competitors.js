@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -16,6 +16,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "HoReCa-weighted: cafés, hotels, education (TUCO), healthcare, workplace, contract catering, convenience and forecourt coffee-to-go.",
       "keyCustomers": "M&S, Tesco Ireland, National Trust for Scotland, Dobbies, Esquires, Hand Picked Hotels",
       "currentFocus": [
+        "Careers page shows simultaneous field sales and engineer hiring across England (Surrey/SW London, Central London, Crawley, Kent, Manchester), Scotland (Glasgow) and Northern Ireland (Lisburn), plus a Divisional Sales Manager for Southern England & Wales — a genuine multi-region coverage push, not routine backfill",
         "Traditional espresso range is three models, not one — La Marzocco Linea Classic S plus Rancilio Classe 5 and Classe 7 USB Tall. Footer still carries a 2025 copyright, consistent with the site's dormancy; Morrisons absent from this carousel rotation, which rotates, so not read as a loss.",
         "Names Morrisons as a private-label customer on the wholesale page — grocery-scale own-brand supply, an order of account above the café logo wall; a third bean-to-cup (Coffea Enjoy Plus) leads on matcha capability; site now measurably dormant, newest asset 29 April 2026",
         "Logo wall now leads with Marks & Spencer and Tesco Ireland, plus Dobbies and Handpicked Hotels; Morrisons no longer displayed — grocery and coffee-to-go emphasis (logo walls rotate, read cautiously)",
@@ -476,6 +477,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
       "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
       "currentFocus": [
+        "Sold-out count has reversed sharply — down from six visible lines on 12 Aug to just one (Rwanda - Mbizi); Gesha - Wilton Benitez, Decaf Nespresso Capsules and Cadence Espresso are all back in stock",
         "Six visible lines now sold out — House Filter (Zambia, £11), Ethiopia - Malawo (£13, probably a relist of Adara Keramo) and the Indy Coffee Guide (£13.99) on top of all three Speciality Instant SKUs. Pricing, the Unparalleled Series and the £50 shipping threshold all held; the unfinished Test Roast listing is still taking orders.",
         "Speciality Instant has dropped out of the header navigation while all three SKUs remain sold out; collector tier now two named £20-plus microlots (Gesha Wilton Benitez, Pink Bourbon Sebastian Ramirez) with a decaf pod at £8.25; the unfinished 'Test Roast Coffee' listing is still live and taking orders",
         "Site access restored after a two-day automated-access block; Office Subscription discount confirmed at 25% (ahead of the 20% consumer rate); three new coffees added (Cadence Espresso, Ombligon rare lot at ~£125/kg, Guatemala La Esperanza)",

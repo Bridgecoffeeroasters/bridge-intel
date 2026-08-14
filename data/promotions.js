@@ -1,7 +1,17 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "union",
+      "type": "coffee",
+      "name": "Miguel Pérez, Honduras (Limited Parcel)",
+      "detail": "Limited-parcel microlot, plum jam / cola / maple syrup notes, quality score 85.0. Running alongside João Hamilton, Brazil rather than replacing it.",
+      "price": "£13.75 / 250g",
+      "source": "https://unionroasted.com/products/miguel-perez-honduras",
+      "spotted": "2026-08-14",
+      "counter": "Bridge's Roots Collection origins carry certified Fairtrade, Organic or Rainforest Alliance status year-round, not a rotating limited parcel."
+    },
     {
       "competitorId": "origin",
       "type": "coffee",

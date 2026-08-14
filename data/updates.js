@@ -1,6 +1,36 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-14",
+      "competitorId": "union",
+      "category": "launch",
+      "headline": "Union runs two microlots in parallel — Miguel Pérez, Honduras joins João Hamilton",
+      "detail": "New Arrivals now carries Miguel Pérez, Honduras (Limited Parcel) at £13.75/250g — plum jam, cola and maple syrup notes, quality score 85.0 — sitting alongside João Hamilton, Brazil rather than replacing it. Running two live microlots at once is new behaviour for Union's rotation, which has typically featured one at a time.",
+      "bridgeResponse": "Our Roots Collection carries certified Fairtrade, Organic or Rainforest Alliance status on every origin, published year-round rather than as a rotating limited parcel.",
+      "source": "https://unionroasted.com/products/miguel-perez-honduras",
+      "severity": "info"
+    },
+    {
+      "date": "2026-08-14",
+      "competitorId": "matthew-algie",
+      "category": "hiring",
+      "headline": "Matthew Algie recruiting field sales and service engineers simultaneously across England, Scotland and Northern Ireland",
+      "detail": "The live careers page shows a broad, concurrent push — field sales and engineer roles across Surrey/SW London, Central London, Crawley, Kent and Manchester, alongside Glasgow (HQ) and Lisburn, plus a Divisional Sales Manager for Southern England & Wales and a UK-wide channel manager. Simultaneous multi-region hiring reads as a coverage-expansion move rather than routine backfill — consistent with the Scotland-to-England push already flagged. Reported as a strategic signal only; no role titles or salaries link to live vacancies.",
+      "bridgeResponse": "Bridge's engineer coverage is already UK-wide — worth re-testing our response times against Algie in England if this hiring converts to real headcount.",
+      "source": "https://www.matthewalgie.com/about/careers/",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-14",
+      "competitorId": "clifton",
+      "category": "strategy",
+      "headline": "Clifton's sold-out count has fallen from six lines to one",
+      "detail": "Gesha - Wilton Benitez (£20.00), Decaf Nespresso Capsules (£8.25) and Cadence Espresso (£14.00) are all back in stock and purchasable across every collection checked today. Only Rwanda - Mbizi (£11.00) remains sold out. Reads as roasting or inventory catching up rather than a genuine supply problem — the 'climbing sold-out count' watch flagged on 12 Aug has reversed.",
+      "bridgeResponse": "No equivalent stock gaps on Bridge's own range — worth keeping half an eye on whether this recurs for Clifton around their busiest single-origin lines.",
+      "source": "https://cliftoncoffee.co.uk/collections/coffee",
+      "severity": "info"
+    },
+    {
       "date": "2026-08-13",
       "competitorId": "origin",
       "category": "launch",
