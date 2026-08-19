@@ -34,6 +34,17 @@ window.BCR=window.BCR||{};window.BCR.price={
   ],
   "snapshots": [
     {
+      "date": "2026-08-19",
+      "entries": [
+        {
+          "competitorId": "ucc",
+          "item": "Dr Coffee M12 Plus bean-to-cup machine",
+          "price": "Not displayed — callback-request form only (was £2,999.99 purchase/lease, published 12 Aug)",
+          "change": "Price removed from the product page; og:price meta tag now reads £0.00. Uncertain whether this is a deliberate move to enquiry-only pricing or a catalogue sync fault — flagged for re-check next pass."
+        }
+      ]
+    },
+    {
       "date": "2026-06-10",
       "entries": [
         {

@@ -1,7 +1,91 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-19",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Três Meninas, Brazil",
+      "detail": "New single origin on the rail — orange marmalade, cherry, dark chocolate.",
+      "price": "£14.50 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19",
+      "counter": "The Roots Collection rotates on a slower, story-led cadence at published pricing rather than a 52-a-week churn."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "San José",
+      "detail": "New single origin, part of the same rail refresh as Três Meninas.",
+      "price": "£13.75 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "El Paseo",
+      "detail": "New single origin — lavender, pineapple, strawberry.",
+      "price": "£20.70 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Kibira Hill Natural",
+      "detail": "Processing-variant swap — replaces the previously listed Kibira Hill Honey.",
+      "price": "£14.20 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Mugaga Kagumoini",
+      "detail": "New single origin, part of the rail refresh.",
+      "price": "£13.75 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "El Eucalipto",
+      "detail": "New single origin, part of the rail refresh.",
+      "price": "£13.75 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19"
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Calliandra",
+      "detail": "New range-ceiling single origin — honeydew melon, jasmine, lemonade. Highest-priced bagged coffee currently listed.",
+      "price": "£23.90 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19",
+      "counter": "Bridge's premium tier stays inside a published £10–£20/kg band — no guesswork on where the ceiling sits."
+    },
+    {
+      "competitorId": "origin",
+      "type": "coffee",
+      "name": "Umalila",
+      "detail": "New single origin, part of the rail refresh.",
+      "price": "£15.75 / 250g",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "spotted": "2026-08-19"
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "East Timor - Rotutu",
+      "detail": "New single origin — dried pineapple, butterscotch, winey; washed, Rotutu Cooperative, Letefoho region. Rare origin for the UK specialty market.",
+      "price": "£12.00 / 250g",
+      "source": "https://cliftoncoffee.co.uk/products/east-timor-rotutu",
+      "spotted": "2026-08-19",
+      "counter": "A rare origin makes a good story; Bridge's edge is consistent supply and published pricing rather than a single-week feature."
+    },
     {
       "competitorId": "union",
       "type": "coffee",
@@ -20,7 +104,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "price": "£14.70 / 250g",
       "source": "https://www.origincoffee.co.uk/products/pai-heroi",
       "spotted": "2026-08-13",
-      "counter": "Our Roots Collection carries certified Fairtrade/Organic/Rainforest Alliance origins at published pricing year-round, not as a single-week feature."
+      "counter": "Our Roots Collection carries certified Fairtrade/Organic/Rainforest Alliance origins at published pricing year-round, not as a single-week feature.",
+      "ended": "2026-08-19"
     },
     {
       "competitorId": "ucc",

@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-17",
+  "lastUpdated": "2026-08-19",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -244,6 +244,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
       "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
       "currentFocus": [
+        "Dr Coffee M12 Plus price pulled from its product page on 19 Aug — now callback-only, cause unconfirmed (deliberate reposition vs catalogue fault)",
         "Now selling a bean-to-cup machine direct at £2,999.99 — the Dr Coffee M12 Plus, on purchase or lease, with a homepage hero, its own landing page, a callback form and LinkedIn support. The first machine price UCC UK&I has published openly, and the first sign of life from a merchandising operation dormant since 2022-23. Trade case prices held; Ueshima stock swapped again, Kobe Blend back at £74.21 and Fuji Mountain 6 x 200g out.",
         "One Lyons bulk bag line (Decaf Dreams, £32.29) restocked while three stay sold out; Grand Café range under a manufacturing plant constraint and shipping in temporary packaging, with the largest case line out of stock; published case pricing in fact spans £52.30-£129.68",
         "Bulk Lyons coffee bag lines have flipped back to sold out after a brief restock, and Ueshima Kobe Blend/Fuji Mountain formats are swapping stock status — a pattern of genuine supply volatility on trade formats; new single-serve pour-over format (Ueshima Pour Over bags, £60) spotted",
@@ -390,6 +391,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
       "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
       "currentFocus": [
+        "Single origin rail turned over sharply on 19 Aug — Pai Herói dropped, up to eight new coffees appeared (Três Meninas, San José, El Paseo, Kibira Hill Natural, Mugaga Kagumoini, El Eucalipto, Calliandra, Umalila); free-delivery threshold split (£35 vs £25) now confirmed live on two product pages simultaneously",
         "Weekly release rotated again — Pai Herói (Brazil, Fernanda de Moraes, £14.70/250g) replaces Kibira Hill Honey, confirming the 52-coffees-a-year cadence is still on schedule",
         "Free-delivery threshold has split again — £35 on the banner and several product pages, £25 in the cart — after resolving to £25 last pass. Single origin rail rotated: Beija Flor £12.50, Atlas Decaf £14.75 and Pathfinder £12.95 now showing, Providencia y Santa Barbara gone. August giveaway is tied specifically to Resolute or Los Altos purchases, and the equipment sale holds nothing discounted and in stock.",
         "Equipment sale is shallower than first read — three SKUs, up to 15%, and the only discounted line sold out; El Paseo enters the range at £20.70, second only to Calliandra; Edinburgh site trading hard through the festival with extended hours and an evening menu",
@@ -477,6 +479,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
       "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
       "currentFocus": [
+        "New single origin East Timor - Rotutu launched 19 Aug; Rwanda - Mbizi has disappeared from live collections again, status unconfirmed",
         "Sold-out count has reversed sharply — down from six visible lines on 12 Aug to just one (Rwanda - Mbizi); Gesha - Wilton Benitez, Decaf Nespresso Capsules and Cadence Espresso are all back in stock",
         "Six visible lines now sold out — House Filter (Zambia, £11), Ethiopia - Malawo (£13, probably a relist of Adara Keramo) and the Indy Coffee Guide (£13.99) on top of all three Speciality Instant SKUs. Pricing, the Unparalleled Series and the £50 shipping threshold all held; the unfinished Test Roast listing is still taking orders.",
         "Speciality Instant has dropped out of the header navigation while all three SKUs remain sold out; collector tier now two named £20-plus microlots (Gesha Wilton Benitez, Pink Bourbon Sebastian Ramirez) with a decaf pod at £8.25; the unfinished 'Test Roast Coffee' listing is still live and taking orders",

@@ -1,6 +1,46 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-19",
+      "competitorId": "ucc",
+      "category": "pricing",
+      "headline": "Dr Coffee M12 Plus price pulled from the product page",
+      "detail": "The trade-shop listing that carried an open price of £2,999.99 (purchase or lease) since 12 Aug now shows no price at all — just a Purchase/Lease selector behind a callback-request form, and the page's own og:price meta tag reads £0.00. Could be a deliberate move to enquiry-only pricing, or a catalogue sync fault; worth a re-check next pass before reading it as strategy.",
+      "bridgeResponse": "If it holds as enquiry-only, use it in sales conversations — Bridge quotes machines, callouts (£185) and service contracts (£500–£2k/yr) openly, UCC now doesn't.",
+      "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-machines/products/dr-coffee-m12-plus-automatic-coffee-machine",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-19",
+      "competitorId": "origin",
+      "category": "launch",
+      "headline": "Single origin rail turns over sharply — Pai Herói out, up to eight new coffees in",
+      "detail": "Pai Herói (Brazil), confirmed as the featured weekly release on 13 Aug, no longer appears in the live Single Origin collection. In its place: Três Meninas (Brazil, £14.50), San José (£13.75), El Paseo (£20.70), Kibira Hill Natural (£14.20 — a processing-variant swap from the previously listed Kibira Hill Honey), Mugaga Kagumoini (£13.75), El Eucalipto (£13.75), Calliandra (£23.90) and Umalila (£15.75). That's a bigger single-week turnover than Origin's usual one-in-one-out weekly rotation; which one is this week's formally-featured release wasn't confirmed. Separately, the free-delivery threshold split (£35 on Resolute's product page vs £25 on the Feature Coffee Subscription page, fetched in the same session) is now evidenced as a live page-level inconsistency rather than a one-off.",
+      "bridgeResponse": "Lean on the Roots Collection's slower, story-led rotation and consistent published pricing as the contrast to Origin's rapid-fire 52-coffees-a-year churn and its recurring delivery-threshold confusion.",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-19",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "New single origin: East Timor - Rotutu",
+      "detail": "East Timor - Rotutu (£12.00/250g; dried pineapple, butterscotch, winey; washed process from the Rotutu Cooperative, Letefoho region) is now live in both the Single Origin and New Arrivals collections. Timor-Leste is a rare origin on UK specialty shelves, so this is a genuine range addition rather than a rotation of an existing line.",
+      "bridgeResponse": "A rare origin makes a good story but Bridge's edge stays in security of supply — published pricing and consistent stock rather than a boom-bust single-origin rail.",
+      "source": "https://cliftoncoffee.co.uk/products/east-timor-rotutu",
+      "severity": "info"
+    },
+    {
+      "date": "2026-08-19",
+      "competitorId": "clifton",
+      "category": "strategy",
+      "headline": "Rwanda - Mbizi disappears from live collections again",
+      "detail": "Rwanda - Mbizi — flagged as the sole sold-out line on 14 Aug — no longer appears in either the Single Origin or New Arrivals collections at all. Note the promotions record already carries an \"ended: 2026-08-06\" flag for this coffee from an earlier pass, which the 12–14 Aug sightings then contradicted; today's absence could mean genuine discontinuation, a collection-tagging change, or a stock-sync gap. Treated as unconfirmed pending a direct product-page check.",
+      "bridgeResponse": "No action — flagged for a follow-up check rather than treated as a confirmed range change.",
+      "source": "https://cliftoncoffee.co.uk/collections/single-origin",
+      "severity": "info"
+    },
+    {
       "date": "2026-08-14",
       "competitorId": "union",
       "category": "launch",
