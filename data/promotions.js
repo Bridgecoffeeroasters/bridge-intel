@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-20",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
     {
@@ -19,7 +19,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "detail": "New single origin, part of the same rail refresh as Três Meninas.",
       "price": "£13.75 / 250g",
       "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
-      "spotted": "2026-08-19"
+      "spotted": "2026-08-19",
+      "ended": "2026-08-20"
     },
     {
       "competitorId": "origin",
@@ -37,7 +38,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "detail": "Processing-variant swap — replaces the previously listed Kibira Hill Honey.",
       "price": "£14.20 / 250g",
       "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
-      "spotted": "2026-08-19"
+      "spotted": "2026-08-19",
+      "ended": "2026-08-20"
     },
     {
       "competitorId": "origin",
@@ -46,7 +48,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "detail": "New single origin, part of the rail refresh.",
       "price": "£13.75 / 250g",
       "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
-      "spotted": "2026-08-19"
+      "spotted": "2026-08-19",
+      "ended": "2026-08-20"
     },
     {
       "competitorId": "origin",

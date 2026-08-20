@@ -1,6 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-20",
+      "competitorId": "origin",
+      "category": "content",
+      "headline": "San José, Kibira Hill Natural and Mugaga Kagumoini pulled from the single origin rail after one day",
+      "detail": "All three were logged as new arrivals on 19 Aug; today none of the three appear in the live Single Origin collection. Kibira Hill Natural and Mugaga Kagumoini have cycled on and off this rail before (both first spotted 31 Jul), so a same-day pull isn't proof of a permanent drop, and Origin's product pages have shown catalogue quirks before (see the recurring £25/£35 delivery-threshold split) — but a one-day shelf life is still the fastest turnover logged on this rail so far. Beija Flor, Pathfinder, Los Altos and Atlas Decaf, all first spotted 12 Aug, remain live and unchanged.",
+      "bridgeResponse": "Keep pointing to the Roots Collection's slower, story-led rotation and stable published pricing as the calmer alternative to a rail that can now turn over inside 24 hours.",
+      "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+      "severity": "watch"
+    },
+    {
       "date": "2026-08-19",
       "competitorId": "ucc",
       "category": "pricing",
