@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-19",
+  "lastUpdated": "2026-08-21",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -244,6 +244,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
       "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
       "currentFocus": [
+        "Dr Coffee M12 Plus price pull confirmed still in effect two days on (21 Aug) — reads as a deliberate reposition to callback-led selling rather than a catalogue glitch",
         "Dr Coffee M12 Plus price pulled from its product page on 19 Aug — now callback-only, cause unconfirmed (deliberate reposition vs catalogue fault)",
         "Now selling a bean-to-cup machine direct at £2,999.99 — the Dr Coffee M12 Plus, on purchase or lease, with a homepage hero, its own landing page, a callback form and LinkedIn support. The first machine price UCC UK&I has published openly, and the first sign of life from a merchandising operation dormant since 2022-23. Trade case prices held; Ueshima stock swapped again, Kobe Blend back at £74.21 and Fuji Mountain 6 x 200g out.",
         "One Lyons bulk bag line (Decaf Dreams, £32.29) restocked while three stay sold out; Grand Café range under a manufacturing plant constraint and shipping in temporary packaging, with the largest case line out of stock; published case pricing in fact spans £52.30-£129.68",

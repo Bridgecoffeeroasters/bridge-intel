@@ -1,6 +1,26 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-21",
+      "competitorId": "ucc",
+      "category": "pricing",
+      "headline": "Dr Coffee M12 Plus price stays pulled — confirmed callback-only after two days",
+      "detail": "The M12 Plus product page still redirects straight to a callback-request landing page with no price shown anywhere — unchanged since the price was first pulled on 19 Aug. Two days without reversal reads as a deliberate move to lead-gen-first selling rather than a catalogue fault, though intent is still not confirmed by UCC directly.",
+      "bridgeResponse": "Bridge continues to publish machine and consumable pricing openly rather than gating it behind a callback form — a clean point of contrast against a competitor visibly retreating from price transparency on its flagship listing.",
+      "source": "https://www.ucc-coffee-direct.co.uk/pages/dr-coffee-callback",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-21",
+      "competitorId": "clifton",
+      "category": "content",
+      "headline": "Test Roast Coffee confirmed as a genuine live SKU — now sold out",
+      "detail": "The unfinished-looking 'Test Roast Coffee' listing, previously flagged as still taking orders, now shows sold out at the same £8.25/250g price and placeholder imagery. Confirms it is a real live product rather than an abandoned draft, though currently unavailable.",
+      "bridgeResponse": "A clean contrast point: Bridge doesn't sell test-batch surplus — every roast released is deliberate and named.",
+      "source": "https://cliftoncoffee.co.uk/products/testroast",
+      "severity": "info"
+    },
+    {
       "date": "2026-08-20",
       "competitorId": "origin",
       "category": "content",
