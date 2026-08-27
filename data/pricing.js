@@ -613,6 +613,17 @@ window.BCR=window.BCR||{};window.BCR.price={
           "change": "Every rung unchanged for a fourth consecutive pass."
         }
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "entries": [
+        {
+          "competitorId": "origin",
+          "item": "Cold Brew Espresso Concentrate Subscription",
+          "price": "£14.40",
+          "change": "-10% vs £16.00 previously published — first discount tracked on this SKU"
+        }
+      ]
     }
   ]
 };

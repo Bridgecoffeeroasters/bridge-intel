@@ -1,7 +1,55 @@
 window.BCR=window.BCR||{};window.BCR.promo={
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
   "items": [
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Unparalleled Series — Ombligon, Finca El Diviso",
+      "detail": "Colombia, Pitalito/Huila, Ethiopian Heirloom-Pacamara mutation, thermal-shock anaerobic natural. Featured on the homepage hero strip.",
+      "price": "£15.00 / 120g",
+      "image": null,
+      "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
+      "spotted": "2026-08-27",
+      "counter": "Per-gram this sits well above Bridge's Roots Collection; position Roots on certified provenance and repeatability at commercial volume rather than one-off lot chasing.",
+      "ended": null
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Unparalleled Series — Pink Bourbon, Sebastian Ramirez",
+      "detail": "Collector-tier single origin lot within the new Unparalleled Series collection.",
+      "price": "£20.75 / 120g",
+      "image": null,
+      "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
+      "spotted": "2026-08-27",
+      "counter": null,
+      "ended": null
+    },
+    {
+      "competitorId": "clifton",
+      "type": "coffee",
+      "name": "Unparalleled Series — Gesha, Wilton Benitez",
+      "detail": "Collector-tier single origin lot within the new Unparalleled Series collection.",
+      "price": "£20.00 / 120g",
+      "image": null,
+      "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
+      "spotted": "2026-08-27",
+      "counter": null,
+      "ended": null
+    },
+    {
+      "competitorId": "origin",
+      "type": "offer",
+      "name": "Cold Brew Espresso Concentrate Subscription — 10% off",
+      "detail": "Subscription price cut from £16.00 to £14.40 on the homepage — first discount tracked on this SKU.",
+      "price": "£14.40 (was £16.00)",
+      "image": null,
+      "source": "https://www.origincoffee.co.uk/",
+      "spotted": "2026-08-27",
+      "counter": "Bridge doesn't discount off a moving baseline — one published wholesale price throughout.",
+      "ended": null
+    },
     {
       "competitorId": "origin",
       "type": "coffee",
@@ -22,7 +70,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
       "price": "from £12.95",
       "source": "https://www.origincoffee.co.uk/collections/coffee",
       "spotted": "2026-08-25",
-      "counter": "Bridge's Roots Collection is certified Fairtrade, Organic and Rainforest Alliance and is published at a stated price per kilo, rather than rotating weekly."
+      "counter": "Bridge's Roots Collection is certified Fairtrade, Organic and Rainforest Alliance and is published at a stated price per kilo, rather than rotating weekly.",
+      "ended": "2026-08-27"
     },
     {
       "competitorId": "origin",

@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
-  "lastUpdated": "2026-08-26",
+  "lastUpdated": "2026-08-27",
   "competitors": [
     {
       "id": "matthew-algie",
@@ -171,6 +171,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Medium-to-large workplaces, distribution centres, hospitals, transport hubs, leisure.",
       "keyCustomers": "Gym Group (case study), national enterprise accounts",
       "currentFocus": [
+        "YPO framework 001206 true term confirmed as 17 Dec 2024-16 Dec 2026 with two possible 12-month extensions to Dec 2028; decision on first extension due end Sept 2026 - corrects earlier '1 Sept 2026 expiry, no renewal mentioned' note",
         "First visible price point recorded — an orphaned campaign page still quotes vending rental from £80/month (£80–£400 range) and £4,000–£15,000 outright, while the refreshed page has had the same figures deleted; refurbished machines page removed and redirected; 'growing businesses' renamed to an SME page targeting small-business search despite an FAQ that sets a 100-employee floor; YPO framework 001206 expires 1 September with no renewal mentioned; UK newsroom dormant since February",
         "Rewritten office coffee buyer's guide concedes that milk-related technical call-outs may be chargeable, and refuses to publish any budget figure; a London and Home Counties geo-campaign page is live claiming three local depots",
         "Hot drinks range widened to around seventeen machines including Schaerer Soul 12/10/Skye and traditional Astoria espresso — a move beyond pure vending into barista-style hospitality; range now tiered table-top / branded / floor-standing",
@@ -397,6 +398,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
       "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
       "currentFocus": [
+        "Cold Brew Espresso Concentrate Subscription discounted to £14.40 (from £16.00) — first discount tracked on this SKU",
         "Caxambu returns to the rail at £12.95 and El Eucalipto rotates off; Los Altos and Resolute relabelled as Fellow competition entries to force giveaway entries before 31 August; split delivery threshold (£35 banner vs £25 cart) unresolved into a third week; RTD Iced Black and Santa Barbara capsules sold out; journal quiet since 30 July; Shipped by Sail promoted to a homepage-level sourcing pillar",
         "Single origin rail turned over sharply on 19 Aug — Pai Herói dropped, up to eight new coffees appeared (Três Meninas, San José, El Paseo, Kibira Hill Natural, Mugaga Kagumoini, El Eucalipto, Calliandra, Umalila); free-delivery threshold split (£35 vs £25) now confirmed live on two product pages simultaneously",
         "Weekly release rotated again — Pai Herói (Brazil, Fernanda de Moraes, £14.70/250g) replaces Kibira Hill Honey, confirming the 52-coffees-a-year cadence is still on schedule",
@@ -486,6 +488,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
       "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
       "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
       "currentFocus": [
+        "New 'Unparalleled Series' collection discovered — three 120g micro-lots (Ombligon £15.00, Pink Bourbon £20.75, Gesha £20.00) priced well above the standard rail, with Ombligon on the homepage hero strip; a deliberate step into collector-grade pricing",
         "Free delivery threshold set at £50, the highest in the tracked set and double Origin's cart figure; Speciality Instant range delisted rather than restocked, along with Test Roast Coffee, Ethiopia Malawo and Adara Keramo; sold-out count down to one line in eighteen; Cadence Espresso re-lotted to a Gerba, Ethiopia lot on 23 August with the price held at £14.00",
         "New single origin East Timor - Rotutu launched 19 Aug; Rwanda - Mbizi has disappeared from live collections again, status unconfirmed",
         "Sold-out count has reversed sharply — down from six visible lines on 12 Aug to just one (Rwanda - Mbizi); Gesha - Wilton Benitez, Decaf Nespresso Capsules and Cadence Espresso are all back in stock",

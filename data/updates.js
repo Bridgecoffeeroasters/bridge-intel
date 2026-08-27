@@ -1,6 +1,46 @@
 window.BCR=window.BCR||{};window.BCR.upd={
   "updates": [
     {
+      "date": "2026-08-27",
+      "competitorId": "clifton",
+      "category": "launch",
+      "headline": "A new 'Unparalleled Series' micro-lot tier surfaces, priced well above the standard rail",
+      "detail": "A previously untracked collection — Coffee > Unparalleled Series — carries three 120g lots at prices roughly double the standard 250g single-origin rail on a per-gram basis: Ombligon, Finca El Diviso (Colombia, Ethiopian Heirloom-Pacamara mutation, thermal-shock anaerobic natural) at £15.00; Pink Bourbon, Sebastian Ramirez at £20.75; Gesha, Wilton Benitez at £20.00. Ombligon now features on the homepage hero collections strip. Reads as a deliberate step into collector-grade pricing rather than a one-off lot.",
+      "bridgeResponse": "Bridge's Roots Collection competes on certified provenance (Fairtrade, Organic, Rainforest Alliance) and consistency at commercial volumes, not one-off collector lots. Where a customer wants a showcase coffee, price it against Clifton's per-gram figure so the gap is visible before they order.",
+      "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-27",
+      "competitorId": "origin",
+      "category": "pricing",
+      "headline": "First tracked discount on the Cold Brew Espresso Concentrate Subscription",
+      "detail": "Homepage now prices the Cold Brew Espresso Concentrate Subscription at £14.40, down from the £16.00 previously published — a 10% cut. This is the first discount logged against this specific SKU; the one-off (non-subscription) concentrate price is unaffected as far as we could verify.",
+      "bridgeResponse": "Bridge holds one published price for wholesale and doesn't run rolling subscription discounts — worth stating plainly to customers comparing headline numbers, since a discounted subscription price isn't the same as a lower cost to serve.",
+      "source": "https://www.origincoffee.co.uk/",
+      "severity": "info"
+    },
+    {
+      "date": "2026-08-27",
+      "competitorId": "selecta",
+      "category": "strategy",
+      "headline": "YPO framework 001206 true term corrected: runs to Dec 2026 with two possible one-year extensions",
+      "detail": "Earlier tracking flagged this framework as expiring 1 September 2026 with no renewal mentioned. Tender documentation instead shows a term of 17 December 2024 to 16 December 2026, with two 12-month extension options taking the maximum period to December 2028. The decision on the first extension is due by the end of September 2026, so the framework is not lapsing imminently — it is awaiting a renewal decision. Correcting our own record here.",
+      "bridgeResponse": "No change to Bridge's position — public-sector relationships are held directly rather than through a shared vending framework. Worth noting the extension decision date for anyone tracking Selecta's public-sector reach.",
+      "source": "https://www.stotles.com/explore/notices/e0cea5f2-d7f3-4449-83f6-164c5189aecb/ypo-001206-vending-machine-and-water-cooler-solutions",
+      "severity": "watch"
+    },
+    {
+      "date": "2026-08-27",
+      "competitorId": "liquidline",
+      "category": "acquisition",
+      "headline": "Underdog Coffee Limited formally dissolved, 28 April 2026",
+      "detail": "Companies House shows the entity behind Underdog Coffee (the Devon speciality roaster Liquidline acquired in November 2025) was dissolved on 28 April 2026. Reads as the acquired business being folded into group operations rather than run on as a standalone legal entity — consistent with the buy-and-build pattern already logged against the Belfast acquisition (The Hot Coffee Company). No visible change to how Underdog is marketed on Liquidline's own site.",
+      "bridgeResponse": "Bridge's own roasting stays under one roof and one brand — no group restructuring for customers to parse when they ask who they're actually buying from.",
+      "source": "https://find-and-update.company-information.service.gov.uk/company/NI711641",
+      "severity": "info"
+    },
+    {
       "date": "2026-08-26",
       "competitorId": "ucc",
       "category": "pricing",
