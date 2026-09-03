@@ -1,6 +1,36 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-03",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "La Huella is back: one Mierisch plot split across four processes at the top of the range",
+   "detail": "Origin has a La Huella collection live again — a five-hectare plot on the Mierisch family's Los Altos farm in Nicaragua, released as one coffee processed several ways so buyers can taste process in isolation. Two lots verified on their own product pages: La Huella Natural at £17.70 (passionfruit, rhubarb, raspberry; purchasable) and La Huella Dwarf Gesha at £16.20 (blueberry, peach, jasmine). A third, La Huella Mariposa — a wild Pink Bourbon mutation found on the plot, grafted onto robusta rootstock — has a live page but does not render a price. Two caveats worth stating plainly. First, this is not a first release: Origin ran a La Huella trio with in-store cupping sessions in October 2024 and listings exist from around 2020, so it is a returning seasonal collection, not a new product line. Second, we cannot date the current listings — nothing in Origin's journal covers it and the collection page did not render for us — but customer reviews on the Natural lot run to three and four weeks old, which puts the release in the first half of August. It was missed on earlier passes rather than appearing this week.",
+   "bridgeResponse": "This is Origin doing what Origin does well and we should not pretend otherwise — single-plot, multi-process storytelling at £16-£18 for a retail bag is a genuine speciality credential. It is also not the fight we are in. Bridge sells a stable core a site manager can build a menu and a margin around, with published wholesale beans at £10-£20/kg, and Roots certified Fairtrade, Organic and Rainforest Alliance behind it. Where it matters is trade prospects who want provenance in the story: put a Roots single origin and our SCA training offer in front of them, and note that we will still be able to supply the same coffee in six months.",
+   "source": "https://www.origincoffee.co.uk/products/la-huella-natural",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-03",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "The coffee rail has refilled to seventeen lines after last week's contraction",
+   "detail": "All Coffee now renders seventeen products, up from the fourteen recorded on 1 September. The refill is at the premium end — the La Huella lots plus capsule formats of Três Meninas (from £6.00) and Atlas Decaf (from £6.50), the latter now sitting alongside the £14.75 bagged version. Três Meninas was recorded as out of stock on 1 September, so this looks like restock plus format extension rather than new sourcing. The contraction we flagged last week therefore reads as rotation timing, not a range cut, and we should correct that read. Counts come from a single fetch of the collection page and stock status was not visible on every line, so treat the number as indicative.",
+   "bridgeResponse": "Worth correcting internally before anyone repeats last week's line about Origin's range shrinking. The pattern to watch is the capsule push: Origin now offers the same coffee in bag and capsule, made in-house in Cornwall. That is a format play at office and hospitality accounts, not just retail. Our answer is the whole stack — beans, machines, engineers, water and training on one contract — rather than matching them format for format.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-03",
+   "competitorId": "origin",
+   "category": "campaign",
+   "headline": "The Fellow giveaway has now outlived its own winner-announcement date and is still on the site",
+   "detail": "The giveaway banner still runs sitewide and still reads 'Competition closes August 31st… Winner announced 02/09/26'. That date passed yesterday and no winner has been published anywhere we can see. This is the third consecutive pass on which the campaign has been flagged: entries closed on 31 August, the promotion was still selling on 1 September, and it is now advertising a result it has not delivered. Separately, the equipment sale page still lists the Mahlkonig X54 at the discounted £424.95 while showing it sold out.",
+   "bridgeResponse": "Nothing to counter here commercially — it is a housekeeping failure, not a competitive move. It is useful evidence for our own discipline: a campaign that runs past its end date costs more trust than the campaign earned. Worth a note to marketing that our own promotional pages need an owner and a takedown date set at launch.",
+   "source": "https://www.origincoffee.co.uk/products/fellow-espresso-series-1",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-01",
    "competitorId": "ucc",
    "category": "pricing",

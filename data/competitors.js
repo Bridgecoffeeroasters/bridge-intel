@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-09-01",
+ "lastUpdated": "2026-09-03",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -416,6 +416,9 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "La Huella is back on the rail — a single Mierisch plot in Nicaragua released across four processes, with the Natural at £17.70 and a Dwarf Gesha at £16.20. A returning seasonal collection (previous runs in 2020 and 2024), likely live since early August and missed on earlier passes rather than new this week (3 Sep)",
+    "The range contraction flagged on 1 September has reversed: All Coffee is back to seventeen lines, refilled at the premium end by the La Huella lots and by capsule versions of Tres Meninas (£6.00) and Atlas Decaf (£6.50). Read last week's fourteen as rotation timing, not a range cut (3 Sep)",
+    "Campaign hygiene has not recovered: the Fellow giveaway banner has now passed its own 02/09/26 winner-announcement date with no winner published, a third consecutive pass on the same stalled campaign (3 Sep)",
     "Campaign hygiene has slipped badly: the Fellow giveaway is still published, still the homepage hero and still renaming the Resolute SKU as a competition entry on 1 September, a day after entries closed at 23:59 on 31 August (1 Sep)",
     "Two versions of the navigation are live at once as the teardown stalls — the giveaway still promoted on the homepage and journal, replaced by 'New from Fellow — Explore the Espresso Series 1' on the coffee and equipment pages. Expect the £1,299.95 Espresso Series 1 to become the autumn hero (1 Sep)",
     "The range is contracting: All Coffee is down to fourteen lines with Três Meninas, Calliandra, Kibira Hill Natural and Mugaga Kagumoini all rotated off and no announced replacements, the top of the range going first (1 Sep)",

@@ -1,7 +1,55 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-01",
+ "lastUpdated": "2026-09-03",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "La Huella Natural (Nicaragua, Mierisch family)",
+   "detail": "Yellow Pacamara from a five-hectare plot on the Los Altos farm, naturally processed. Passionfruit, rhubarb, raspberry. Part of a one-coffee-four-processes release; purchasable with size and grind options.",
+   "price": "£17.70",
+   "image": null,
+   "source": "https://www.origincoffee.co.uk/products/la-huella-natural",
+   "spotted": "2026-09-03",
+   "counter": "Above the top of Bridge's published £10-£20/kg wholesale band and deliberately so — this is a retail showpiece, not a menu coffee. Compete on continuity of supply and on Roots certification, not on lot rarity.",
+   "ended": null
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "La Huella Dwarf Gesha",
+   "detail": "Dwarf Gesha from the same La Huella plot. Blueberry, peach, jasmine; crisp orange acidity, chamomile finish. Full purchase flow live, though no explicit stock label was rendered.",
+   "price": "£16.20",
+   "image": null,
+   "source": "https://www.origincoffee.co.uk/products/la-huella-dwarf-gesha",
+   "spotted": "2026-09-03",
+   "counter": "A Gesha under £17 is keen pricing for the varietal and is a real credibility marker with speciality-minded buyers. Answer with the certified Roots range and published trade pricing rather than trying to match the lot.",
+   "ended": null
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "La Huella Mariposa (Pink Bourbon)",
+   "detail": "A wild Pink Bourbon mutation discovered by Erwin Mierisch on the La Huella plot, grafted onto robusta rootstock, naturally processed. Product page is live but renders no price and no stock status.",
+   "price": "Not visible on the page",
+   "image": null,
+   "source": "https://www.origincoffee.co.uk/products/la-huella-mariposa",
+   "spotted": "2026-09-03",
+   "counter": "Note the pattern rather than the coffee: Origin publishes the varietal story in full and the price sometimes not at all. Bridge publishes the price every time.",
+   "ended": null
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Tres Meninas and Atlas Decaf now in capsule format",
+   "detail": "Tres Meninas capsules from £6.00 and Atlas Decaf capsules from £6.50 are on the coffee collection, the decaf sitting alongside the £14.75 bagged version. Tres Meninas was recorded out of stock on 1 September, so this is a restock plus a format extension. Capsules are produced in-house in Cornwall.",
+   "price": "from £6.00 (Tres Meninas); from £6.50 (Atlas Decaf)",
+   "image": null,
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "spotted": "2026-09-03",
+   "counter": "Capsules are how a roaster gets into small offices without an equipment conversation. Bridge's answer is the opposite direction: put the machine, the engineer cover and the water filtration in, and the coffee volume follows for years rather than a sleeve at a time.",
+   "ended": null
+  },
   {
    "competitorId": "clifton",
    "type": "coffee",
