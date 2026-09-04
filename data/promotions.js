@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-03",
+ "lastUpdated": "2026-09-04",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
   {
@@ -2309,6 +2309,35 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "source": "https://cliftoncoffee.co.uk/collections/new-arrivals",
    "spotted": "2026-08-06",
    "counter": "Capsules are a retail play. Where it matters to Bridge is offices choosing pods over a machine, and there the answer is total cost per cup against a leased bean-to-cup with a service contract behind it."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Mariposa | 15 Year Mierisch Anniversary",
+   "detail": "Javanica variety, cold anoxic natural process. Now a standalone product rather than part of the La Huella set launched yesterday. An older, different 'La Huella Mariposa' page (Pink Bourbon) is still live in parallel.",
+   "price": "£14.40",
+   "source": "https://www.origincoffee.co.uk/products/mariposa",
+   "spotted": "2026-09-04",
+   "counter": "A retail micro-lot, not a wholesale line. We publish £10–£20 a kilo and supply the machine and the engineer alongside it; this is a different purchase and we should not pitch against it directly."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Chilamate | 15 Year Mierisch Anniversary",
+   "detail": "H1 varietal, natural process. New on the coffee collection today as the Mierisch anniversary material splits into separately named lots.",
+   "price": "£13.75",
+   "source": "https://www.origincoffee.co.uk/products/chilamate-15-year-mierisch-anniversary",
+   "spotted": "2026-09-04",
+   "counter": "Story-led single lot at roughly £55 a kilo retail. Our answer is consistency and supply across a whole estate, published pricing, and support we can put a number against."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "La Huella | 15 Year Mierisch Anniversary — sold out",
+   "detail": "Listed at £17.40 and marked sold out, while the older La Huella Natural page remains live and in stock at £17.70. Two closely related listings, thirty pence apart, one buyable and one not.",
+   "price": "£17.40 (sold out)",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "spotted": "2026-09-04"
   }
  ]
 };

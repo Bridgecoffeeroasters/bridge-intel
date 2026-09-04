@@ -1,6 +1,56 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-04",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Chilamate joins the rail at £13.75 as the Mierisch anniversary range breaks into separate lots",
+   "detail": "Yesterday the Mierisch material was presented as one plot, La Huella, split across four processes. Today it has been rebuilt as standalone products under a different banner. Chilamate | 15 Year Mierisch Anniversary is new on the coffee collection at £13.75 (H1 varietal, natural process), and Mariposa | 15 Year Mierisch Anniversary is listed at £14.40 (Javanica, cold anoxic natural). The collection still holds seventeen lines, so this is a reshuffle of the same shelf rather than an expansion. Both prices are visible on the product pages; the process descriptions are Origin's own.",
+   "bridgeResponse": "Origin is doing what it does well — buying interesting lots and telling the story properly. We are not competing for that shelf. Where it matters to us is the account that wants one supplier for beans, machines, engineers and training, priced openly. Our published range is £10–£20 a kilo wholesale; a 250g anniversary lot at £13.75 is a different purchase for a different customer, and we should say so plainly rather than pretend it is the same trade.",
+   "source": "https://www.origincoffee.co.uk/products/chilamate-15-year-mierisch-anniversary",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-04",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "The Mierisch relaunch has left two Mariposas live at once and La Huella itself sold out",
+   "detail": "The rename has not been finished cleanly. La Huella | 15 Year Mierisch Anniversary is listed at £17.40 and marked sold out, while the older La Huella Natural page remains live and in stock at £17.70 — thirty pence apart for closely related material. A second, older La Huella Mariposa page (described as a Pink Bourbon) still exists alongside the new Mariposa (Javanica), so two different coffees now carry the same name under two different stories. The dedicated /collections/la-huella page has been retired and redirects to the homepage. This reads as an unfinished migration rather than a deliberate two-tier structure, and it may be tidied up within days.",
+   "bridgeResponse": "Worth a screenshot for the file before they correct it. The point for our own site is narrower than schadenfreude: when a range is renamed mid-flight, customers land on the wrong page and buy nothing. We are running our own rotations through the NPD gates precisely so a launch reaches the shelf finished. No need to raise this with customers — it is an internal reminder, not a talking point.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-04",
+   "competitorId": "origin",
+   "category": "pricing",
+   "headline": "The Mahlkönig X54 has sold out four days into Origin's 15 per cent grinder discount",
+   "detail": "The equipment sale page still shows the X54 Home Grinder at £424.95 against £499.95, but the line is now marked sold out. The Sage Barista Pro holds at £583.95 against £729.95 and remains available. This is the second time the X54 has gone out of stock during a discount — the same thing happened on 6 August. Discounting into thin stock is a recurring pattern here rather than a one-off.",
+   "bridgeResponse": "A discounted grinder that cannot be bought is a lead going spare. This is home equipment, not our core trade, but the underlying signal is one we should use: availability is worth more than headline discount. Our position is stock we can actually ship and engineers who can attend, and we publish callout at £185 so nobody has to ask what support costs.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee-equipment-sale",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-04",
+   "competitorId": "origin",
+   "category": "campaign",
+   "headline": "The ready-to-drink iced black cans are back in stock and have been given a navigation promotion",
+   "detail": "The Iced Black Coffee ready-to-drink six-pack is showing on the coffee collection at £18.00 (£3.00 per 250ml can), with an 'Introducing our iced black cans' promotion in the site navigation. The line was recorded as sold out on 26 August, so this is a restock being relaunched rather than a new product. Notably, the push is going live as the summer season ends, which is late for a cold format.",
+   "bridgeResponse": "Ready-to-drink is a category we have looked at and not entered. Nothing here changes that judgement. If it comes up in a customer conversation, the honest answer is that we do not make canned coffee and are not pretending to; what we do is supply the machine, the beans, the water treatment and the engineer behind a fresh cup on site.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-04",
+   "competitorId": "clifton",
+   "category": "award",
+   "headline": "The Great Taste award for E1 Project Espresso is now formally logged, though still not announced",
+   "detail": "On 1 September the Great Taste marque was visible only on the E1 Project Espresso packaging artwork. It has now appeared as a dated entry on Clifton's Awards and Recognition page: 'August 2026 — Awarded Great Taste Award for E1 Project Espresso'. There is still no homepage banner, journal post or social announcement attached to it. The same page also records a May 2026 nomination for Coffee Bag Design of the Year at the London Coffee Festival, which was not previously on file.",
+   "bridgeResponse": "Credit where it is due — that is a real award on a coffee that sits at £12.00 for 250g, and we should not talk it down if a customer raises it. It is also a reminder that recognition only works commercially if you tell people about it. We hold Fairtrade, Organic and Rainforest Alliance certification across the Roots Collection and we should be equally deliberate about where that is stated.",
+   "source": "https://cliftoncoffee.co.uk/pages/awards-recognition",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-03",
    "competitorId": "origin",
    "category": "launch",

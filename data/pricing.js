@@ -34,6 +34,23 @@ window.BCR=window.BCR||{};window.BCR.price={
  ],
  "snapshots": [
   {
+   "date": "2026-09-04",
+   "entries": [
+    {
+     "competitorId": "origin",
+     "item": "La Huella (Mierisch, Nicaragua) — top of the single-origin rail",
+     "price": "£17.40 for the sold-out 'La Huella | 15 Year Mierisch Anniversary'; £17.70 for the in-stock 'La Huella Natural'",
+     "change": "−£0.30 (−1.7%) vs the £17.70 recorded on 3 Sep, but only on the renamed listing, which cannot be bought. The original page holds at £17.70. Two live prices for closely related material rather than a clean repricing — treat as an artefact of an unfinished rename, not a deliberate cut, and re-check once the migration settles."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Mahlkönig X54 Home Grinder (sale price)",
+     "price": "£424.95 (was £499.95)",
+     "change": "No change vs 1 Sep — the 15 per cent discount holds — but the line is now marked sold out. Second time the X54 has gone out of stock mid-discount, after 6 August."
+    }
+   ]
+  },
+  {
    "date": "2026-08-26",
    "entries": [
     {
