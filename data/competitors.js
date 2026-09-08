@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-09-04",
+ "lastUpdated": "2026-09-08",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -178,6 +178,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Medium-to-large workplaces, distribution centres, hospitals, transport hubs, leisure.",
    "keyCustomers": "Gym Group (case study), national enterprise accounts",
    "currentFocus": [
+    "New hidden (noindex) hotel-sector landing page pitches self-serve coffee for hotel lobbies, breakfast and in-room service, naming Starbucks, Lavazza, Change Please, Pelican Rouge, Nescafe and miofino as partners - a hospitality-vertical push alongside the core office/vending business (8 Sep)",
     "Group communications have restarted after nine months, and the chosen re-entry point is an EcoVadis Silver rating rather than trading or contract news; the UK newsroom remains dormant with nothing surfaced since February (1 Sep)",
     "The UK proposition is tilting toward unattended retail and hydration — Duo 850, Duo 600 and Instant Single smart fridges now head the vending range, and the most recent UK story argues on YouGov data that Gen Z is drinking less coffee (1 Sep)",
     "Site governance is loose: an orphaned campaign page is still the only place publishing hard prices (£4,000–£15,000 purchase, from £80/month lease, £80–£400/month rental) and the withdrawn refurbished programme is still advertised in two places with no page behind it (1 Sep)",
@@ -338,6 +339,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Independent cafés to multi-site operators, restaurants, supermarkets, consumers. Less visible in offices and contract catering.",
    "keyCustomers": "Sainsbury's, Waitrose, Ocado; Company of Cooks collaboration",
    "currentFocus": [
+    "First sitewide discount tracked: 20% off all coffees (code SEPTEMBER20) live on the homepage, a step up from previous SKU-level promotions; new Limited Parcel microlot Miguel Perez Honduras added at £13.75/200g (8 Sep)",
     "Still trading a summer proposition on 1 September: Summer Blend remains the homepage hero at £10.75/200g with no autumn or winter blend anywhere in the navigation and no seasonal campaign prepared (1 Sep)",
     "Editorial silence approaching twelve months — the Excelsa piece of 3 October 2025 is still the most recent thing they have published (1 Sep)",
     "Delivery messaging remains inconsistent: £30 Royal Mail, £45 DPD and free with any 1kg bag are live, while a legacy £25 figure survives in the new-arrivals meta description (1 Sep)",
@@ -416,6 +418,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "Fellow Series 1 giveaway winner still unpublished - now six days past its own 2 September announcement date, at least a fourth consecutive pass with the same unresolved thread (8 Sep)",
     "La Huella is back on the rail — a single Mierisch plot in Nicaragua released across four processes, with the Natural at £17.70 and a Dwarf Gesha at £16.20. A returning seasonal collection (previous runs in 2020 and 2024), likely live since early August and missed on earlier passes rather than new this week (3 Sep)",
     "The range contraction flagged on 1 September has reversed: All Coffee is back to seventeen lines, refilled at the premium end by the La Huella lots and by capsule versions of Tres Meninas (£6.00) and Atlas Decaf (£6.50). Read last week's fourteen as rotation timing, not a range cut (3 Sep)",
     "Campaign hygiene has not recovered: the Fellow giveaway banner has now passed its own 02/09/26 winner-announcement date with no winner published, a third consecutive pass on the same stalled campaign (3 Sep)",
@@ -513,6 +516,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
    "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
    "currentFocus": [
+    "Ombligon - Finca El Diviso now the lead tile linking into the Unparalleled Series from the main navigation; the series itself holds at three Colombian microlots, £15-£20.75/120g (8 Sep)",
     "The most commercially active of the tracked roasters: a new Mexico – Sierra Mazateca single origin landed on the rail at from £13.00 within days, with Mexico added as its own country filter (1 Sep)",
     "Diversifying beyond coffee — Clifton Matcha at £18.00/100g is now the single promoted tile in the shop mega-menu site-wide, with a new Matcha and Chai category, Guatemala Cascara Tea from £6.50 and a home brewing equipment range built out to 37 lines (1 Sep)",
     "The premium tier is stable rather than expanding: the Unparalleled Series holds at exactly three Colombian lots (£15.00–£20.75 per 120g) and the whole standard rail has held its prices. No autumn campaign has launched (1 Sep)",

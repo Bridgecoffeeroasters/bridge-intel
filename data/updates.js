@@ -1,6 +1,46 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-08",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Origin's Fellow giveaway still has no winner, six days after its own deadline",
+   "detail": "The competition page confirms entries closed 31 August at 23:59 with a winner due 2 September; as of today the same page still lists only entry mechanics, no winner name. At least a fourth consecutive pass logging the same unresolved thread — a live customer promise going unmet for over a week.",
+   "bridgeResponse": "A small thing, but it's the kind of follow-through gap Bridge's account team should never leave open on a live promotion.",
+   "source": "https://www.origincoffee.co.uk/collections/august-competition",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-08",
+   "competitorId": "union",
+   "category": "pricing",
+   "headline": "Union runs its first sitewide discount: 20% off every coffee",
+   "detail": "A persistent homepage banner ('September, Sorted. 20% off all coffees, code SEPTEMBER20') links through to the full coffee collection — broader than Union's previous SKU-level promotions, and the first blanket discount tracked across the whole range.",
+   "bridgeResponse": "Bridge holds list price on beans rather than running margin-eroding sitewide codes; worth flagging to accounts who buy Union direct that list pricing there is soft this month.",
+   "source": "https://unionroasted.com/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-08",
+   "competitorId": "selecta",
+   "category": "campaign",
+   "headline": "Selecta builds a hidden landing page targeting hotels for self-serve coffee",
+   "detail": "A noindex campaign page — not linked from the main site navigation, consistent with paid-traffic use — pitches self-serve, barista-quality coffee for hotel lobbies, breakfast and in-room service, naming Starbucks, Lavazza, Change Please, Pelican Rouge, Nescafe and miofino as brand partners. Points at a hospitality-vertical push alongside Selecta's core office/vending business.",
+   "bridgeResponse": "Hospitality is a segment Bridge already serves (Four Seasons among others); worth watching whether Selecta's self-serve pitch reaches into managed coffee-bar accounts rather than staying lobby-vending only.",
+   "source": "https://www.selecta.com/uk/en/campaigns/coffee-solutions-hotels",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-08",
+   "competitorId": "clifton",
+   "category": "content",
+   "headline": "Clifton promotes its priciest microlot to the main shop mega-menu",
+   "detail": "Ombligon - Finca El Diviso (£15.00/120g) is now the lead image inside the Unparalleled Series link from Clifton's primary navigation, a more prominent placement than previously observed. The series itself is unchanged at three Colombian microlots, £15.00-£20.75/120g.",
+   "bridgeResponse": "Signals continued confidence in collector-grade pricing at the top of Clifton's range.",
+   "source": "https://cliftoncoffee.co.uk/collections/unparalleledseries",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-04",
    "competitorId": "origin",
    "category": "launch",

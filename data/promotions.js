@@ -1,7 +1,35 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-04",
+ "lastUpdated": "2026-09-08",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
+  {
+   "competitorId": "union",
+   "type": "offer",
+   "name": "SEPTEMBER20 - 20% off all coffees",
+   "detail": "Sitewide discount code, homepage banner links through to the full coffee collection - Union's first tracked blanket (rather than SKU-level) discount.",
+   "price": "20% off",
+   "source": "https://unionroasted.com/",
+   "spotted": "2026-09-08",
+   "counter": "Bridge holds list pricing on beans and leads on service and equipment value instead of sitewide discount codes."
+  },
+  {
+   "competitorId": "union",
+   "type": "coffee",
+   "name": "Miguel Perez Honduras (Limited Parcel)",
+   "detail": "New single-origin microlot in New Arrivals, notes of plum jam, cola and maple syrup, cup score 85.0.",
+   "price": "£13.75 / 200g",
+   "image": "https://unionroasted.com/cdn/shop/files/miguel-perez-coffee-recyclable-bag-with-two-large-cups_600x600_crop_center.png",
+   "source": "https://unionroasted.com/products/miguel-perez-honduras",
+   "spotted": "2026-09-08"
+  },
+  {
+   "competitorId": "selecta",
+   "type": "content",
+   "name": "Hotel self-serve coffee campaign page",
+   "detail": "Hidden (noindex) landing page targeting hotels, naming Starbucks, Lavazza, Change Please, Pelican Rouge, Nescafe and miofino as partner brands for lobby, breakfast and in-room coffee.",
+   "source": "https://www.selecta.com/uk/en/campaigns/coffee-solutions-hotels",
+   "spotted": "2026-09-08"
+  },
   {
    "competitorId": "origin",
    "type": "coffee",
