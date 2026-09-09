@@ -1,7 +1,39 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-08",
+ "lastUpdated": "2026-09-09",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Gathiruini (Kenya, Komothai Farmers Cooperative Society)",
+   "detail": "Washed peaberry from Githunguri, Kiambu County at 1,600–1,700 masl; SL28, SL34, Ruiru 11 and Batian. Peach, cranberry and caramel. FOB $4.60/lb, 156 per cent above the Fairtrade minimum, cup score 87, relationship since 2026. First Kenyan lot tracked on the Origin rail.",
+   "price": "£13.75 / 250g (also 1kg)",
+   "source": "https://www.origincoffee.co.uk/products/gathiruini",
+   "spotted": "2026-09-09",
+   "counter": "Match the disclosure, not the price. Bridge publishes bean pricing at £10–£20/kg openly; putting FOB paid and cup score alongside the Roots Collection certifications closes the gap."
+  },
+  {
+   "competitorId": "ucc",
+   "type": "coffee",
+   "name": "Ueshima House Blend RFA Beans 10 x 500g — sold out",
+   "detail": "UCC's signature blend is out of stock (og:availability: oos, 'Sold Out' in place of add to cart) with the £86.20 case price still on display. The listing also renders a faulty 'Save £-86.20' label. The shortage has now reached the flagship line after moving through Grand Café and the Lyons bag formats.",
+   "price": "£86.20 / 10 x 500g (sold out)",
+   "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/products/House.png?v=1681808759",
+   "source": "https://www.ucc-coffee-direct.co.uk/products/ueshima-house-blend-rfa-10-x-500g",
+   "spotted": "2026-09-09",
+   "counter": "Bridge roasts its own coffee in Cardiff and holds its own stock. Where an account is on Ueshima House Blend, offer a matched blend and put the delivery commitment in writing."
+  },
+  {
+   "competitorId": "liquidline",
+   "type": "machine",
+   "name": "Schaerer Coffee Soul 12 — Fresh Milk",
+   "detail": "Lease from £97.50 per week, also available to buy outright on 3 or 5 year terms, with a 'Refurbished Available' badge on the page. Corrects a stale shop-window record that still showed £94.50; the rate has in fact held at £97.50 since 31 July, its longest stable run since June. Page last modified 30 July.",
+   "price": "Lease from £97.50 / week",
+   "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
+   "spotted": "2026-09-09",
+   "counter": "£97.50 a week is roughly £5,070 a year before coffee, and the lease term is where the cost sits. Bridge publishes callout and service-contract pricing so the whole-life figure can be compared, not just the headline weekly rate."
+  },
   {
    "competitorId": "union",
    "type": "offer",
@@ -1115,7 +1147,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "£14.20 / 250g",
    "source": "https://www.origincoffee.co.uk/products/kibira-hill-honey",
    "spotted": "2026-07-15",
-   "counter": "Our Roots Collection carries certified Fairtrade/Organic/Rainforest Alliance origins at published pricing year-round, not as a single-week feature."
+   "counter": "Our Roots Collection carries certified Fairtrade/Organic/Rainforest Alliance origins at published pricing year-round, not as a single-week feature.",
+   "ended": "2026-09-09"
   },
   {
    "competitorId": "union",
@@ -1661,7 +1694,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Schaerer_Soul_10_5.png",
    "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/schaerer-coffee-soul-12-fresh-milk/",
    "spotted": "2026-06-11",
-   "counter": "Weekly-lease pitches hide service costs. Quote total cost of ownership with our published callout and contract pricing."
+   "counter": "Weekly-lease pitches hide service costs. Quote total cost of ownership with our published callout and contract pricing.",
+   "ended": "2026-09-09"
   },
   {
    "competitorId": "selecta",

@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-09-08",
+ "lastUpdated": "2026-09-09",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -260,6 +260,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
    "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
    "currentFocus": [
+    "The stock problem has reached the flagship: Ueshima House Blend, the line UCC's own copy calls its signature blend, is sold out with the £86.20 case price still displayed and a broken 'Save £-86.20' label on the page — a supply gap that has now worked through Grand Café and Lyons and into the core (9 Sep)",
     "The shop front is now a single campaign: the machine collection is down to two SKUs, one of them a sold-out flask, while the homepage, a dedicated callback landing page and a rebuilt product page all funnel to the same Dr Coffee M12 Plus enquiry form (1 Sep)",
     "Execution is lagging intent — the M12 Plus price is back on the listing at £2,999.99 while the machine is out of stock, the two campaign pages publish footprints that differ by 22cm, and the July-dated summer promotion is still linked in the footer with no autumn replacement (1 Sep)",
     "Supply is rotating rather than resolving: Ueshima's two core blends have recovered, but Grand Café Fair Trade 10x500g and Ueshima Fuji Mountain are out and the whole Lyons coffee bag format is unavailable despite Lyons beans being fine (1 Sep)",
@@ -418,6 +419,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "Origin has opened Kenya on the rail with Gathiruini at £13.75, published with FOB $4.60/lb, +156 per cent on the Fairtrade minimum and a cup score of 87, while Burundi's Kibira Hill has dropped out of the collection and the country filter — one in, one out, with transparency doing the selling (9 Sep)",
     "Fellow Series 1 giveaway winner still unpublished - now six days past its own 2 September announcement date, at least a fourth consecutive pass with the same unresolved thread (8 Sep)",
     "La Huella is back on the rail — a single Mierisch plot in Nicaragua released across four processes, with the Natural at £17.70 and a Dwarf Gesha at £16.20. A returning seasonal collection (previous runs in 2020 and 2024), likely live since early August and missed on earlier passes rather than new this week (3 Sep)",
     "The range contraction flagged on 1 September has reversed: All Coffee is back to seventeen lines, refilled at the premium end by the La Huella lots and by capsule versions of Tres Meninas (£6.00) and Atlas Decaf (£6.50). Read last week's fourteen as rotation timing, not a range cut (3 Sep)",

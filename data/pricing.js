@@ -670,6 +670,23 @@ window.BCR=window.BCR||{};window.BCR.price={
      "change": "New listing — no prior price; sits between House Filter at £11.00 and Cadence at £14.00 on the standard rail"
     }
    ]
+  },
+  {
+   "date": "2026-09-09",
+   "entries": [
+    {
+     "competitorId": "origin",
+     "item": "Gathiruini (Kenya, peaberry)",
+     "price": "£13.75 / 250g",
+     "change": "New listing — no prior price. Sits mid-rail, above Pathfinder at £12.95 and below Atlas Decaf at £14.75"
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Schaerer Coffee Soul 12 lease",
+     "price": "£97.50 / week",
+     "change": "No change vs 25 Aug — fifth consecutive pass at £97.50, verified on the product page. Recorded to correct a stale shop-window entry that still showed £94.50"
+    }
+   ]
   }
  ]
 };

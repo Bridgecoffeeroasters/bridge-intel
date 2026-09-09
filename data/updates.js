@@ -1,6 +1,46 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-09",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "UCC's own signature blend, Ueshima House Blend, is now sold out",
+   "detail": "The Ueshima House Blend RFA 10 x 500g case is flagged out of stock in the page metadata (og:availability: oos) and shows 'Sold Out' in place of an add-to-cart button, with the £86.20 price still displayed. Over the past fortnight the shortage has moved through Grand Café Fair Trade and the Lyons bag formats and has now reached UCC's signature line — the blend the site describes as 'our signature blend'. The same page renders a broken discount label reading 'Save £-86.20', which suggests the listing has not been reviewed since going out of stock.",
+   "bridgeResponse": "Continuity is the whole argument. Bridge roasts in Cardiff and controls its own stock, so a house blend does not go dark for weeks at a time. Where a prospect is running Ueshima House Blend, put a matched Bridge blend in front of them with a written delivery commitment attached.",
+   "source": "https://www.ucc-coffee-direct.co.uk/products/ueshima-house-blend-rfa-10-x-500g",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-09-09",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Kenya joins the Origin rail with Gathiruini at £13.75",
+   "detail": "Gathiruini, a washed Kenyan peaberry from the Komothai Farmers Cooperative Society in Githunguri, Kiambu County, is live at £13.75 for 250g with a 1kg option. Origin publishes FOB of $4.60/lb, 156 per cent above the Fairtrade minimum, a cup score of 87 and 'relationship since 2026' — a first-season sourcing relationship rather than an established one. Kenya now appears as a country filter on the coffee collection for the first time in this record.",
+   "bridgeResponse": "The benchmark to match here is the transparency page, not the coffee. Bridge already publishes bean pricing openly at £10–£20/kg; adding FOB paid and cup score to Roots Collection line sheets would close the one gap Origin can currently point at.",
+   "source": "https://www.origincoffee.co.uk/products/gathiruini",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-09",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Burundi leaves the Origin rail as Kenya arrives",
+   "detail": "Kibira Hill, the Burundi single origin carried since mid-July at £14.20, no longer appears in the main coffee collection and Burundi has dropped out of that page's country filter. The individual product pages still resolve, so this reads as de-merchandising rather than deletion. Recorded here as a one-in, one-out rotation against the Kenyan arrival, though Origin has not framed it that way and the timing may be coincidental.",
+   "bridgeResponse": "Worth noting rather than answering. Fast origin rotation suits a retail rail but is the opposite of what a wholesale account needs, and Bridge's position stays continuity of blend for customers who have to serve the same cup every day.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-09",
+   "competitorId": "origin",
+   "category": "content",
+   "headline": "Origin publishes its free-delivery threshold at two different figures on the same page",
+   "detail": "The Gathiruini product page carries 'Free delivery on orders over £35' in the header and 'Free Royal Mail Tracked 48 delivery on all orders over £35' in the shipping panel, while the cart bar on the same page reads 'Free UK delivery over £25'. Which figure applies at checkout has not been tested from here, so the direction of the error is unconfirmed. Minor, but it sits on a conversion-critical message.",
+   "bridgeResponse": "A prompt to audit our own numbers for the same drift. Publishing prices only works if they agree everywhere — £185 callouts and £500–£2k service contracts should read identically on the website, the quote template and the contract.",
+   "source": "https://www.origincoffee.co.uk/products/gathiruini",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-08",
    "competitorId": "origin",
    "category": "strategy",
