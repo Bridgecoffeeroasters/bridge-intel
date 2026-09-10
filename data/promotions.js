@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-09",
+ "lastUpdated": "2026-09-10",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
   {
@@ -569,7 +569,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "detail": "New single origin — lavender, pineapple, strawberry.",
    "price": "£20.70 / 250g",
    "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
-   "spotted": "2026-08-19"
+   "spotted": "2026-08-19",
+   "ended": "2026-09-10"
   },
   {
    "competitorId": "origin",
@@ -2350,7 +2351,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "from £20.70",
    "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
    "spotted": "2026-08-06",
-   "counter": "Two lines now above £20 a bag. That is a collector price, not a cost-per-cup a café can build a menu on — which is where Bridge's published £10-£20/kg wholesale range does the work."
+   "counter": "Two lines now above £20 a bag. That is a collector price, not a cost-per-cup a café can build a menu on — which is where Bridge's published £10-£20/kg wholesale range does the work.",
+   "ended": "2026-09-10"
   },
   {
    "competitorId": "clifton",
@@ -2380,7 +2382,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "£14.40",
    "source": "https://www.origincoffee.co.uk/products/mariposa",
    "spotted": "2026-09-04",
-   "counter": "A retail micro-lot, not a wholesale line. We publish £10–£20 a kilo and supply the machine and the engineer alongside it; this is a different purchase and we should not pitch against it directly."
+   "counter": "A retail micro-lot, not a wholesale line. We publish £10–£20 a kilo and supply the machine and the engineer alongside it; this is a different purchase and we should not pitch against it directly.",
+   "ended": "2026-09-10"
   },
   {
    "competitorId": "origin",
@@ -2400,6 +2403,27 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "£17.40 (sold out)",
    "source": "https://www.origincoffee.co.uk/collections/coffee",
    "spotted": "2026-09-04"
+  },
+  {
+   "competitorId": "liquidline",
+   "type": "machine",
+   "name": "Liquidline Q2 – Powdered Milk (own-brand bean-to-cup)",
+   "detail": "Own-brand bean-to-cup listed on the machine grid with a published weekly rate, one rung above the Q1 Evo at £16.50. May have been on the ladder previously without being logged individually.",
+   "price": "from £23.00 / week",
+   "image": "https://www.liquidline.co.uk/content/uploads/2025/08/Liquidline-Q2-800x800px-150dpi.png",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-q2-powdered-milk/",
+   "spotted": "2026-09-10",
+   "counter": "A weekly rate is not a cost of ownership. Put the Bridge figure next to it in full: machine, service contract at £500–£2,000 a year, callouts at £185, water and training — all published, none of it discovered later."
+  },
+  {
+   "competitorId": "ucc",
+   "type": "coffee",
+   "name": "Ueshima RFA Fuji Mountain Beans 6 x 200g — sold out",
+   "detail": "Second Ueshima bean format to show sold out in two days, price unchanged on the shelf edge. Earlier passes recorded the price but not the stock state, so the sell-out may pre-date this week.",
+   "price": "£39.64 / 6 x 200g (sold out)",
+   "source": "https://www.ucc-coffee-direct.co.uk/products/ueshima-rfa-fuji-mountain-beans-6-x-200g",
+   "spotted": "2026-09-10",
+   "counter": "Availability is the whole argument. Bridge roasts to order in Cardiff on a fixed weekly schedule, and the same blend is there in October as in September."
   }
  ]
 };

@@ -1,6 +1,96 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-10",
+   "competitorId": "union",
+   "category": "campaign",
+   "headline": "SEPTEMBER20 is promoted from a banner strip to the full homepage hero",
+   "detail": "\"September, sorted. 20% off all coffees. Use code: SEPTEMBER20\" now occupies the homepage hero slot rather than sitting as a strip above it. No closing date is published anywhere on the site. Summer Blend is still in new arrivals at £10.75/200g and no autumn blend has appeared, so a blanket discount is doing the work a seasonal launch would normally do.",
+   "bridgeResponse": "A sitewide 20 per cent is a volume move, not a positioning move, and it resets what a Union bag is worth in the buyer's head. Bridge does not discount the roast to fill a month; our published wholesale range of £10–£20/kg is the price all year, which is what a caterer costing a menu actually needs.",
+   "source": "https://unionroasted.com/",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "Every Grand Café line is shipping in temporary packaging while UCC works on its plant",
+   "detail": "The Grand Café FairTrade Decaf Beans (£75.63 per 20 x 200g) and Grand Café Fairtrade Decaf Pods (£52.30 per 200 x 14g) product pages both carry the same notice: due to ongoing works in the manufacturing plant, all Grand Café products are in temporary packaging. The wording is range-wide rather than SKU-specific, which points at a production constraint rather than a single print run. Prices are unchanged and the lines remain orderable.",
+   "bridgeResponse": "Worth a quiet word with any site running Grand Café: unbranded packaging on a certified range is the kind of thing a venue manager notices before a buyer does. Bridge roasts and packs in Cardiff, so pack format and label sit with us rather than with a third-party plant's maintenance schedule.",
+   "source": "https://www.ucc-coffee-direct.co.uk/products/grand-cafe-ft-decaf-beans",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "ucc",
+   "category": "strategy",
+   "headline": "A second Ueshima bean format goes out of stock as Fuji Mountain sells out",
+   "detail": "Ueshima RFA Fuji Mountain Beans (6 x 200g) now shows sold out at an unchanged £39.64, a day after the House Blend case went the same way. Caveat: stock status for this SKU was not recorded on earlier passes, so it may have been unavailable for longer rather than selling out this week. Either way two Ueshima bean formats are currently unbuyable while the Grand Café range is in temporary packaging.",
+   "bridgeResponse": "Three of UCC's four owned ranges now have either a stock or a packaging problem. Availability is the argument to make: Bridge holds green in Cardiff and roasts to order, and a customer can see the contract terms and the callout rate before they sign.",
+   "source": "https://www.ucc-coffee-direct.co.uk/products/ueshima-rfa-fuji-mountain-beans-6-x-200g",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Mariposa drops out of the Mierisch anniversary range six days after it was split out",
+   "detail": "Mariposa | 15 Year Mierisch Anniversary, logged at £14.40 on 4 September, no longer appears in either the all-coffee collection (16 lines) or the single-origin collection (8 lines), and its product page now returns an empty document. La Huella remains sold out at £17.40. Of the four processes released on 3 September, only Chilamate at £13.75 is straightforwardly buyable.",
+   "bridgeResponse": "Origin's anniversary release has lasted a week in a saleable state. That is the cost of a rail built on scarcity, and it is the gap Bridge fills for a multi-site operator who needs the same cup in twelve venues next month, not a story that sells out.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "El Paseo, the ceiling of the Origin rail at £20.70, is no longer listed",
+   "detail": "El Paseo does not appear in the all-coffee or single-origin collections on this pass. Caveat: the product page was not tested directly, so this is inferred from absence on the collection pages rather than confirmed removal, and it may return. If it has gone, the visible top of the rail drops from £20.70 to La Huella Natural at £17.70.",
+   "bridgeResponse": "Note it and check again next pass rather than using it in a conversation yet. The pattern is the point: Origin's premium tier turns over faster than a contract customer can build a menu around it.",
+   "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "liquidline",
+   "category": "launch",
+   "headline": "A Q2 appears in the own-brand bean-to-cup line-up at £23.00 a week",
+   "detail": "Liquidline Q2 – Powdered Milk is listed on the bean-to-cup grid at from £23.00 per week, sitting above the Q1 Evo at £16.50. Caveat: the lease ladder was previously recorded in aggregate (25 SKUs, £14.00–£101.50), so the Q2 may have been present and simply not logged individually rather than being newly added. Either way the own-brand range now reads K1, K2, Q1 and Q2, and unlike the K2 it still publishes a rate.",
+   "bridgeResponse": "Relevant to our own machine range work: Liquidline are laddering own-brand SKUs by weekly rate, not by specification. When we take Apex, Pulse, Core, Aero and Axis to market the ladder needs to be legible on capability, and the Aero milk fridge must be in every quote.",
+   "source": "https://www.liquidline.co.uk/commercial-coffee-machines/bean-to-cup/liquidline-q2-powdered-milk/",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "matthew-algie",
+   "category": "event",
+   "headline": "Matthew Algie is a named sponsor of Caffè Culture, not simply an exhibitor",
+   "detail": "The show's sponsors and partners page lists Matthew Algie as a sponsor of the 29–30 September event, alongside Gaggia, Dalla Corte and IRM. Sponsorship is a materially larger commitment than a stand, and it is the first visible marketing spend from a business whose own journal has published nothing dated 2026 and whose footer still reads 2025.",
+   "bridgeResponse": "The spend is going into the room rather than into the website. If we are at the show, the contrast to draw is continuity of service, not stand presence: UK-wide engineers, PSSR, published callout at £185 and contracts at £500–£2,000 a year.",
+   "source": "https://www.caffecultureshow.com/home/visit/sponsors-partners",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "clifton",
+   "category": "award",
+   "headline": "Clifton puts the Great Taste award for E1 Project Espresso on the record",
+   "detail": "The awards and recognition page now carries the line \"August 2026 — Awarded 'Great Taste Award' for E1 Project Espresso\", closing the gap flagged on 1 and 4 September when the marque was on the packaging artwork but nowhere in Clifton's own copy. The coffee itself is unchanged at £12.00 per 250g.",
+   "bridgeResponse": "Clifton now has a dated, third-party quality claim on a £12 espresso, which is the tier most of our wholesale conversations sit in. Answer with cup evidence rather than counter-claims: SCA-trained QC, published scores, and a sample against their E1 in front of the buyer.",
+   "source": "https://cliftoncoffee.co.uk/pages/awards-recognition",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-10",
+   "competitorId": "selecta",
+   "category": "strategy",
+   "headline": "The withdrawn refurbished machine page now redirects rather than sitting orphaned",
+   "detail": "The former services-we-offer/refurbished-machines address 301-redirects to the general vending machines page, and refurbished stock survives only as a single FAQ line. That tidies the dead page flagged on 1 September, although the programme is still referred to elsewhere on the site with nothing behind the reference.",
+   "bridgeResponse": "Selecta have effectively left the refurbished conversation. Worth noting for the outlet machine project: the used and refurbished end of this market is being vacated by the large operators rather than contested.",
+   "source": "https://www.selecta.com/uk/en/vending-machines",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-09",
    "competitorId": "ucc",
    "category": "strategy",

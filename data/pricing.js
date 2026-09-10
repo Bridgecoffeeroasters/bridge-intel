@@ -687,6 +687,23 @@ window.BCR=window.BCR||{};window.BCR.price={
      "change": "No change vs 25 Aug — fifth consecutive pass at £97.50, verified on the product page. Recorded to correct a stale shop-window entry that still showed £94.50"
     }
    ]
+  },
+  {
+   "date": "2026-09-10",
+   "entries": [
+    {
+     "competitorId": "liquidline",
+     "item": "Liquidline Q2 – Powdered Milk lease",
+     "price": "£23.00 / week",
+     "change": "First time recorded. Sits between the Q1 Evo at £16.50 and the Schaerer Coffee Club at £35.00. Caveat: the ladder was previously logged in aggregate, so this may be a pre-existing rate rather than a new one."
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Ueshima RFA Fuji Mountain Beans 6 x 200g",
+     "price": "£39.64 / 6 x 200g (sold out)",
+     "change": "No change vs 1 Sep. Price held on the shelf edge while the line went out of stock."
+    }
+   ]
   }
  ]
 };

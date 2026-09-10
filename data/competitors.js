@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-09-09",
+ "lastUpdated": "2026-09-10",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -16,6 +16,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "HoReCa-weighted: cafés, hotels, education (TUCO), healthcare, workplace, contract catering, convenience and forecourt coffee-to-go.",
    "keyCustomers": "M&S, Tesco Ireland, National Trust for Scotland, Dobbies, Esquires, Hand Picked Hotels",
    "currentFocus": [
+    "Marketing spend is going into the room rather than the website: named as a Caffè Culture sponsor for 29–30 September alongside Gaggia and Dalla Corte, while the journal still holds nothing dated 2026 (10 Sep)",
     "Genuinely static: empty journal, footer still stamped 2025, 2025 modern slavery statement, and no news from Matthew Algie or parent Tchibo in the last seven days. The site is maintained but not marketed (1 Sep)",
     "The commercial hook stays ownership-led rather than lease-led — Easy Purchase, interest-free over 36–48 months, owning the machine from day one. That is the sharpest point of difference against Liquidline's weekly-rate model and it is a genuinely good offer (1 Sep)",
     "Proof strategy is retail and visitor-attraction logos — M&S, Tesco Ireland, National Trust for Scotland, Dobbies, Glasgow Science Centre, Handpicked Hotels — pointing at contract catering and destination sites rather than corporate offices (1 Sep)",
@@ -97,6 +98,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Very broad: offices, automotive, care homes, healthcare, education, hotels, garden centres, golf, aviation, commercial landlords.",
    "keyCustomers": "VW, Audi, Virgin, Holiday Inn, Butlin's, 22 Bishopsgate",
    "currentFocus": [
+    "The own-brand ladder now reads K1, K2, Q1 and Q2, with the Q2 – Powdered Milk publishing from £23.00 a week while both K2 variants stay price-hidden. Own-brand hardware laddered by weekly rate rather than by specification (10 Sep)",
     "Marketing has been dark for seven weeks — no content since 28 July, homepage untouched since 15 July, no offer anywhere on the site — while product pages stay current, so resource has moved off publishing rather than the site being abandoned (1 Sep)",
     "Pricing posture is drifting: both best-selling K2 variants and the Jura WE8 now show 'Contact Us' while forty-plus other machines still publish a from-price. High-intent enquiries are being gated behind a conversation (1 Sep)",
     "In place of campaign activity they are leaning on third-party proof, dropping Trustpilot volume and rating claims directly into the product grid (1 Sep)",
@@ -178,6 +180,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Medium-to-large workplaces, distribution centres, hospitals, transport hubs, leisure.",
    "keyCustomers": "Gym Group (case study), national enterprise accounts",
    "currentFocus": [
+    "The refurbished machine programme is now formally gone — the old page 301-redirects to the vending range and refurbished stock survives only in an FAQ line, though stale references remain elsewhere on the site (10 Sep)",
     "New hidden (noindex) hotel-sector landing page pitches self-serve coffee for hotel lobbies, breakfast and in-room service, naming Starbucks, Lavazza, Change Please, Pelican Rouge, Nescafe and miofino as partners - a hospitality-vertical push alongside the core office/vending business (8 Sep)",
     "Group communications have restarted after nine months, and the chosen re-entry point is an EcoVadis Silver rating rather than trading or contract news; the UK newsroom remains dormant with nothing surfaced since February (1 Sep)",
     "The UK proposition is tilting toward unattended retail and hydration — Duo 850, Duo 600 and Instant Single smart fridges now head the vending range, and the most recent UK story argues on YouGov data that Gen Z is drinking less coffee (1 Sep)",
@@ -260,6 +263,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
    "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
    "currentFocus": [
+    "Three of the four owned ranges now carry a supply problem: Ueshima House Blend and Fuji Mountain both sold out, and the whole Grand Café range is shipping in temporary packaging while plant works continue. Prices are being held on the shelf edge regardless (10 Sep)",
     "The stock problem has reached the flagship: Ueshima House Blend, the line UCC's own copy calls its signature blend, is sold out with the £86.20 case price still displayed and a broken 'Save £-86.20' label on the page — a supply gap that has now worked through Grand Café and Lyons and into the core (9 Sep)",
     "The shop front is now a single campaign: the machine collection is down to two SKUs, one of them a sold-out flask, while the homepage, a dedicated callback landing page and a rebuilt product page all funnel to the same Dr Coffee M12 Plus enquiry form (1 Sep)",
     "Execution is lagging intent — the M12 Plus price is back on the listing at £2,999.99 while the machine is out of stock, the two campaign pages publish footprints that differ by 22cm, and the July-dated summer promotion is still linked in the footer with no autumn replacement (1 Sep)",
@@ -340,6 +344,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Independent cafés to multi-site operators, restaurants, supermarkets, consumers. Less visible in offices and contract catering.",
    "keyCustomers": "Sainsbury's, Waitrose, Ocado; Company of Cooks collaboration",
    "currentFocus": [
+    "The September discount has been escalated to the homepage hero — 20 per cent off every coffee, code SEPTEMBER20, no published end date — while Summer Blend is still in new arrivals and no autumn blend exists. A blanket discount is standing in for a seasonal launch (10 Sep)",
     "First sitewide discount tracked: 20% off all coffees (code SEPTEMBER20) live on the homepage, a step up from previous SKU-level promotions; new Limited Parcel microlot Miguel Perez Honduras added at £13.75/200g (8 Sep)",
     "Still trading a summer proposition on 1 September: Summer Blend remains the homepage hero at £10.75/200g with no autumn or winter blend anywhere in the navigation and no seasonal campaign prepared (1 Sep)",
     "Editorial silence approaching twelve months — the Excelsa piece of 3 October 2025 is still the most recent thing they have published (1 Sep)",
@@ -419,6 +424,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "The Mierisch anniversary release is already breaking up — Mariposa has gone from the rail six days after being split out, La Huella is still sold out, and El Paseo has dropped off the collection pages, taking the visible ceiling from £20.70 to £17.70 (10 Sep)",
     "Origin has opened Kenya on the rail with Gathiruini at £13.75, published with FOB $4.60/lb, +156 per cent on the Fairtrade minimum and a cup score of 87, while Burundi's Kibira Hill has dropped out of the collection and the country filter — one in, one out, with transparency doing the selling (9 Sep)",
     "Fellow Series 1 giveaway winner still unpublished - now six days past its own 2 September announcement date, at least a fourth consecutive pass with the same unresolved thread (8 Sep)",
     "La Huella is back on the rail — a single Mierisch plot in Nicaragua released across four processes, with the Natural at £17.70 and a Dwarf Gesha at £16.20. A returning seasonal collection (previous runs in 2020 and 2024), likely live since early August and missed on earlier passes rather than new this week (3 Sep)",
@@ -518,6 +524,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Hospitality and cafés from independents to multi-site groups; strong South West base with national reach; consumers via Shopify.",
    "keyCustomers": "Bristol multi-site hospitality groups; Bristol Flyers sponsorship",
    "currentFocus": [
+    "The Great Taste award for E1 Project Espresso is now formally logged on the awards page, dated August 2026 — a dated third-party quality claim on a £12 espresso, in the tier most wholesale conversations sit in (10 Sep)",
     "Ombligon - Finca El Diviso now the lead tile linking into the Unparalleled Series from the main navigation; the series itself holds at three Colombian microlots, £15-£20.75/120g (8 Sep)",
     "The most commercially active of the tracked roasters: a new Mexico – Sierra Mazateca single origin landed on the rail at from £13.00 within days, with Mexico added as its own country filter (1 Sep)",
     "Diversifying beyond coffee — Clifton Matcha at £18.00/100g is now the single promoted tile in the shop mega-menu site-wide, with a new Matcha and Chai category, Guatemala Cascara Tea from £6.50 and a home brewing equipment range built out to 37 lines (1 Sep)",
