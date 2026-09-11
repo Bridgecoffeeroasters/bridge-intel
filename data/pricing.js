@@ -34,6 +34,17 @@ window.BCR=window.BCR||{};window.BCR.price={
  ],
  "snapshots": [
   {
+   "date": "2026-09-11",
+   "entries": [
+    {
+     "competitorId": "origin",
+     "item": "Mahlkönig X54 Home Grinder (sale price)",
+     "price": "£424.95 (was £499.95) — appears back in stock",
+     "change": "Order Now / add-to-cart flow active again today, having shown sold out on 4 Sep. Discount unchanged at 15%. Caveat: the product template still carries leftover 'Notify Me When Available' markup, so this reads as back in stock rather than confirmed — worth re-checking tomorrow."
+    }
+   ]
+  },
+  {
    "date": "2026-09-04",
    "entries": [
     {

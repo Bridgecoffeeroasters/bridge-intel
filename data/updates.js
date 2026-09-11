@@ -1,6 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-11",
+   "competitorId": "matthew-algie",
+   "category": "award",
+   "headline": "Matthew Algie shortlisted for two Glasgow Business Awards 2026",
+   "detail": "Shortlisted for \"Best Performing Large Business\" (sponsored by Virgin Money) and \"Sustainable Development\" (sponsored by Scottish Water) in the Glasgow Chamber of Commerce's Glasgow Business Awards; shortlist published 11 August, ceremony scheduled for 1 October 2026. Consistent with a company whose marketing effort goes into rooms and trade bodies rather than its own website, which remains static.",
+   "bridgeResponse": "Worth watching the result on 1 October, but no action needed now. Their pattern of investing in local business-community standing rather than digital marketing is a genuine point of difference worth noting for our own Cardiff and South Wales trade presence.",
+   "source": "https://www.glasgowchamberofcommerce.com/news/news/2026/august/11/the-glasgow-business-awards-unveils-2026-shortlist-as-public-vote-for-glasgows-favourite-business-opens/",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-10",
    "competitorId": "union",
    "category": "campaign",
