@@ -715,6 +715,77 @@ window.BCR=window.BCR||{};window.BCR.price={
      "change": "No change vs 1 Sep. Price held on the shelf edge while the line went out of stock."
     }
    ]
+  },
+  {
+   "date": "2026-09-21",
+   "entries": [
+    {
+     "competitorId": "ucc",
+     "item": "Dr Coffee M12 Plus — product page metadata",
+     "price": "£2,999.99",
+     "change": "−£66.00 (−2.2%) vs £3,065.99 on 25 Aug. Metadata and collection grid now agree; the product page body still shows no price at all and the machine is still out of stock."
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Ueshima Matcha Syrup 1L",
+     "price": "£27.50 / 1L",
+     "change": "First price recorded — the banner was logged on 17 Sep with no figure. Sold on a cost-per-serving claim: 60-plus servings, 'under 50p per serving'."
+    },
+    {
+     "competitorId": "ucc",
+     "item": "Grand Café Fair Trade Beans 10 x 500g",
+     "price": "£83.69 / 10 x 500g (sold out)",
+     "change": "First price recorded for this line. Held on the shelf edge while out of stock, as with the earlier Ueshima stock-outs."
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Franke SB1200 – Fresh Milk lease",
+     "price": "£101.50 / week",
+     "change": "First time verified against a named SKU. Confirms the top of the ladder logged in aggregate on 6 Aug as £14.00–£101.50; not a rate increase."
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Liquidline Q3 – Powdered Milk lease",
+     "price": "£33.00 / week",
+     "change": "First time recorded. A fifth own-brand tier, above the Q2 at £23.00 and below the Schaerer Coffee Club at £35.00. Caveat: the ladder was previously logged in aggregate, so this may be pre-existing rather than new."
+    },
+    {
+     "competitorId": "liquidline",
+     "item": "Schaerer Coffee Soul 10 Fresh Milk / Coffee Skye lease",
+     "price": "£92.00 / week; £59.00 / week",
+     "change": "First time recorded for both. Also verified this pass: La Spaziale S21 2 Group Takeaway Compact £28.00, Coffetek Vitro S5 £26.50, Vitro S2 Instant £23.00. No baseline rate changed."
+    },
+    {
+     "competitorId": "union",
+     "item": "José Fernando, Guatemala (Limited Parcel)",
+     "price": "£12.35 / 200g; £49.50 / 1kg",
+     "change": "New listing — no prior price. The 1kg sits below João Hamilton at £55.50 and is roughly two and a half times Bridge's published £20/kg wholesale ceiling."
+    },
+    {
+     "competitorId": "union",
+     "item": "Sitewide discount SEPTEMBER20",
+     "price": "Withdrawn",
+     "change": "20% off all coffees is gone from the homepage and collections after roughly thirteen days, with no end date ever published and nothing replacing it. Effective list prices are back to full."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Speciality coffee range ceiling",
+     "price": "£15.75 / 250g (Umalila)",
+     "change": "−£4.95 vs the £20.70 ceiling on 3 Sep. La Huella Natural (£17.70), La Huella Dwarf Gesha (£16.20) and Chilamate (£13.75) have all left the collection, clearing the Mierisch anniversary range entirely."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Arsosala (Uraga, Guji, Ethiopia)",
+     "price": "£14.70 / 250g",
+     "change": "New listing — no prior price. Sits second on the rail behind Umalila at £15.75 and above Atlas Decaf at £14.75. Published with FOB $4.92/lb, +173% on the Fairtrade minimum, cup score 88."
+    },
+    {
+     "competitorId": "clifton",
+     "item": "Blend Friends — Clifton Coffee x Oddkin",
+     "price": "£15.00 / 250g",
+     "change": "New listing — no prior price. Clifton's most expensive 250g bag, £1.00 above Cadence, Finca Las Flores and the decafs, and level with Ombligon's 120g price. The £11–£14 standard rail is unchanged for a third month."
+    }
+   ]
   }
  ]
 };
