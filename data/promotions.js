@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-21",
+ "lastUpdated": "2026-09-24",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
   {
@@ -2683,6 +2683,17 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "source": "https://cliftoncoffee.co.uk/products/dark-hot-chocolate-500g",
    "spotted": "2026-09-21",
    "counter": "Third competitor this year to widen into adjacent hot drinks. Relevant to the US hot chocolate powder work."
+  },
+  {
+   "competitorId": "matthew-algie",
+   "type": "campaign",
+   "name": "Supporting Fairtrade Fortnight (21 September to 4 October)",
+   "detail": "Homepage panel on the 'do it fair' theme, pointing to social content across the fortnight. No product or offer attached.",
+   "price": "None",
+   "image": "https://www.matthewalgie.com/media/atvfkbnv/ffairtrade-final.png",
+   "source": "https://www.matthewalgie.com/",
+   "spotted": "2026-09-24",
+   "counter": "Lead with the Roots Collection's triple certification — Fairtrade, Organic and Rainforest Alliance — and a published price, before 4 October."
   }
  ]
 };

@@ -1,6 +1,16 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-24",
+   "competitorId": "matthew-algie",
+   "category": "campaign",
+   "headline": "Matthew Algie puts Fairtrade Fortnight on its homepage",
+   "detail": "A 'Supporting Fairtrade Fortnight' panel now sits on the Matthew Algie homepage, covering the 21 September to 4 October campaign and its 'do it fair' theme (people, planet and fair pay). It positions the business as a Fairtrade supplier and points visitors to its social channels for content across the fortnight. No offer, price or product is attached. The fortnight began on the day of the last refresh, so the panel may have gone live on 21 September rather than since; it was not recorded then. Social content itself was not visible from the public pages.",
+   "bridgeResponse": "Matthew Algie has the heritage claim here (first UK Fairtrade espresso, 1997) and more social reach. Our answer is specificity rather than volume: the Roots Collection is certified Fairtrade, Organic and Rainforest Alliance, and we publish the bean price (£10–£20/kg). Worth a Roots post before 4 October so we are visible in the same window.",
+   "source": "https://www.matthewalgie.com/",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-21",
    "competitorId": "selecta",
    "category": "strategy",
