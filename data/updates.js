@@ -1,6 +1,56 @@
 window.BCR=window.BCR||{};window.BCR.upd={
  "updates": [
   {
+   "date": "2026-09-25",
+   "competitorId": "ucc",
+   "category": "launch",
+   "headline": "Sanremo Zoe and D8 espresso machines appear on UCC's trade shop",
+   "detail": "Four Sanremo traditional machines — Zoe Compact Tall, Zoe Tall, D8 UCC Spec and D8 Pro — now sit in the UCC Direct coffee machines collection under a Sanremo brand filter, each with a purchase-or-lease callback form. Stated capacities are up to 150 cups a day for the Zoe Compact and up to 350 for both D8 variants (32A for the UCC Spec, 13A for the Pro), with a 12-month warranty conditional on BRITA filtration. Image timestamps suggest the listings went up around 22–23 September, a week before Caffè Culture. All four show £2,999.99 and are marked sold out; that figure is identical to the Dr Coffee M12 Plus and several descriptions reuse the Zoe Compact copy, so the price is probably a placeholder rather than a real quote. This is the first visible retail expression of the February UCC–Sanremo partnership.",
+   "bridgeResponse": "This puts UCC in front of the same Sanremo buyers we serve, with the same badge on the machine. The difference is everything behind it: the listings are sold out with a copied price and a callback form, while we install, service and train on Sanremo today with directly employed engineers, a published £185 callout and service contracts at £500–£2,000 a year. Sales should expect Zoe and D8 quotes from UCC and lead on availability, service response and total cost of ownership.",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-machines",
+   "severity": "threat"
+  },
+  {
+   "date": "2026-09-25",
+   "competitorId": "selecta",
+   "category": "content",
+   "headline": "Selecta publishes a three-part 'return to the office' series aimed at HR buyers",
+   "detail": "Three stories dated 24 September — 'Making the office worth the commute', 'Your office is part of your employer brand now' and 'The business case for workplace refreshments' — argue that workplace coffee is a low-cost lever for retention and office attendance, citing Leesman, the BCO, Randstad, King's College London, Gallup and the CIPD. All three point to a gated guide on the employer-brand theme. It is the first substantive UK content from Selecta in months, and it is written for people and HR leaders rather than facilities managers.",
+   "bridgeResponse": "The employer-brand argument is a fair one and it suits us better than vending: speciality coffee, barista-standard equipment and SCA training are what make an office worth the commute. Worth pointing to Salesforce Tower as proof, and giving the HR buyer something Selecta will not — a published price.",
+   "source": "https://www.selecta.com/uk/en/stories/your-office-is-part-of-your-employer-brand",
+   "severity": "watch"
+  },
+  {
+   "date": "2026-09-25",
+   "competitorId": "matthew-algie",
+   "category": "event",
+   "headline": "Matthew Algie no longer appears on Caffè Culture's sponsors page",
+   "detail": "The show's current sponsors and partners page lists Square, Brew-It Group, CTW-UK, Brades Farm, BRITA and Green Rock; Matthew Algie, recorded as a named sponsor on 10 September, is not among them. It may have moved to exhibitor status, the page may have been restructured, or the earlier listing may have been read from a different page — this could not be confirmed from the exhibitor list. The show runs 29–30 September.",
+   "bridgeResponse": "No change to how we play the show. If Matthew Algie is there, the contrast remains service continuity rather than stand presence.",
+   "source": "https://www.caffecultureshow.com/sponsor-partners",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-25",
+   "competitorId": "origin",
+   "category": "launch",
+   "headline": "Origin adds a 'final' Mierisch lot and a Rwandan natural as the rail refills",
+   "detail": "Mama Mina, a Red Pacamara cold anoxic natural from the Mierisch family in Nicaragua, is listed at £15.50/250g with FOB $6.50/lb and a cup score of 86.5, and described as the last Mierisch coffee of the season — so the anniversary thread did not fully close on 21 September. Butembo Natural, a Rwandan Red Bourbon from the Lake Kivu area, arrives at £13.75 with FOB $5.50/lb and a cup score of 87. Neither has reviews yet, consistent with a release in the last few days, but launch dates could not be confirmed.",
+   "bridgeResponse": "More of the same very good transparency. Our counter remains supply continuity and published wholesale pricing (£10–£20/kg) against a rail that turns over weekly.",
+   "source": "https://www.origincoffee.co.uk/products/mama-mina",
+   "severity": "info"
+  },
+  {
+   "date": "2026-09-25",
+   "competitorId": "origin",
+   "category": "strategy",
+   "headline": "Umalila leaves Origin's coffee listing and the equipment sale runs out of stock",
+   "detail": "Umalila (£15.75), until now the top of the rail, no longer appears in the speciality coffee collection, which shows sixteen lines; its product page is still live at the same price, so it may have been pulled from the range rather than deleted. On the equipment sale page the discounted Sage Barista Pro (£583.95) and Mahlkönig X54 (£424.95) both now show 'Coming Soon', as does the £18 six-pack of Iced Black cans, so none of the discounted or RTD lines is currently buyable. The top of the range is now Mama Mina at £15.50.",
+   "bridgeResponse": "No action. Origin's retail discounting has effectively lapsed through stock rather than by decision.",
+   "source": "https://www.origincoffee.co.uk/collections/coffee-equipment-sale",
+   "severity": "info"
+  },
+  {
    "date": "2026-09-24",
    "competitorId": "matthew-algie",
    "category": "campaign",

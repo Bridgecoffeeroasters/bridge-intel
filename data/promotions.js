@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.promo={
- "lastUpdated": "2026-09-24",
+ "lastUpdated": "2026-09-25",
  "note": "What each competitor has in the shop window right now: the machines, coffees and offers front-and-centre on their websites and socials. Instagram and LinkedIn gate most post content, so social entries are limited to what surfaces publicly — the daily refresh records whatever is visible.",
  "items": [
   {
@@ -642,7 +642,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "detail": "New single origin, part of the rail refresh.",
    "price": "£15.75 / 250g",
    "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
-   "spotted": "2026-08-19"
+   "spotted": "2026-08-19",
+   "ended": "2026-09-25"
   },
   {
    "competitorId": "clifton",
@@ -1213,7 +1214,8 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "price": "from £15.75",
    "source": "https://www.origincoffee.co.uk/collections/single-origin-coffee-beans",
    "spotted": "2026-07-13",
-   "counter": "Rotating microlots at £15+ per bag; Bridge competes on consistent, in-stock house coffee at published £10–£20/kg."
+   "counter": "Rotating microlots at £15+ per bag; Bridge competes on consistent, in-stock house coffee at published £10–£20/kg.",
+   "ended": "2026-09-25"
   },
   {
    "competitorId": "clifton",
@@ -2694,6 +2696,57 @@ window.BCR=window.BCR||{};window.BCR.promo={
    "source": "https://www.matthewalgie.com/",
    "spotted": "2026-09-24",
    "counter": "Lead with the Roots Collection's triple certification — Fairtrade, Organic and Rainforest Alliance — and a published price, before 4 October."
+  },
+  {
+   "competitorId": "ucc",
+   "type": "machine",
+   "name": "Sanremo Zoe Compact Tall and Zoe Tall (UCC Direct)",
+   "detail": "Traditional espresso, up to 150 cups a day (Compact), 13A, purchase or lease via callback form. Listed around 22 September; sold out. Price identical to the Dr Coffee M12 Plus and probably a placeholder.",
+   "price": "£2,999.99 (sold out; likely placeholder)",
+   "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/files/ZOE-compact-black-e1765554432637.png?v=1790066121",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-machines/products/zoe-compact-tall-coffee-machine",
+   "spotted": "2026-09-25",
+   "counter": "Same machine, installed and serviced now: directly employed engineers, £185 published callout, service contracts £500–£2,000 a year, SCA training and BRITA water."
+  },
+  {
+   "competitorId": "ucc",
+   "type": "machine",
+   "name": "Sanremo D8 UCC Spec and D8 Pro (UCC Direct)",
+   "detail": "Up to 350 cups a day; 32A (UCC Spec) or 13A (Pro); 12-month warranty conditional on BRITA filtration. Listed around 23 September; sold out.",
+   "price": "£2,999.99 (sold out; likely placeholder)",
+   "image": "https://www.ucc-coffee-direct.co.uk/cdn/shop/files/D8-Pro-3gr-STD-Total-White-LED-Angle-2-e1737752691949-lg_e8107c7f-b853-4880-b42f-79dc951f2055.png?v=1790168282",
+   "source": "https://www.ucc-coffee-direct.co.uk/collections/coffee-machines/products/d8-ucc-spec-coffee-machine",
+   "spotted": "2026-09-25",
+   "counter": "Lead on availability and the service stack around the machine, not the badge — PSSR, UK-wide engineers and published contract pricing."
+  },
+  {
+   "competitorId": "selecta",
+   "type": "content",
+   "name": "'Return to the office' story series and gated employer-brand guide",
+   "detail": "Three articles dated 24 September pitching workplace refreshments to HR and people leaders as a retention and attendance lever.",
+   "price": "None",
+   "image": "https://www.selecta.com/dam/jcr:4d71ae90-5faa-4d21-8f91-2a3c737a116c/Selecta%20-%20Blog%20Image.png",
+   "source": "https://www.selecta.com/uk/en/stories/your-office-is-part-of-your-employer-brand",
+   "spotted": "2026-09-25",
+   "counter": "Speciality coffee and barista-standard equipment make the employer-brand case better than vending — and we publish the price."
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Mama Mina (Nicaragua, Mierisch, Red Pacamara cold anoxic natural)",
+   "detail": "Billed as the final Mierisch coffee of the season; FOB $6.50/lb, cup score 86.5. Now the top of the rail.",
+   "price": "£15.50 / 250g",
+   "source": "https://www.origincoffee.co.uk/products/mama-mina",
+   "spotted": "2026-09-25"
+  },
+  {
+   "competitorId": "origin",
+   "type": "coffee",
+   "name": "Butembo Natural (Rwanda, Red Bourbon)",
+   "detail": "Lake Kivu area; FOB $5.50/lb, cup score 87. Possibly the current weekly feature (unconfirmed).",
+   "price": "£13.75 / 250g",
+   "source": "https://www.origincoffee.co.uk/products/butembo-natural",
+   "spotted": "2026-09-25"
   }
  ]
 };

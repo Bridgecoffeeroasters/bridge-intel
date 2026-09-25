@@ -1,5 +1,5 @@
 window.BCR=window.BCR||{};window.BCR.comp={
- "lastUpdated": "2026-09-24",
+ "lastUpdated": "2026-09-25",
  "competitors": [
   {
    "id": "matthew-algie",
@@ -16,6 +16,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "HoReCa-weighted: cafés, hotels, education (TUCO), healthcare, workplace, contract catering, convenience and forecourt coffee-to-go.",
    "keyCustomers": "M&S, Tesco Ireland, National Trust for Scotland, Dobbies, Esquires, Hand Picked Hotels",
    "currentFocus": [
+    "No longer listed on Caffè Culture's sponsors page, having been recorded as a sponsor on 10 September — exhibitor status or a page change is possible and unconfirmed (25 Sep)",
     "Running a capped acquisition offer into convenience retail: Nisa x Smokin' Bean, first month free, first 50 eligible GB retailers, 1 September to 30 November, claimed by QR code on a printed flyer rather than online (21 Sep)",
     "A fourth, self-branded Matthew Algie range is now in the navigation — Tierra Verde, Crema and Tiki, the last triple certified Fairtrade, Organic and Rainforest Alliance — sitting alongside Peak & Wild, Piacetto and Smokin' Bean (21 Sep)",
     "The machine estate is twenty units wide across espresso, grinders and filter, fronted by a Machine Finder qualifier promising a callback within the hour; commercial effort is going into tools, print and the room rather than the website, whose journal is still empty and whose footer is still stamped 2025 (21 Sep)",
@@ -188,6 +189,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Medium-to-large workplaces, distribution centres, hospitals, transport hubs, leisure.",
    "keyCustomers": "Gym Group (case study), national enterprise accounts",
    "currentFocus": [
+    "UK content has restarted with an HR-facing 'return to the office' series (24 Sep) — three articles and a gated guide pitching refreshments as an employer-brand and retention lever, a shift in buyer from facilities to people leaders (25 Sep)",
     "Coffee is now split three ways — office, commercial hospitality and hotel. A new commercial page for cafes, restaurants and hotels names Evoca, Coffetek, Gaggia Milano, Franke, Astoria and Schaerer, and states outright that Selecta does not offer off-the-shelf pricing (21 Sep)",
     "The office range has roughly doubled from nine models to seventeen, and a Starbucks-branded Franke A600 has entered it — the only machine on the page tagged by brand rather than category. Astoria's traditional machines have moved out of the office range and onto the new hospitality page (21 Sep)",
     "The hotel page that was hidden behind noindex on 8 September is now public, indexed and linked, claiming over 3,000 hotels served. Execution is ragged, though: UK enquiry CTAs resolve to Irish /ie/en/ URLs and the refurbished block still has a dead link over a URL that redirects away (21 Sep)",
@@ -274,6 +276,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Supermarket private label, national chains, hotels, contract and university catering (TUCO).",
    "keyCustomers": "Reported historically: Tesco, Waitrose private label; chain accounts (verify currency)",
    "currentFocus": [
+    "Sanremo has reached UCC's own trade shop: Zoe Compact Tall, Zoe Tall, D8 UCC Spec and D8 Pro listed around 22–23 September with purchase-or-lease callback forms, all sold out and all at a £2,999.99 that looks copied from the Dr Coffee M12 Plus. The February partnership is now a visible route to market in Bridge's equipment territory (25 Sep)",
     "The supply problem has moved rather than cleared: the Ueshima restock is holding, but Grand Café Fair Trade Beans (£83.69), Lyons No.4 R&G (£17.96) and the Bunn airpot (£56.00) are now out of stock, and the Grand Café temporary packaging notice still has no end date (21 Sep)",
     "Matcha is now a priced proposition, not just a banner — Ueshima Matcha Syrup 1L at £27.50, sold on 60-plus servings and 'under 50p per serving', leading the shop homepage carousel (21 Sep)",
     "The Dr Coffee M12 Plus listing has gained a ten-question FAQ that steers buyers onto Ueshima beans — machine placement used to pull coffee through, on the product page itself. Metadata price has been corrected down to £2,999.99 to match the grid, but the machine is still out of stock and the product page body still shows no price (21 Sep)",
@@ -444,6 +447,7 @@ window.BCR=window.BCR||{};window.BCR.comp={
    "targets": "Speciality cafés, restaurants, hotels, offices (dedicated subscriptions), consumers, institutions (British Library).",
    "keyCustomers": "British Library flagship; café estate in Cornwall, Bristol, London, Edinburgh",
    "currentFocus": [
+    "The rail has refilled rather than contracted: Mama Mina, billed as the final Mierisch lot of the season, at £15.50 and Butembo Natural (Rwanda) at £13.75, while Umalila leaves the listing. The discounted Sage, X54 and Iced Black cans are all 'Coming Soon', so no discount is currently buyable (25 Sep)",
     "The 15-year Mierisch anniversary range has cleared the site entirely inside three weeks of launch — La Huella Natural, La Huella Dwarf Gesha and Chilamate have all left, following Mariposa and El Paseo. The range ceiling has fallen from £20.70 to £15.75 (21 Sep)",
     "Sail freight has been promoted from a lot-level note to a named sourcing programme in the main navigation, with Caxambu as the first badged coffee; Arsosala (Ethiopia) joins the rail at £14.70 with FOB $4.92/lb, +173% on the Fairtrade minimum and a cup score of 88 (21 Sep)",
     "Transparency is doing the selling and it is the strongest in the tracked set — FOB, differential and cup score on every lot — but the publishing engine behind it has stalled: no journal post since 30 July, and the Fellow giveaway winner is nineteen days past its own announcement date (21 Sep)",

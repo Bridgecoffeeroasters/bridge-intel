@@ -786,6 +786,23 @@ window.BCR=window.BCR||{};window.BCR.price={
      "change": "New listing — no prior price. Clifton's most expensive 250g bag, £1.00 above Cadence, Finca Las Flores and the decafs, and level with Ombligon's 120g price. The £11–£14 standard rail is unchanged for a third month."
     }
    ]
+  },
+  {
+   "date": "2026-09-25",
+   "entries": [
+    {
+     "competitorId": "ucc",
+     "item": "Sanremo Zoe Compact Tall, Zoe Tall, D8 UCC Spec, D8 Pro (UCC Direct)",
+     "price": "£2,999.99 each (sold out)",
+     "change": "First prices recorded — new listings. Identical to the Dr Coffee M12 Plus across all four machines of very different specification, so almost certainly a placeholder rather than a real price."
+    },
+    {
+     "competitorId": "origin",
+     "item": "Range ceiling (bagged coffee)",
+     "price": "£15.50 / 250g (Mama Mina)",
+     "change": "−£0.25 vs £15.75 (Umalila) on 21 Sep, as Umalila leaves the collection listing. No price moved on any continuing line."
+    }
+   ]
   }
  ]
 };
